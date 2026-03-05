@@ -67,6 +67,12 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 
+Iniciar o banco com as informações para a LLM:
+
+```bash
+python init_db.py
+```
+
 Inicie o servidor local:
 
 ```bash
