@@ -1,0 +1,40 @@
+LEAGUE OF LEGENDS ESPORTS — BASE DE CONHECIMENTO
+
+=== VISÃO GERAL COMPETITIVA ===
+League of Legends (LoL) é um jogo eletrônico do gênero MOBA (Multiplayer Online Battle Arena), desenvolvido pela Riot Games. Sua cena competitiva profissional é uma das maiores do mundo dos eSports, com ligas profissionais em todas as regiões principais e campeonatos globais anuais.
+
+=== CALENDÁRIO COMPETITIVO 2026 ===
+* O First Stand Tournament 2026 será realizado em São Paulo, Brasil, de 16 a 22 de março de 2026, com 8 equipes internacionais disputando o título. :contentReference[oaicite:1]{index=1}
+* O Mid-Season Invitational (MSI) 2026 será disputado em Daejeon, na Coreia do Sul. :contentReference[oaicite:2]{index=2}
+* O Campeonato Mundial 2026 (Worlds 2026) será sediado nos Estados Unidos, principalmente no Texas (EUA), com a final programada para Nova York. :contentReference[oaicite:3]{index=3}
+
+=== TORNEIOS INTERNACIONAIS ===
+* **World Championship** — maior evento anual de LoL Esports; em 2025 a final foi entre T1 e KT Rolster, vencida por T1 após série 3–2. :contentReference[oaicite:4]{index=4}
+* **First Stand Tournament** — evento internacional de abertura da temporada; em 2025 foi vencido por Hanwha Life Esports e em 2026 será no Brasil. :contentReference[oaicite:5]{index=5}
+* **Mid-Season Invitational (MSI)** — torneio intermediário entre os splits; MSI 2026 terá Gen.G como um dos participantes. :contentReference[oaicite:6]{index=6}
+
+=== FORMATOS COMPETITIVOS ===
+* O calendário competitivo foi reorganizado em splits e eventos internacionais que substituem parte da antiga estrutura tradicional. :contentReference[oaicite:7]{index=7}
+* O Worlds tradicionalmente reúne representantes das principais ligas regionais: LCK (Coreia), LPL (China), LEC (Europa), LCS (América do Norte), além de vagas adicionais definidas por performance e por resultados em eventos como o MSI. :contentReference[oaicite:8]{index=8}
+
+=== LIGAS REGIONAIS PRINCIPAIS ===
+* **LCK (Coreia do Sul)** — tradicionalmente uma das ligas mais fortes do mundo; tem dominado os Mundiais recentes. :contentReference[oaicite:9]{index=9}
+* **LPL (China)** — principal liga da China, com grande presença global. :contentReference[oaicite:10]{index=10}
+* **LEC (Europa)** — liga europeia, com equipes como G2 Esports e Movistar KOI aparecendo no top internacional. :contentReference[oaicite:11]{index=11}
+* **LCS (América do Norte)** — liga norte-americana que regressa com estrutura renovada em 2026. :contentReference[oaicite:12]{index=12}
+* **CBLOL (Brasil)** — a liga brasileira voltou ao formato regional em 2026 após um período de reestruturação. :contentReference[oaicite:13]{index=13}
+
+=== DADOS HISTÓRICOS & CONTEXTO ===
+* O T1 é um dos times mais icônicos da história de LoL Esports, conquistando inúmeras finais mundiais e sendo um dos maiores dominadores da cena competitiva. :contentReference[oaicite:14]{index=14}
+* A introdução do First Stand e a nova estrutura do calendário competitivo representam uma evolução na organização dos eSports de LoL a partir de 2025/2026. :contentReference[oaicite:15]{index=15}
+* O Worlds 2026 expande a tradição do campeonato ao usar um modelo unificado e reduzido de cidades sede, melhorando logística e experiência do público. :contentReference[oaicite:16]{index=16}
+
+=== TIMES IMPORTANTES NO ESPORTE ELETRÔNICO ===
+* T1 (Coreia) — equipe multicampeã mundial. :contentReference[oaicite:17]{index=17}
+* KT Rolster (Coreia) — finalista do Worlds 2025. :contentReference[oaicite:18]{index=18}
+* G2 Esports (Europa) — tradicional força europeia com impacto no cenário competitivo. :contentReference[oaicite:19]{index=19}
+* Hanwha Life Esports — campeão do First Stand 2025. :contentReference[oaicite:20]{index=20}
+* Time brasileiros (LOUD, RED Canids, Vivo Keyd) — presentes no CBLOL 2026. :contentReference[oaicite:21]{index=21}
+
+=== CONCLUSÕES E TENDÊNCIAS ===
+O cenário competitivo de **League of Legends** evolui constantemente com novas estruturas regionais, eventos internacionais e formatos que equilibram competição local com impacto global. A temporada 2026 continua essa tendência com novos torneios e locais chave como Brasil e Estados Unidos no calendário global.
