@@ -1,0 +1,3985 @@
+=== PARTIDA ===
+MatchID: 6699
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140142?gameHash=6c561005b197d8bc
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: TSM
+Vencedor: FNC
+Placar: FNC: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.025 minutos, FNC eliminou DRAGON
+Aos 12.661 minutos, FNC eliminou DRAGON
+Aos 29.692 minutos, FNC eliminou BARON_NASHOR
+Aos 21.995 minutos, FNC eliminou BARON_NASHOR
+Aos 25.404 minutos, TSM eliminou DRAGON
+
+=== ABATES ===
+Aos 3.954 minutos, FNC Reignover eliminou TSM Dyrus
+Aos 6.905 minutos, FNC Huni eliminou TSM Dyrus
+Aos 9.302 minutos, FNC Febiven eliminou TSM Bjergsen
+Aos 10.493 minutos, FNC YellOwStaR eliminou TSM Bjergsen
+Aos 14.93 minutos, FNC Febiven eliminou TSM Lustboy
+Aos 15.203 minutos, FNC Huni eliminou TSM Bjergsen
+Aos 24.058 minutos, FNC Reignover eliminou TSM WildTurtle
+Aos 24.489 minutos, FNC Steeelback eliminou TSM Dyrus
+Aos 26.125 minutos, FNC Huni eliminou TSM Lustboy
+Aos 26.214 minutos, FNC Febiven eliminou TSM WildTurtle
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6700
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140158?gameHash=2d12668f7e43d99f
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: BJK
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: BJK: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.961 minutos, SKT eliminou DRAGON
+Aos 8.054 minutos, SKT eliminou DRAGON
+Aos 15.148 minutos, SKT eliminou DRAGON
+Aos 21.593 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 2.704 minutos, BJK Dumbledoge eliminou SKT Faker
+Aos 4.778 minutos, BJK Nardeus eliminou SKT Bengi
+Aos 14.97 minutos, BJK Thaldrin eliminou SKT Wolf
+Aos 19.392 minutos, BJK Nardeus eliminou SKT Bengi
+Aos 4.761 minutos, SKT MaRin eliminou BJK Nardeus
+Aos 5.481 minutos, SKT MaRin eliminou BJK Dumbledoge
+Aos 5.604 minutos, SKT Bengi eliminou BJK Energy
+Aos 5.686 minutos, SKT Bengi eliminou BJK Theokoles
+Aos 9.126 minutos, SKT MaRin eliminou BJK Dumbledoge
+Aos 9.641 minutos, SKT Faker eliminou BJK Energy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6701
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140166?gameHash=ee88706a1f2fd51e
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: EDG
+Time Vermelho: AHQ
+Vencedor: EDG
+Placar: EDG: 1 x 0 :AHQ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.441 minutos, EDG eliminou DRAGON
+Aos 22.54 minutos, EDG eliminou DRAGON
+Aos 28.801 minutos, EDG eliminou DRAGON
+Aos 31.992 minutos, EDG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.901 minutos, EDG Meiko eliminou AHQ Mountain
+Aos 9.96 minutos, EDG Koro1 eliminou AHQ AN
+Aos 9.979 minutos, EDG Clearlove eliminou AHQ Albis
+Aos 10.158 minutos, EDG Koro1 eliminou AHQ Ziv
+Aos 14.933 minutos, EDG Deft eliminou AHQ Albis
+Aos 14.987 minutos, EDG Deft eliminou AHQ AN
+Aos 15.164 minutos, EDG Koro1 eliminou AHQ westdoor
+Aos 22.961 minutos, EDG Koro1 eliminou AHQ AN
+Aos 22.992 minutos, EDG Clearlove eliminou AHQ Albis
+Aos 23.044 minutos, EDG Koro1 eliminou AHQ Mountain
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6702
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140180?gameHash=339dc7152b7d9c5b
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: BJK
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: BJK: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.94 minutos, TSM eliminou DRAGON
+Aos 20.32 minutos, TSM eliminou DRAGON
+Aos 23.3 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 16.507 minutos, BJK Nardeus eliminou TSM Bjergsen
+Aos 11.164 minutos, TSM Santorin eliminou BJK Dumbledoge
+Aos 13.291 minutos, TSM WildTurtle eliminou BJK Dumbledoge
+Aos 13.367 minutos, TSM Bjergsen eliminou BJK Nardeus
+Aos 16.519 minutos, TSM Santorin eliminou BJK Thaldrin
+Aos 23.416 minutos, TSM Bjergsen eliminou BJK Theokoles
+Aos 23.622 minutos, TSM WildTurtle eliminou BJK Nardeus
+Aos 23.647 minutos, TSM Santorin eliminou BJK Dumbledoge
+Aos 23.703 minutos, TSM Dyrus eliminou BJK Energy
+Aos 25.685 minutos, TSM WildTurtle eliminou BJK Thaldrin
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6703
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140194?gameHash=87f839191c5af9e2
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: AHQ
+Vencedor: AHQ
+Placar: FNC: 0 x 1 :AHQ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.882 minutos, AHQ eliminou DRAGON
+Aos 19.562 minutos, AHQ eliminou DRAGON
+Aos 12.926 minutos, AHQ eliminou DRAGON
+Aos 24.482 minutos, AHQ eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.764 minutos, FNC Reignover eliminou AHQ westdoor
+Aos 5.854 minutos, FNC YellOwStaR eliminou AHQ Mountain
+Aos 6.191 minutos, FNC Reignover eliminou AHQ Albis
+Aos 7.611 minutos, FNC Huni eliminou AHQ Albis
+Aos 11.781 minutos, FNC Huni eliminou AHQ Albis
+Aos 1.032 minutos, AHQ Albis eliminou FNC Steeelback
+Aos 3.414 minutos, AHQ AN eliminou FNC Steeelback
+Aos 5.78 minutos, AHQ Albis eliminou FNC Steeelback
+Aos 5.988 minutos, AHQ Albis eliminou FNC YellOwStaR
+Aos 6.256 minutos, AHQ westdoor eliminou FNC Reignover
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6704
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140198?gameHash=f62231b4c2ffa1a5
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: EDG
+Vencedor: SKT
+Placar: SKT: 1 x 0 :EDG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.996 minutos, SKT eliminou DRAGON
+Aos 31.479 minutos, SKT eliminou DRAGON
+Aos 24.128 minutos, SKT eliminou DRAGON
+Aos 17.543 minutos, SKT eliminou DRAGON
+Aos 21.573 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.342 minutos, SKT MaRin eliminou EDG Meiko
+Aos 7.576 minutos, SKT MaRin eliminou EDG Koro1
+Aos 10.341 minutos, SKT Bang eliminou EDG Deft
+Aos 20.235 minutos, SKT MaRin eliminou EDG Koro1
+Aos 20.843 minutos, SKT Wolf eliminou EDG Clearlove
+Aos 20.91 minutos, SKT Easyhoon eliminou EDG Deft
+Aos 22.508 minutos, SKT MaRin eliminou EDG Meiko
+Aos 30.471 minutos, SKT Bang eliminou EDG PawN
+Aos 30.636 minutos, SKT Easyhoon eliminou EDG Meiko
+Aos 30.709 minutos, SKT Bang eliminou EDG Koro1
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6705
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140208?gameHash=0e3392f0f72f5f94
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: AHQ
+Time Vermelho: BJK
+Vencedor: AHQ
+Placar: AHQ: 1 x 0 :BJK
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 33.378 minutos, AHQ eliminou DRAGON
+Aos 27.238 minutos, AHQ eliminou DRAGON
+Aos 23.057 minutos, AHQ eliminou BARON_NASHOR
+Aos 14.276 minutos, BJK eliminou DRAGON
+Aos 20.881 minutos, BJK eliminou DRAGON
+Aos 7.295 minutos, BJK eliminou DRAGON
+
+=== ABATES ===
+Aos 3.337 minutos, AHQ Albis eliminou BJK Dumbledoge
+Aos 6.735 minutos, AHQ Ziv eliminou BJK Thaldrin
+Aos 8.529 minutos, AHQ westdoor eliminou BJK Thaldrin
+Aos 8.759 minutos, AHQ Ziv eliminou BJK Energy
+Aos 11.483 minutos, AHQ Mountain eliminou BJK Thaldrin
+Aos 16.613 minutos, AHQ westdoor eliminou BJK Dumbledoge
+Aos 16.736 minutos, AHQ Ziv eliminou BJK Theokoles
+Aos 16.841 minutos, AHQ westdoor eliminou BJK Thaldrin
+Aos 16.906 minutos, AHQ AN eliminou BJK Energy
+Aos 19.158 minutos, AHQ Mountain eliminou BJK Energy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6706
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140213?gameHash=84c7a46c760b3948
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: TSM
+Vencedor: SKT
+Placar: SKT: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 18.078 minutos, SKT eliminou DRAGON
+Aos 24.31 minutos, SKT eliminou DRAGON
+Aos 11.787 minutos, SKT eliminou DRAGON
+Aos 22.902 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.446 minutos, SKT Bengi eliminou TSM Dyrus
+Aos 5.237 minutos, SKT MaRin eliminou TSM Dyrus
+Aos 8.286 minutos, SKT Faker eliminou TSM Santorin
+Aos 8.711 minutos, SKT Wolf eliminou TSM Lustboy
+Aos 8.837 minutos, SKT MaRin eliminou TSM WildTurtle
+Aos 10.581 minutos, SKT Faker eliminou TSM Bjergsen
+Aos 10.98 minutos, SKT Bengi eliminou TSM Lustboy
+Aos 11.147 minutos, SKT Bengi eliminou TSM WildTurtle
+Aos 11.19 minutos, SKT Faker eliminou TSM Santorin
+Aos 13.35 minutos, SKT Faker eliminou TSM Lustboy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6707
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140244?gameHash=a4aa01f1f8e9326a
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: EDG
+Time Vermelho: FNC
+Vencedor: EDG
+Placar: EDG: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.616 minutos, EDG eliminou DRAGON
+Aos 16.419 minutos, EDG eliminou DRAGON
+Aos 9.846 minutos, EDG eliminou DRAGON
+Aos 28.878 minutos, EDG eliminou DRAGON
+Aos 26.574 minutos, EDG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 2.724 minutos, EDG Clearlove eliminou FNC YellOwStaR
+Aos 3.709 minutos, EDG Koro1 eliminou FNC Reignover
+Aos 5.838 minutos, EDG Koro1 eliminou FNC Huni
+Aos 6.441 minutos, EDG Deft eliminou FNC YellOwStaR
+Aos 6.537 minutos, EDG PawN eliminou FNC Febiven
+Aos 6.693 minutos, EDG Deft eliminou FNC Huni
+Aos 7.092 minutos, EDG Deft eliminou FNC Steeelback
+Aos 9.154 minutos, EDG Deft eliminou FNC YellOwStaR
+Aos 10.817 minutos, EDG Clearlove eliminou FNC Febiven
+Aos 11.445 minutos, EDG Koro1 eliminou FNC Reignover
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6708
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140250?gameHash=6911cc548a29327f
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: AHQ
+Vencedor: AHQ
+Placar: TSM: 0 x 1 :AHQ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 4.359 minutos, AHQ eliminou DRAGON
+Aos 11.275 minutos, AHQ eliminou DRAGON
+Aos 23.748 minutos, AHQ eliminou DRAGON
+Aos 17.587 minutos, AHQ eliminou DRAGON
+Aos 24.227 minutos, AHQ eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 14.548 minutos, TSM WildTurtle eliminou AHQ Ziv
+Aos 28.336 minutos, TSM WildTurtle eliminou AHQ AN
+Aos 28.442 minutos, TSM Bjergsen eliminou AHQ Ziv
+Aos 6.514 minutos, AHQ Mountain eliminou TSM Dyrus
+Aos 9.799 minutos, AHQ Mountain eliminou TSM WildTurtle
+Aos 11.468 minutos, AHQ AN eliminou TSM Bjergsen
+Aos 14.557 minutos, AHQ AN eliminou TSM Dyrus
+Aos 14.618 minutos, AHQ AN eliminou TSM WildTurtle
+Aos 14.723 minutos, AHQ AN eliminou TSM Bjergsen
+Aos 21.041 minutos, AHQ Albis eliminou TSM Bjergsen
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6709
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140256?gameHash=cc4ce32a0515055a
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: EDG
+Time Vermelho: BJK
+Vencedor: EDG
+Placar: EDG: 1 x 0 :BJK
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 8.606 minutos, EDG eliminou DRAGON
+Aos 21.267 minutos, EDG eliminou DRAGON
+Aos 14.788 minutos, EDG eliminou DRAGON
+Aos 20.752 minutos, EDG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.456 minutos, EDG Clearlove eliminou BJK Energy
+Aos 6.398 minutos, EDG Deft eliminou BJK Dumbledoge
+Aos 6.529 minutos, EDG Deft eliminou BJK Nardeus
+Aos 6.632 minutos, EDG Meiko eliminou BJK Theokoles
+Aos 6.669 minutos, EDG Koro1 eliminou BJK Thaldrin
+Aos 7.961 minutos, EDG Deft eliminou BJK Nardeus
+Aos 8.011 minutos, EDG Deft eliminou BJK Dumbledoge
+Aos 8.473 minutos, EDG Koro1 eliminou BJK Thaldrin
+Aos 8.857 minutos, EDG Deft eliminou BJK Nardeus
+Aos 9.735 minutos, EDG Koro1 eliminou BJK Thaldrin
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6710
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140261?gameHash=9c6cb7315692d5e6
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: FNC
+Vencedor: SKT
+Placar: SKT: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.781 minutos, SKT eliminou DRAGON
+Aos 19.442 minutos, SKT eliminou DRAGON
+Aos 4.3 minutos, SKT eliminou DRAGON
+Aos 33.516 minutos, SKT eliminou DRAGON
+Aos 39.734 minutos, SKT eliminou BARON_NASHOR
+Aos 39.945 minutos, FNC eliminou DRAGON
+Aos 13.284 minutos, FNC eliminou DRAGON
+Aos 32.126 minutos, FNC eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 11.784 minutos, SKT Faker eliminou FNC Reignover
+Aos 16.845 minutos, SKT Bang eliminou FNC Huni
+Aos 16.971 minutos, SKT Faker eliminou FNC Febiven
+Aos 31.157 minutos, SKT MaRin eliminou FNC YellOwStaR
+Aos 31.25 minutos, SKT MaRin eliminou FNC Steeelback
+Aos 31.491 minutos, SKT Bang eliminou FNC Febiven
+Aos 32.223 minutos, SKT Faker eliminou FNC Reignover
+Aos 32.3 minutos, SKT MaRin eliminou FNC YellOwStaR
+Aos 35.781 minutos, SKT Faker eliminou FNC Steeelback
+Aos 39.103 minutos, SKT Bang eliminou FNC Huni
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6711
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140267?gameHash=aa538b65465c2326
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: EDG
+Vencedor: EDG
+Placar: TSM: 0 x 1 :EDG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.426 minutos, EDG eliminou DRAGON
+Aos 19.31 minutos, EDG eliminou DRAGON
+Aos 6.213 minutos, EDG eliminou DRAGON
+Aos 20.222 minutos, EDG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 10.856 minutos, TSM Dyrus eliminou EDG Deft
+Aos 13.267 minutos, TSM WildTurtle eliminou EDG Deft
+Aos 13.333 minutos, TSM Santorin eliminou EDG Meiko
+Aos 23.298 minutos, TSM Dyrus eliminou EDG PawN
+Aos 23.398 minutos, TSM Santorin eliminou EDG Deft
+Aos 23.779 minutos, TSM Lustboy eliminou EDG Meiko
+Aos 24.086 minutos, TSM Santorin eliminou EDG Koro1
+Aos 25.208 minutos, TSM WildTurtle eliminou EDG Clearlove
+Aos 25.565 minutos, TSM WildTurtle eliminou EDG PawN
+Aos 3.699 minutos, EDG Deft eliminou TSM Dyrus
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6712
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140273?gameHash=86edc229be693d1f
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: BJK
+Vencedor: FNC
+Placar: FNC: 1 x 0 :BJK
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.458 minutos, FNC eliminou DRAGON
+Aos 16.955 minutos, FNC eliminou DRAGON
+Aos 21.844 minutos, FNC eliminou BARON_NASHOR
+Aos 24.912 minutos, BJK eliminou DRAGON
+
+=== ABATES ===
+Aos 4.558 minutos, FNC Reignover eliminou BJK Energy
+Aos 4.605 minutos, FNC Reignover eliminou BJK Thaldrin
+Aos 6.623 minutos, FNC Steeelback eliminou BJK Dumbledoge
+Aos 6.996 minutos, FNC Huni eliminou BJK Thaldrin
+Aos 9.855 minutos, FNC Steeelback eliminou BJK Dumbledoge
+Aos 9.973 minutos, FNC Huni eliminou BJK Nardeus
+Aos 11.923 minutos, FNC Febiven eliminou BJK Thaldrin
+Aos 11.949 minutos, FNC Reignover eliminou BJK Nardeus
+Aos 12.038 minutos, FNC Steeelback eliminou BJK Dumbledoge
+Aos 12.114 minutos, FNC Steeelback eliminou BJK Theokoles
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6713
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140280?gameHash=3467de2c84b0e6cd
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: AHQ
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: AHQ: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 32.399 minutos, AHQ eliminou DRAGON
+Aos 24.495 minutos, AHQ eliminou BARON_NASHOR
+Aos 10.443 minutos, SKT eliminou DRAGON
+Aos 25.341 minutos, SKT eliminou DRAGON
+Aos 38.902 minutos, SKT eliminou DRAGON
+Aos 18.587 minutos, SKT eliminou DRAGON
+Aos 33.233 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.895 minutos, AHQ AN eliminou SKT Bang
+Aos 6.426 minutos, AHQ westdoor eliminou SKT Easyhoon
+Aos 8.519 minutos, AHQ Ziv eliminou SKT Bang
+Aos 8.598 minutos, AHQ Mountain eliminou SKT Wolf
+Aos 12.025 minutos, AHQ AN eliminou SKT MaRin
+Aos 12.082 minutos, AHQ Albis eliminou SKT Bengi
+Aos 21.816 minutos, AHQ Ziv eliminou SKT Bang
+Aos 21.904 minutos, AHQ Ziv eliminou SKT Wolf
+Aos 21.909 minutos, AHQ AN eliminou SKT Bengi
+Aos 23.9 minutos, AHQ AN eliminou SKT MaRin
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6714
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140302?gameHash=5b1bcbd84bce75c2
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: FNC
+Vencedor: SKT
+Placar: SKT: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.336 minutos, SKT eliminou DRAGON
+Aos 23.085 minutos, SKT eliminou DRAGON
+Aos 29.526 minutos, SKT eliminou DRAGON
+Aos 28.844 minutos, SKT eliminou BARON_NASHOR
+Aos 16.684 minutos, FNC eliminou DRAGON
+
+=== ABATES ===
+Aos 5.715 minutos, SKT Wolf eliminou FNC YellOwStaR
+Aos 6.611 minutos, SKT MaRin eliminou FNC Reignover
+Aos 9.617 minutos, SKT Bengi eliminou FNC Febiven
+Aos 9.814 minutos, SKT Faker eliminou FNC Huni
+Aos 22.262 minutos, SKT Bang eliminou FNC Reignover
+Aos 22.324 minutos, SKT Bang eliminou FNC YellOwStaR
+Aos 22.36 minutos, SKT Bang eliminou FNC Steeelback
+Aos 25.422 minutos, SKT Bang eliminou FNC Febiven
+Aos 25.429 minutos, SKT MaRin eliminou FNC Reignover
+Aos 25.67 minutos, SKT MaRin eliminou FNC Huni
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6715
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140304?gameHash=39af6fd7e5a6371a
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: SKT
+Vencedor: FNC
+Placar: FNC: 1 x 0 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.327 minutos, FNC eliminou DRAGON
+Aos 26.19 minutos, FNC eliminou BARON_NASHOR
+Aos 33.708 minutos, FNC eliminou BARON_NASHOR
+Aos 12.474 minutos, SKT eliminou DRAGON
+Aos 26.793 minutos, SKT eliminou DRAGON
+Aos 34.349 minutos, SKT eliminou DRAGON
+
+=== ABATES ===
+Aos 3.538 minutos, FNC Steeelback eliminou SKT Wolf
+Aos 5.76 minutos, FNC Huni eliminou SKT Bengi
+Aos 6.419 minutos, FNC Huni eliminou SKT Wolf
+Aos 8.821 minutos, FNC Huni eliminou SKT Faker
+Aos 8.925 minutos, FNC Huni eliminou SKT MaRin
+Aos 10.757 minutos, FNC Steeelback eliminou SKT Bang
+Aos 11.257 minutos, FNC Steeelback eliminou SKT Bengi
+Aos 11.3 minutos, FNC Steeelback eliminou SKT Wolf
+Aos 11.352 minutos, FNC Reignover eliminou SKT MaRin
+Aos 19.014 minutos, FNC Febiven eliminou SKT Bengi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6716
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140305?gameHash=6c4d638ba1f56d45
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: FNC
+Vencedor: SKT
+Placar: SKT: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.282 minutos, SKT eliminou DRAGON
+Aos 21.509 minutos, SKT eliminou DRAGON
+Aos 28.531 minutos, SKT eliminou BARON_NASHOR
+Aos 28.32 minutos, FNC eliminou DRAGON
+Aos 34.464 minutos, FNC eliminou DRAGON
+Aos 8.709 minutos, FNC eliminou DRAGON
+
+=== ABATES ===
+Aos 6.953 minutos, SKT MaRin eliminou FNC Reignover
+Aos 7.987 minutos, SKT Bang eliminou FNC Huni
+Aos 14.408 minutos, SKT MaRin eliminou FNC Huni
+Aos 19.341 minutos, SKT Bang eliminou FNC YellOwStaR
+Aos 22.167 minutos, SKT MaRin eliminou FNC Reignover
+Aos 27.879 minutos, SKT Bang eliminou FNC Febiven
+Aos 27.929 minutos, SKT Bang eliminou FNC Reignover
+Aos 32.985 minutos, SKT Bang eliminou FNC Huni
+Aos 33.234 minutos, SKT Faker eliminou FNC Reignover
+Aos 35.038 minutos, SKT Bang eliminou FNC Huni
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6717
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140309?gameHash=d5e95dfc24579d47
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: SKT
+Vencedor: FNC
+Placar: FNC: 1 x 0 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 32.654 minutos, FNC eliminou DRAGON
+Aos 26.131 minutos, FNC eliminou DRAGON
+Aos 19.842 minutos, FNC eliminou DRAGON
+Aos 31.778 minutos, FNC eliminou BARON_NASHOR
+Aos 21.784 minutos, FNC eliminou BARON_NASHOR
+Aos 7.121 minutos, SKT eliminou DRAGON
+Aos 13.566 minutos, SKT eliminou DRAGON
+
+=== ABATES ===
+Aos 4.619 minutos, FNC YellOwStaR eliminou SKT Bang
+Aos 5.054 minutos, FNC Reignover eliminou SKT MaRin
+Aos 6.611 minutos, FNC Steeelback eliminou SKT MaRin
+Aos 9.024 minutos, FNC Reignover eliminou SKT Bengi
+Aos 9.948 minutos, FNC Reignover eliminou SKT MaRin
+Aos 10.398 minutos, FNC Reignover eliminou SKT Bengi
+Aos 10.523 minutos, FNC Reignover eliminou SKT Wolf
+Aos 11.944 minutos, FNC Steeelback eliminou SKT Bang
+Aos 12.884 minutos, FNC Huni eliminou SKT MaRin
+Aos 13.717 minutos, FNC Steeelback eliminou SKT Bengi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6718
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140311?gameHash=72d57562ecaee789
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: FNC
+Vencedor: SKT
+Placar: SKT: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.265 minutos, SKT eliminou DRAGON
+Aos 6.772 minutos, SKT eliminou DRAGON
+Aos 21.514 minutos, SKT eliminou DRAGON
+Aos 35.867 minutos, SKT eliminou DRAGON
+Aos 20.542 minutos, SKT eliminou BARON_NASHOR
+Aos 37.328 minutos, SKT eliminou BARON_NASHOR
+Aos 28.353 minutos, SKT eliminou BARON_NASHOR
+Aos 15.136 minutos, FNC eliminou DRAGON
+
+=== ABATES ===
+Aos 3.3 minutos, SKT Bengi eliminou FNC Reignover
+Aos 10.771 minutos, SKT MaRin eliminou FNC Reignover
+Aos 12.497 minutos, SKT Wolf eliminou FNC Huni
+Aos 12.739 minutos, SKT Faker eliminou FNC YellOwStaR
+Aos 20.831 minutos, SKT Bengi eliminou FNC Huni
+Aos 23.343 minutos, SKT Faker eliminou FNC Reignover
+Aos 24.605 minutos, SKT Faker eliminou FNC Huni
+Aos 28.138 minutos, SKT Wolf eliminou FNC Huni
+Aos 28.514 minutos, SKT MaRin eliminou FNC YellOwStaR
+Aos 33.063 minutos, SKT Faker eliminou FNC Reignover
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6719
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140312?gameHash=4e664ad08922d8f0
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: EDG
+Time Vermelho: AHQ
+Vencedor: EDG
+Placar: EDG: 1 x 0 :AHQ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.756 minutos, EDG eliminou DRAGON
+Aos 41.318 minutos, EDG eliminou DRAGON
+Aos 21.196 minutos, EDG eliminou DRAGON
+Aos 25.922 minutos, EDG eliminou BARON_NASHOR
+Aos 34.782 minutos, EDG eliminou BARON_NASHOR
+Aos 35.23 minutos, AHQ eliminou DRAGON
+Aos 15.025 minutos, AHQ eliminou DRAGON
+
+=== ABATES ===
+Aos 3.028 minutos, EDG Clearlove eliminou AHQ Ziv
+Aos 3.612 minutos, EDG Deft eliminou AHQ Ziv
+Aos 3.689 minutos, EDG Deft eliminou AHQ Mountain
+Aos 10.295 minutos, EDG Deft eliminou AHQ Albis
+Aos 14.2 minutos, EDG PawN eliminou AHQ westdoor
+Aos 16.798 minutos, EDG PawN eliminou AHQ Mountain
+Aos 19.197 minutos, EDG PawN eliminou AHQ Ziv
+Aos 21.915 minutos, EDG Koro1 eliminou AHQ AN
+Aos 26.011 minutos, EDG PawN eliminou AHQ Mountain
+Aos 26.058 minutos, EDG Koro1 eliminou AHQ westdoor
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6720
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140317?gameHash=dba1e4e135e23473
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: AHQ
+Time Vermelho: EDG
+Vencedor: EDG
+Placar: AHQ: 0 x 1 :EDG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.374 minutos, AHQ eliminou DRAGON
+Aos 4.299 minutos, AHQ eliminou DRAGON
+Aos 28.088 minutos, EDG eliminou DRAGON
+Aos 11.223 minutos, EDG eliminou DRAGON
+Aos 27.031 minutos, EDG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.29 minutos, AHQ westdoor eliminou EDG PawN
+Aos 12.108 minutos, AHQ AN eliminou EDG Koro1
+Aos 13.774 minutos, AHQ westdoor eliminou EDG Meiko
+Aos 13.84 minutos, AHQ Ziv eliminou EDG Koro1
+Aos 13.876 minutos, AHQ Mountain eliminou EDG Clearlove
+Aos 13.977 minutos, AHQ Mountain eliminou EDG PawN
+Aos 18.053 minutos, AHQ Albis eliminou EDG Deft
+Aos 18.403 minutos, AHQ AN eliminou EDG Meiko
+Aos 18.435 minutos, AHQ AN eliminou EDG Koro1
+Aos 19.951 minutos, AHQ westdoor eliminou EDG Deft
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6721
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140318?gameHash=4aa1b8936c3ad6ca
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: EDG
+Time Vermelho: AHQ
+Vencedor: EDG
+Placar: EDG: 1 x 0 :AHQ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.281 minutos, EDG eliminou DRAGON
+Aos 23.494 minutos, EDG eliminou DRAGON
+Aos 21.869 minutos, EDG eliminou BARON_NASHOR
+Aos 8.515 minutos, AHQ eliminou DRAGON
+
+=== ABATES ===
+Aos 2.028 minutos, EDG Deft eliminou AHQ AN
+Aos 5.184 minutos, EDG Koro1 eliminou AHQ Ziv
+Aos 8.078 minutos, EDG PawN eliminou AHQ Ziv
+Aos 11.341 minutos, EDG Koro1 eliminou AHQ Ziv
+Aos 12.122 minutos, EDG Koro1 eliminou AHQ Mountain
+Aos 12.26 minutos, EDG Koro1 eliminou AHQ Albis
+Aos 12.368 minutos, EDG Koro1 eliminou AHQ AN
+Aos 13.74 minutos, EDG Clearlove eliminou AHQ Ziv
+Aos 13.816 minutos, EDG Clearlove eliminou AHQ Mountain
+Aos 14.469 minutos, EDG Koro1 eliminou AHQ Albis
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6722
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001130414?gameHash=3f7e67f6b14eefd6
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: EDG
+Vencedor: SKT
+Placar: SKT: 1 x 0 :EDG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 33.348 minutos, SKT eliminou DRAGON
+Aos 26.883 minutos, SKT eliminou DRAGON
+Aos 36.888 minutos, SKT eliminou BARON_NASHOR
+Aos 25.876 minutos, SKT eliminou BARON_NASHOR
+Aos 18.209 minutos, EDG eliminou DRAGON
+Aos 11.276 minutos, EDG eliminou DRAGON
+
+=== ABATES ===
+Aos 3.897 minutos, SKT Bengi eliminou EDG PawN
+Aos 13.186 minutos, SKT Easyhoon eliminou EDG PawN
+Aos 13.353 minutos, SKT Bang eliminou EDG Clearlove
+Aos 17.72 minutos, SKT Bang eliminou EDG Meiko
+Aos 19.795 minutos, SKT Bang eliminou EDG Koro1
+Aos 19.976 minutos, SKT Bengi eliminou EDG Deft
+Aos 20.177 minutos, SKT Bengi eliminou EDG Meiko
+Aos 25.116 minutos, SKT Bang eliminou EDG PawN
+Aos 25.141 minutos, SKT Easyhoon eliminou EDG Meiko
+Aos 25.228 minutos, SKT Bang eliminou EDG Clearlove
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6723
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001130420?gameHash=481e057c17968a20
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: EDG
+Time Vermelho: SKT
+Vencedor: EDG
+Placar: EDG: 1 x 0 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.742 minutos, EDG eliminou DRAGON
+Aos 33.147 minutos, EDG eliminou DRAGON
+Aos 6.689 minutos, EDG eliminou DRAGON
+Aos 13.08 minutos, EDG eliminou DRAGON
+Aos 19.192 minutos, EDG eliminou DRAGON
+Aos 30.02 minutos, EDG eliminou BARON_NASHOR
+Aos 22.836 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 2.002 minutos, EDG Meiko eliminou SKT MaRin
+Aos 2.061 minutos, EDG Deft eliminou SKT Wolf
+Aos 2.094 minutos, EDG PawN eliminou SKT Easyhoon
+Aos 4.918 minutos, EDG Clearlove eliminou SKT MaRin
+Aos 6.065 minutos, EDG Deft eliminou SKT Wolf
+Aos 6.814 minutos, EDG PawN eliminou SKT MaRin
+Aos 12.701 minutos, EDG Koro1 eliminou SKT Wolf
+Aos 14.926 minutos, EDG Deft eliminou SKT Wolf
+Aos 15.821 minutos, EDG Koro1 eliminou SKT Wolf
+Aos 16.376 minutos, EDG Clearlove eliminou SKT Easyhoon
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6724
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001130423?gameHash=fe8c57bc8fab383e
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: EDG
+Vencedor: EDG
+Placar: SKT: 0 x 1 :EDG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 9.526 minutos, EDG eliminou DRAGON
+Aos 17.144 minutos, EDG eliminou DRAGON
+Aos 23.523 minutos, EDG eliminou DRAGON
+Aos 22.859 minutos, EDG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 17.365 minutos, SKT Bang eliminou EDG Clearlove
+Aos 18.934 minutos, SKT MaRin eliminou EDG Deft
+Aos 18.985 minutos, SKT Bengi eliminou EDG Meiko
+Aos 24.758 minutos, SKT MaRin eliminou EDG Deft
+Aos 26.955 minutos, SKT Wolf eliminou EDG Deft
+Aos 7.574 minutos, EDG Clearlove eliminou SKT MaRin
+Aos 7.716 minutos, EDG Clearlove eliminou SKT Bengi
+Aos 11.469 minutos, EDG Clearlove eliminou SKT MaRin
+Aos 11.691 minutos, EDG Clearlove eliminou SKT Bengi
+Aos 11.86 minutos, EDG Deft eliminou SKT Wolf
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6725
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140341?gameHash=6b7cc9762d8bdb75
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: EDG
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: EDG: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.529 minutos, EDG eliminou DRAGON
+Aos 10.959 minutos, SKT eliminou DRAGON
+Aos 17.742 minutos, SKT eliminou DRAGON
+Aos 33.658 minutos, SKT eliminou DRAGON
+Aos 32.847 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.165 minutos, EDG Deft eliminou SKT Bengi
+Aos 17.934 minutos, EDG PawN eliminou SKT Bengi
+Aos 17.935 minutos, EDG PawN eliminou SKT Bang
+Aos 18.214 minutos, EDG Meiko eliminou SKT MaRin
+Aos 24.492 minutos, EDG Meiko eliminou SKT Bang
+Aos 31.99 minutos, EDG Deft eliminou SKT Bengi
+Aos 5.363 minutos, SKT Bang eliminou EDG Koro1
+Aos 7.271 minutos, SKT Bang eliminou EDG Koro1
+Aos 7.374 minutos, SKT Bang eliminou EDG Clearlove
+Aos 10.377 minutos, SKT Bengi eliminou EDG Meiko
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6726
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1001140344?gameHash=94a083a88bff5f1c
+Campeonato: MSI
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: EDG
+Vencedor: EDG
+Placar: SKT: 0 x 1 :EDG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.393 minutos, SKT eliminou DRAGON
+Aos 13.242 minutos, SKT eliminou DRAGON
+Aos 29.291 minutos, SKT eliminou DRAGON
+Aos 6.587 minutos, EDG eliminou DRAGON
+Aos 28.775 minutos, EDG eliminou BARON_NASHOR
+Aos 36.734 minutos, EDG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.747 minutos, SKT Wolf eliminou EDG Clearlove
+Aos 10.363 minutos, SKT Faker eliminou EDG Koro1
+Aos 12.672 minutos, SKT MaRin eliminou EDG PawN
+Aos 12.855 minutos, SKT Bang eliminou EDG Koro1
+Aos 17.774 minutos, SKT MaRin eliminou EDG Deft
+Aos 19.594 minutos, SKT Faker eliminou EDG Deft
+Aos 26.813 minutos, SKT Faker eliminou EDG Meiko
+Aos 33.923 minutos, SKT Bang eliminou EDG Meiko
+Aos 33.973 minutos, SKT Faker eliminou EDG PawN
+Aos 3.608 minutos, EDG Meiko eliminou SKT MaRin
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6727
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/50141?gameHash=ac0db531706587d9
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: RNG
+Time Vermelho: CLG
+Vencedor: RNG
+Placar: RNG: 1 x 0 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.567 minutos, RNG eliminou DRAGON
+Aos 5.83 minutos, RNG eliminou DRAGON
+Aos 16.979 minutos, RNG eliminou DRAGON
+Aos 30.221 minutos, RNG eliminou DRAGON
+Aos 14.89 minutos, RNG eliminou RIFT_HERALD
+Aos 39.601 minutos, CLG eliminou DRAGON
+Aos 27.343 minutos, CLG eliminou BARON_NASHOR
+Aos 34.806 minutos, CLG eliminou BARON_NASHOR
+Aos 5.944 minutos, CLG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 11.283 minutos, RNG Looper eliminou CLG Stixxay
+Aos 21.177 minutos, RNG Wuxx eliminou CLG Huhi
+Aos 21.226 minutos, RNG Wuxx eliminou CLG aphromoo
+Aos 26.352 minutos, RNG xiaohu eliminou CLG Huhi
+Aos 31.397 minutos, RNG Looper eliminou CLG Stixxay
+Aos 31.725 minutos, RNG Wuxx eliminou CLG Darshan
+Aos 31.82 minutos, RNG xiaohu eliminou CLG Huhi
+Aos 31.855 minutos, RNG mlxg eliminou CLG aphromoo
+Aos 33.939 minutos, RNG xiaohu eliminou CLG aphromoo
+Aos 33.947 minutos, RNG xiaohu eliminou CLG Stixxay
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6728
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/50151?gameHash=cea8f36cf872da9e
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: FW
+Vencedor: FW
+Placar: G2: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 37.637 minutos, G2 eliminou DRAGON
+Aos 11.475 minutos, G2 eliminou DRAGON
+Aos 20.714 minutos, G2 eliminou BARON_NASHOR
+Aos 37.909 minutos, G2 eliminou BARON_NASHOR
+Aos 13.3 minutos, G2 eliminou RIFT_HERALD
+Aos 31.443 minutos, FW eliminou DRAGON
+Aos 17.804 minutos, FW eliminou DRAGON
+Aos 23.999 minutos, FW eliminou DRAGON
+Aos 30.548 minutos, FW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.168 minutos, G2 Trick eliminou FW MMD
+Aos 6.181 minutos, G2 Trick eliminou FW Maple
+Aos 8.618 minutos, G2 Trick eliminou FW MMD
+Aos 13.989 minutos, G2 Trick eliminou FW SwordArt
+Aos 14.242 minutos, G2 Trick eliminou FW NL
+Aos 14.525 minutos, G2 Kikis eliminou FW Maple
+Aos 14.539 minutos, G2 Kikis eliminou FW Karsa
+Aos 20.76 minutos, G2 Kikis eliminou FW Karsa
+Aos 20.942 minutos, G2 Perkz eliminou FW NL
+Aos 21.002 minutos, G2 Trick eliminou FW SwordArt
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6729
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/50161?gameHash=79500adc81164235
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: SUP
+Vencedor: SKT
+Placar: SKT: 1 x 0 :SUP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.454 minutos, SKT eliminou DRAGON
+Aos 10.649 minutos, SKT eliminou DRAGON
+Aos 16.889 minutos, SKT eliminou DRAGON
+Aos 13.191 minutos, SKT eliminou RIFT_HERALD
+Aos 18.464 minutos, SKT eliminou RIFT_HERALD
+Aos 24.098 minutos, SUP eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.047 minutos, SKT Duke eliminou SUP Thaldrin
+Aos 5.035 minutos, SKT Duke eliminou SUP Thaldrin
+Aos 7.785 minutos, SKT Blank eliminou SUP Thaldrin
+Aos 7.939 minutos, SKT Blank eliminou SUP Stomaged
+Aos 8.633 minutos, SKT Bang eliminou SUP Dumbledoge
+Aos 11.02 minutos, SKT Faker eliminou SUP Dumbledoge
+Aos 11.162 minutos, SKT Faker eliminou SUP Achuu
+Aos 12.772 minutos, SKT Duke eliminou SUP Stomaged
+Aos 13.147 minutos, SKT Bang eliminou SUP Achuu
+Aos 13.589 minutos, SKT Faker eliminou SUP Naru
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6730
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/50168?gameHash=b7686850850c7171
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: FW
+Vencedor: CLG
+Placar: CLG: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.216 minutos, CLG eliminou DRAGON
+Aos 10.713 minutos, CLG eliminou DRAGON
+Aos 23.665 minutos, CLG eliminou DRAGON
+Aos 29.85 minutos, CLG eliminou DRAGON
+Aos 42.571 minutos, CLG eliminou DRAGON
+Aos 43.806 minutos, CLG eliminou BARON_NASHOR
+Aos 19.393 minutos, CLG eliminou RIFT_HERALD
+Aos 36.311 minutos, FW eliminou DRAGON
+Aos 35.428 minutos, FW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.26 minutos, CLG Stixxay eliminou FW NL
+Aos 9.99 minutos, CLG Stixxay eliminou FW Karsa
+Aos 15.724 minutos, CLG Darshan eliminou FW SwordArt
+Aos 27.524 minutos, CLG Stixxay eliminou FW NL
+Aos 27.53 minutos, CLG Xmithie eliminou FW SwordArt
+Aos 32.404 minutos, CLG Darshan eliminou FW NL
+Aos 34.466 minutos, CLG Darshan eliminou FW NL
+Aos 43.115 minutos, CLG Huhi eliminou FW Karsa
+Aos 43.121 minutos, CLG Stixxay eliminou FW NL
+Aos 43.558 minutos, CLG Huhi eliminou FW SwordArt
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6731
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/50176?gameHash=396641c020157b53
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: G2: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.427 minutos, SKT eliminou DRAGON
+Aos 20.204 minutos, SKT eliminou BARON_NASHOR
+Aos 16.286 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 12.438 minutos, G2 Emperor eliminou SKT Wolf
+Aos 13.669 minutos, G2 Perkz eliminou SKT Wolf
+Aos 18.308 minutos, G2 Perkz eliminou SKT Wolf
+Aos 7.989 minutos, SKT Bang eliminou G2 Emperor
+Aos 9.636 minutos, SKT Faker eliminou G2 Emperor
+Aos 9.735 minutos, SKT Faker eliminou G2 Hybrid
+Aos 13.673 minutos, SKT Bang eliminou G2 Perkz
+Aos 14.694 minutos, SKT Faker eliminou G2 Hybrid
+Aos 15.093 minutos, SKT Faker eliminou G2 Trick
+Aos 15.315 minutos, SKT Duke eliminou G2 Perkz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6732
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/50184?gameHash=6fa03189c2167c37
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SUP
+Time Vermelho: RNG
+Vencedor: RNG
+Placar: SUP: 0 x 1 :RNG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 18.915 minutos, SUP eliminou DRAGON
+Aos 12.218 minutos, RNG eliminou DRAGON
+Aos 32.969 minutos, RNG eliminou DRAGON
+Aos 25.489 minutos, RNG eliminou DRAGON
+Aos 28.537 minutos, RNG eliminou BARON_NASHOR
+Aos 17.735 minutos, RNG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 5.057 minutos, SUP Dumbledoge eliminou RNG Wuxx
+Aos 5.178 minutos, SUP Dumbledoge eliminou RNG Mata
+Aos 5.971 minutos, SUP fabFabulous eliminou RNG Looper
+Aos 16.011 minutos, SUP Stomaged eliminou RNG mlxg
+Aos 18.508 minutos, SUP fabFabulous eliminou RNG xiaohu
+Aos 22.544 minutos, SUP Dumbledoge eliminou RNG Looper
+Aos 26.978 minutos, SUP Naru eliminou RNG Looper
+Aos 27.612 minutos, SUP Naru eliminou RNG Wuxx
+Aos 27.655 minutos, SUP Stomaged eliminou RNG Mata
+Aos 31.264 minutos, SUP Stomaged eliminou RNG Wuxx
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6733
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60173?gameHash=ad39ad7332248116
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: G2
+Vencedor: CLG
+Placar: CLG: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.106 minutos, CLG eliminou DRAGON
+Aos 12.657 minutos, CLG eliminou DRAGON
+Aos 25.657 minutos, CLG eliminou DRAGON
+Aos 25.037 minutos, CLG eliminou BARON_NASHOR
+Aos 15.364 minutos, CLG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 1.645 minutos, CLG Stixxay eliminou G2 Hybrid
+Aos 3.026 minutos, CLG Huhi eliminou G2 Kikis
+Aos 3.126 minutos, CLG Darshan eliminou G2 Trick
+Aos 3.224 minutos, CLG Darshan eliminou G2 Emperor
+Aos 3.288 minutos, CLG Darshan eliminou G2 Hybrid
+Aos 4.798 minutos, CLG Stixxay eliminou G2 Hybrid
+Aos 14.515 minutos, CLG Darshan eliminou G2 Perkz
+Aos 17.795 minutos, CLG Xmithie eliminou G2 Trick
+Aos 17.855 minutos, CLG Stixxay eliminou G2 Emperor
+Aos 17.884 minutos, CLG Darshan eliminou G2 Perkz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6734
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60179?gameHash=b304d6395dddd42e
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: RNG
+Vencedor: RNG
+Placar: SKT: 0 x 1 :RNG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 59.169 minutos, SKT eliminou DRAGON
+Aos 18.497 minutos, SKT eliminou DRAGON
+Aos 53.542 minutos, SKT eliminou BARON_NASHOR
+Aos 14.277 minutos, SKT eliminou RIFT_HERALD
+Aos 33.223 minutos, RNG eliminou DRAGON
+Aos 26.092 minutos, RNG eliminou DRAGON
+Aos 46.739 minutos, RNG eliminou DRAGON
+Aos 52.925 minutos, RNG eliminou DRAGON
+Aos 40.523 minutos, RNG eliminou DRAGON
+Aos 43.411 minutos, RNG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 29.601 minutos, SKT Blank eliminou RNG xiaohu
+Aos 42.245 minutos, SKT Bang eliminou RNG xiaohu
+Aos 42.979 minutos, SKT Bang eliminou RNG Mata
+Aos 51.647 minutos, SKT Blank eliminou RNG Mata
+Aos 52.278 minutos, SKT Duke eliminou RNG xiaohu
+Aos 59.381 minutos, SKT Wolf eliminou RNG Mata
+Aos 59.649 minutos, SKT Duke eliminou RNG Wuxx
+Aos 2.98 minutos, RNG xiaohu eliminou SKT Blank
+Aos 3.527 minutos, RNG xiaohu eliminou SKT Faker
+Aos 6.394 minutos, RNG xiaohu eliminou SKT Faker
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6735
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60190?gameHash=8c79bc20f0984e4f
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: SUP
+Vencedor: FW
+Placar: FW: 1 x 0 :SUP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.215 minutos, FW eliminou DRAGON
+Aos 17.524 minutos, FW eliminou DRAGON
+Aos 23.735 minutos, FW eliminou DRAGON
+Aos 27.838 minutos, FW eliminou BARON_NASHOR
+Aos 11.847 minutos, SUP eliminou RIFT_HERALD
+Aos 17.961 minutos, SUP eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 15.118 minutos, FW NL eliminou SUP Dumbledoge
+Aos 15.228 minutos, FW Maple eliminou SUP Achuu
+Aos 15.301 minutos, FW MMD eliminou SUP Naru
+Aos 17.759 minutos, FW Karsa eliminou SUP Achuu
+Aos 23.223 minutos, FW Maple eliminou SUP fabFabulous
+Aos 24.899 minutos, FW Maple eliminou SUP Dumbledoge
+Aos 27.073 minutos, FW Maple eliminou SUP Dumbledoge
+Aos 27.189 minutos, FW Maple eliminou SUP fabFabulous
+Aos 27.297 minutos, FW Maple eliminou SUP Stomaged
+Aos 27.351 minutos, FW NL eliminou SUP Naru
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6736
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60198?gameHash=19f7c5a9fc35bb59
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: RNG
+Time Vermelho: G2
+Vencedor: RNG
+Placar: RNG: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.968 minutos, RNG eliminou DRAGON
+Aos 33.108 minutos, RNG eliminou DRAGON
+Aos 11.721 minutos, RNG eliminou DRAGON
+Aos 12.935 minutos, RNG eliminou RIFT_HERALD
+Aos 26.041 minutos, G2 eliminou DRAGON
+
+=== ABATES ===
+Aos 1.977 minutos, RNG Wuxx eliminou G2 Kikis
+Aos 14.947 minutos, RNG mlxg eliminou G2 Emperor
+Aos 15.827 minutos, RNG Wuxx eliminou G2 Perkz
+Aos 23.356 minutos, RNG xiaohu eliminou G2 Perkz
+Aos 23.413 minutos, RNG mlxg eliminou G2 Hybrid
+Aos 24.755 minutos, RNG Wuxx eliminou G2 Trick
+Aos 26.802 minutos, RNG Wuxx eliminou G2 Kikis
+Aos 27.127 minutos, RNG xiaohu eliminou G2 Hybrid
+Aos 31.507 minutos, RNG Wuxx eliminou G2 Emperor
+Aos 31.594 minutos, RNG Wuxx eliminou G2 Hybrid
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6737
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60206?gameHash=f834d131eb518397
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SUP
+Time Vermelho: CLG
+Vencedor: SUP
+Placar: SUP: 1 x 0 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.537 minutos, SUP eliminou DRAGON
+Aos 32.328 minutos, SUP eliminou DRAGON
+Aos 12.702 minutos, SUP eliminou DRAGON
+Aos 19.242 minutos, SUP eliminou DRAGON
+
+=== ABATES ===
+Aos 3.159 minutos, SUP Stomaged eliminou CLG Huhi
+Aos 4.641 minutos, SUP Stomaged eliminou CLG Darshan
+Aos 5.732 minutos, SUP Achuu eliminou CLG aphromoo
+Aos 5.879 minutos, SUP Stomaged eliminou CLG Stixxay
+Aos 7.886 minutos, SUP Achuu eliminou CLG Stixxay
+Aos 10.977 minutos, SUP Stomaged eliminou CLG aphromoo
+Aos 11.01 minutos, SUP Stomaged eliminou CLG Stixxay
+Aos 11.213 minutos, SUP Stomaged eliminou CLG Xmithie
+Aos 12.226 minutos, SUP Achuu eliminou CLG Stixxay
+Aos 13.409 minutos, SUP Naru eliminou CLG aphromoo
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6738
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60213?gameHash=593fe48950245189
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: FW
+Vencedor: FW
+Placar: SKT: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.172 minutos, SKT eliminou RIFT_HERALD
+Aos 18.179 minutos, FW eliminou DRAGON
+Aos 37.071 minutos, FW eliminou DRAGON
+Aos 24.376 minutos, FW eliminou DRAGON
+Aos 11.325 minutos, FW eliminou DRAGON
+Aos 30.72 minutos, FW eliminou DRAGON
+Aos 43.223 minutos, FW eliminou DRAGON
+Aos 39.121 minutos, FW eliminou BARON_NASHOR
+Aos 46.581 minutos, FW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.279 minutos, SKT Faker eliminou FW Karsa
+Aos 10.473 minutos, SKT Blank eliminou FW Maple
+Aos 11.038 minutos, SKT Blank eliminou FW NL
+Aos 34.99 minutos, SKT Faker eliminou FW Karsa
+Aos 41.648 minutos, SKT Faker eliminou FW MMD
+Aos 9.201 minutos, FW Maple eliminou SKT Blank
+Aos 9.491 minutos, FW MMD eliminou SKT Duke
+Aos 10.528 minutos, FW NL eliminou SKT Faker
+Aos 10.811 minutos, FW NL eliminou SKT Bang
+Aos 18.864 minutos, FW SwordArt eliminou SKT Faker
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6739
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60226?gameHash=01b203061ba62154
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: RNG
+Vencedor: RNG
+Placar: FW: 0 x 1 :RNG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.244 minutos, FW eliminou DRAGON
+Aos 8.45 minutos, FW eliminou DRAGON
+Aos 27.596 minutos, RNG eliminou DRAGON
+Aos 15.067 minutos, RNG eliminou DRAGON
+Aos 28.39 minutos, RNG eliminou BARON_NASHOR
+Aos 12.662 minutos, RNG eliminou RIFT_HERALD
+Aos 17.912 minutos, RNG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.831 minutos, FW Karsa eliminou RNG xiaohu
+Aos 9.036 minutos, FW NL eliminou RNG mlxg
+Aos 14.953 minutos, FW NL eliminou RNG Mata
+Aos 15.142 minutos, RNG Looper eliminou FW NL
+Aos 15.41 minutos, RNG Looper eliminou FW MMD
+Aos 27.612 minutos, RNG xiaohu eliminou FW Karsa
+Aos 27.709 minutos, RNG mlxg eliminou FW Maple
+Aos 27.755 minutos, RNG xiaohu eliminou FW NL
+Aos 27.939 minutos, RNG Wuxx eliminou FW MMD
+Aos 27.957 minutos, RNG xiaohu eliminou FW SwordArt
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6740
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60240?gameHash=759f5744da9c0f02
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: SKT
+Vencedor: CLG
+Placar: CLG: 1 x 0 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 42.718 minutos, CLG eliminou BARON_NASHOR
+Aos 34.544 minutos, CLG eliminou BARON_NASHOR
+Aos 18.744 minutos, CLG eliminou RIFT_HERALD
+Aos 38.31 minutos, SKT eliminou DRAGON
+Aos 18.632 minutos, SKT eliminou DRAGON
+Aos 24.881 minutos, SKT eliminou DRAGON
+Aos 11.9 minutos, SKT eliminou DRAGON
+Aos 31.881 minutos, SKT eliminou DRAGON
+
+=== ABATES ===
+Aos 20.114 minutos, CLG Stixxay eliminou SKT Blank
+Aos 20.122 minutos, CLG Xmithie eliminou SKT Wolf
+Aos 20.819 minutos, CLG Xmithie eliminou SKT Faker
+Aos 28.001 minutos, CLG Stixxay eliminou SKT Wolf
+Aos 28.01 minutos, CLG Stixxay eliminou SKT Bang
+Aos 28.031 minutos, CLG Stixxay eliminou SKT Duke
+Aos 30.007 minutos, CLG Stixxay eliminou SKT Faker
+Aos 30.101 minutos, CLG Stixxay eliminou SKT Duke
+Aos 33.3 minutos, CLG Stixxay eliminou SKT Bang
+Aos 34.551 minutos, CLG Huhi eliminou SKT Blank
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6741
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60247?gameHash=3356db953888c2ea
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SUP
+Time Vermelho: G2
+Vencedor: G2
+Placar: SUP: 0 x 1 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 5.907 minutos, SUP eliminou DRAGON
+Aos 25.65 minutos, SUP eliminou DRAGON
+Aos 12.249 minutos, SUP eliminou DRAGON
+Aos 19.498 minutos, SUP eliminou DRAGON
+Aos 23.711 minutos, SUP eliminou BARON_NASHOR
+Aos 32.15 minutos, G2 eliminou DRAGON
+Aos 38.351 minutos, G2 eliminou DRAGON
+Aos 33.964 minutos, G2 eliminou BARON_NASHOR
+Aos 11.977 minutos, G2 eliminou RIFT_HERALD
+Aos 5.679 minutos, G2 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 9.447 minutos, SUP Thaldrin eliminou G2 Trick
+Aos 13.804 minutos, SUP Stomaged eliminou G2 Emperor
+Aos 14.82 minutos, SUP Naru eliminou G2 Hybrid
+Aos 16.766 minutos, SUP Stomaged eliminou G2 Emperor
+Aos 18.451 minutos, SUP Achuu eliminou G2 Hybrid
+Aos 18.546 minutos, SUP Stomaged eliminou G2 Emperor
+Aos 18.726 minutos, SUP Achuu eliminou G2 Trick
+Aos 18.857 minutos, SUP Naru eliminou G2 Kikis
+Aos 20.944 minutos, SUP Stomaged eliminou G2 Emperor
+Aos 23.81 minutos, SUP Naru eliminou G2 Perkz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6742
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60254?gameHash=b5c6263bff9ec87a
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: SKT
+Vencedor: FW
+Placar: FW: 1 x 0 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 38.099 minutos, FW eliminou DRAGON
+Aos 31.504 minutos, FW eliminou DRAGON
+Aos 27.626 minutos, FW eliminou BARON_NASHOR
+Aos 36.588 minutos, FW eliminou BARON_NASHOR
+Aos 11.65 minutos, FW eliminou RIFT_HERALD
+Aos 10.882 minutos, SKT eliminou DRAGON
+Aos 25.222 minutos, SKT eliminou DRAGON
+Aos 18.582 minutos, SKT eliminou DRAGON
+
+=== ABATES ===
+Aos 12.435 minutos, FW Karsa eliminou SKT Blank
+Aos 14.715 minutos, FW Karsa eliminou SKT Bang
+Aos 17.342 minutos, FW Karsa eliminou SKT Blank
+Aos 28.86 minutos, FW Karsa eliminou SKT Bang
+Aos 29.968 minutos, FW Maple eliminou SKT Blank
+Aos 31.175 minutos, FW Maple eliminou SKT Wolf
+Aos 35.412 minutos, FW Maple eliminou SKT Blank
+Aos 36.829 minutos, FW Maple eliminou SKT Faker
+Aos 37.21 minutos, FW MMD eliminou SKT Bang
+Aos 39.326 minutos, FW Karsa eliminou SKT Wolf
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6743
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60263?gameHash=b5bb778960ef9dec
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: SUP
+Vencedor: CLG
+Placar: CLG: 1 x 0 :SUP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 5.872 minutos, CLG eliminou DRAGON
+Aos 13.399 minutos, CLG eliminou DRAGON
+Aos 27.191 minutos, CLG eliminou BARON_NASHOR
+Aos 19.328 minutos, CLG eliminou RIFT_HERALD
+Aos 12.194 minutos, CLG eliminou RIFT_HERALD
+Aos 25.95 minutos, SUP eliminou DRAGON
+Aos 19.709 minutos, SUP eliminou DRAGON
+Aos 5.891 minutos, SUP eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.859 minutos, CLG Darshan eliminou SUP Naru
+Aos 7.689 minutos, CLG Stixxay eliminou SUP fabFabulous
+Aos 7.835 minutos, CLG Stixxay eliminou SUP Stomaged
+Aos 11.464 minutos, CLG Stixxay eliminou SUP Achuu
+Aos 15.508 minutos, CLG aphromoo eliminou SUP Naru
+Aos 18.553 minutos, CLG Darshan eliminou SUP Dumbledoge
+Aos 20.719 minutos, CLG Xmithie eliminou SUP Stomaged
+Aos 20.738 minutos, CLG Stixxay eliminou SUP Naru
+Aos 23.768 minutos, CLG Huhi eliminou SUP Dumbledoge
+Aos 24.76 minutos, CLG Stixxay eliminou SUP Achuu
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6744
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60270?gameHash=fdbd7ee59448e997
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: RNG
+Vencedor: RNG
+Placar: G2: 0 x 1 :RNG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.901 minutos, G2 eliminou DRAGON
+Aos 24.746 minutos, G2 eliminou DRAGON
+Aos 11.549 minutos, RNG eliminou DRAGON
+Aos 18.186 minutos, RNG eliminou DRAGON
+Aos 26.554 minutos, RNG eliminou BARON_NASHOR
+Aos 12.773 minutos, RNG eliminou RIFT_HERALD
+Aos 5.944 minutos, RNG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 9.07 minutos, G2 Trick eliminou RNG xiaohu
+Aos 15.854 minutos, G2 Perkz eliminou RNG Mata
+Aos 16.124 minutos, G2 Emperor eliminou RNG Wuxx
+Aos 24.512 minutos, G2 Trick eliminou RNG xiaohu
+Aos 26.802 minutos, G2 Emperor eliminou RNG xiaohu
+Aos 2.526 minutos, RNG mlxg eliminou G2 Perkz
+Aos 9.224 minutos, RNG mlxg eliminou G2 Emperor
+Aos 16.104 minutos, RNG xiaohu eliminou G2 Perkz
+Aos 23.246 minutos, RNG Wuxx eliminou G2 Perkz
+Aos 30.947 minutos, RNG Mata eliminou G2 Emperor
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6745
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60305?gameHash=17cfa791c3a95b72
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: SUP
+Vencedor: G2
+Placar: G2: 1 x 0 :SUP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.035 minutos, G2 eliminou DRAGON
+Aos 27.162 minutos, G2 eliminou DRAGON
+Aos 29.338 minutos, G2 eliminou BARON_NASHOR
+Aos 11.321 minutos, G2 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 5.321 minutos, G2 Trick eliminou SUP Naru
+Aos 7.559 minutos, G2 Trick eliminou SUP Dumbledoge
+Aos 9.52 minutos, G2 Perkz eliminou SUP Stomaged
+Aos 10.758 minutos, G2 Trick eliminou SUP Stomaged
+Aos 10.79 minutos, G2 Perkz eliminou SUP fabFabulous
+Aos 12.559 minutos, G2 Trick eliminou SUP Achuu
+Aos 12.679 minutos, G2 Hybrid eliminou SUP Stomaged
+Aos 12.85 minutos, G2 Emperor eliminou SUP Dumbledoge
+Aos 14.468 minutos, G2 Perkz eliminou SUP Naru
+Aos 21.727 minutos, G2 Trick eliminou SUP fabFabulous
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6746
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60308?gameHash=db7e4b64882f2753
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: RNG
+Time Vermelho: FW
+Vencedor: RNG
+Placar: RNG: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.913 minutos, RNG eliminou DRAGON
+Aos 13.049 minutos, RNG eliminou DRAGON
+Aos 19.508 minutos, RNG eliminou DRAGON
+Aos 6.172 minutos, RNG eliminou DRAGON
+Aos 28.058 minutos, RNG eliminou BARON_NASHOR
+Aos 7.276 minutos, RNG eliminou RIFT_HERALD
+Aos 14.201 minutos, RNG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 12.614 minutos, RNG mlxg eliminou FW SwordArt
+Aos 18.639 minutos, RNG mlxg eliminou FW Maple
+Aos 18.736 minutos, RNG mlxg eliminou FW MMD
+Aos 18.887 minutos, RNG mlxg eliminou FW SwordArt
+Aos 21.507 minutos, RNG Looper eliminou FW Maple
+Aos 25.657 minutos, RNG mlxg eliminou FW NL
+Aos 25.663 minutos, RNG xiaohu eliminou FW SwordArt
+Aos 25.765 minutos, RNG xiaohu eliminou FW Karsa
+Aos 25.831 minutos, RNG Looper eliminou FW Maple
+Aos 26.1 minutos, RNG mlxg eliminou FW MMD
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6747
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60322?gameHash=a7d97cf415222663
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: CLG
+Vencedor: SKT
+Placar: SKT: 1 x 0 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.898 minutos, CLG eliminou DRAGON
+Aos 19.535 minutos, CLG eliminou DRAGON
+Aos 11.857 minutos, CLG eliminou DRAGON
+Aos 29.585 minutos, CLG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 17.856 minutos, SKT Bang eliminou CLG Stixxay
+Aos 18.12 minutos, SKT Faker eliminou CLG aphromoo
+Aos 23.42 minutos, SKT Duke eliminou CLG Xmithie
+Aos 28.77 minutos, SKT Faker eliminou CLG aphromoo
+Aos 29.827 minutos, SKT Blank eliminou CLG Xmithie
+Aos 29.934 minutos, SKT Blank eliminou CLG Darshan
+Aos 30.316 minutos, SKT Duke eliminou CLG Huhi
+Aos 32.069 minutos, SKT Blank eliminou CLG Huhi
+Aos 32.21 minutos, SKT Bang eliminou CLG Xmithie
+Aos 32.236 minutos, SKT Blank eliminou CLG Darshan
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6748
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60323?gameHash=fd221298749574de
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: G2
+Vencedor: FW
+Placar: FW: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.849 minutos, FW eliminou DRAGON
+Aos 24.66 minutos, FW eliminou DRAGON
+Aos 18.371 minutos, FW eliminou DRAGON
+Aos 37.172 minutos, FW eliminou DRAGON
+Aos 12.097 minutos, FW eliminou DRAGON
+Aos 34.453 minutos, FW eliminou BARON_NASHOR
+Aos 23.385 minutos, FW eliminou BARON_NASHOR
+Aos 19.688 minutos, G2 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 8.692 minutos, FW MMD eliminou G2 Kikis
+Aos 11.327 minutos, FW NL eliminou G2 Hybrid
+Aos 11.383 minutos, FW Maple eliminou G2 Perkz
+Aos 13.74 minutos, FW MMD eliminou G2 Trick
+Aos 15.226 minutos, FW Karsa eliminou G2 Emperor
+Aos 16.854 minutos, FW NL eliminou G2 Trick
+Aos 27.81 minutos, FW NL eliminou G2 Kikis
+Aos 34.447 minutos, FW NL eliminou G2 Trick
+Aos 35.907 minutos, FW MMD eliminou G2 Hybrid
+Aos 36.059 minutos, FW Karsa eliminou G2 Trick
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6749
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60329?gameHash=ded0b72947b56b70
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: RNG
+Vencedor: CLG
+Placar: CLG: 1 x 0 :RNG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 37.637 minutos, CLG eliminou DRAGON
+Aos 38.627 minutos, CLG eliminou BARON_NASHOR
+Aos 31.415 minutos, RNG eliminou DRAGON
+Aos 18.374 minutos, RNG eliminou DRAGON
+Aos 11.706 minutos, RNG eliminou DRAGON
+Aos 24.802 minutos, RNG eliminou DRAGON
+Aos 30.997 minutos, RNG eliminou BARON_NASHOR
+Aos 22.012 minutos, RNG eliminou BARON_NASHOR
+Aos 15.027 minutos, RNG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.541 minutos, CLG Stixxay eliminou RNG Mata
+Aos 5.152 minutos, CLG Xmithie eliminou RNG mlxg
+Aos 10.125 minutos, CLG Xmithie eliminou RNG Mata
+Aos 10.132 minutos, CLG Stixxay eliminou RNG Wuxx
+Aos 12.392 minutos, CLG Xmithie eliminou RNG mlxg
+Aos 13.178 minutos, CLG aphromoo eliminou RNG xiaohu
+Aos 13.182 minutos, CLG Darshan eliminou RNG Mata
+Aos 13.273 minutos, CLG Xmithie eliminou RNG Wuxx
+Aos 14.853 minutos, CLG Stixxay eliminou RNG Looper
+Aos 26.419 minutos, CLG Stixxay eliminou RNG xiaohu
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6750
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60334?gameHash=0213115c2f20bacd
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SUP
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: SUP: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.688 minutos, SKT eliminou DRAGON
+Aos 16.286 minutos, SKT eliminou DRAGON
+Aos 25.734 minutos, SKT eliminou BARON_NASHOR
+Aos 18.189 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.874 minutos, SUP Naru eliminou SKT Blank
+Aos 16.349 minutos, SUP Stomaged eliminou SKT Wolf
+Aos 17.547 minutos, SUP Stomaged eliminou SKT Wolf
+Aos 20.662 minutos, SUP Naru eliminou SKT Wolf
+Aos 20.69 minutos, SUP Achuu eliminou SKT Bang
+Aos 23.897 minutos, SUP Achuu eliminou SKT Wolf
+Aos 23.945 minutos, SUP Stomaged eliminou SKT Faker
+Aos 13.881 minutos, SKT Blank eliminou SUP fabFabulous
+Aos 16.378 minutos, SKT Blank eliminou SUP Stomaged
+Aos 17.812 minutos, SKT Faker eliminou SUP Dumbledoge
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6751
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60358?gameHash=0f8b6abeb8cb90c0
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: RNG
+Time Vermelho: SUP
+Vencedor: RNG
+Placar: RNG: 1 x 0 :SUP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 18.094 minutos, RNG eliminou DRAGON
+Aos 11.679 minutos, RNG eliminou DRAGON
+Aos 20.272 minutos, RNG eliminou BARON_NASHOR
+Aos 19.554 minutos, RNG eliminou RIFT_HERALD
+Aos 14.217 minutos, RNG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 2.3 minutos, RNG Wuxx eliminou SUP Thaldrin
+Aos 4.857 minutos, RNG Looper eliminou SUP Stomaged
+Aos 4.937 minutos, RNG Looper eliminou SUP Thaldrin
+Aos 5.215 minutos, RNG mlxg eliminou SUP Naru
+Aos 6.6 minutos, RNG mlxg eliminou SUP Naru
+Aos 12.892 minutos, RNG Mata eliminou SUP Dumbledoge
+Aos 13.059 minutos, RNG xiaohu eliminou SUP Stomaged
+Aos 13.087 minutos, RNG Wuxx eliminou SUP Thaldrin
+Aos 13.145 minutos, RNG xiaohu eliminou SUP Achuu
+Aos 13.62 minutos, RNG Mata eliminou SUP Naru
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6752
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/50384?gameHash=d2186ada50089391
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: CLG
+Vencedor: CLG
+Placar: FW: 0 x 1 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 6.851 minutos, FW eliminou DRAGON
+Aos 13.51 minutos, FW eliminou DRAGON
+Aos 26.479 minutos, FW eliminou DRAGON
+Aos 20.257 minutos, CLG eliminou DRAGON
+Aos 32.595 minutos, CLG eliminou DRAGON
+Aos 28.86 minutos, CLG eliminou BARON_NASHOR
+Aos 9.854 minutos, CLG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 16.447 minutos, FW Karsa eliminou CLG Xmithie
+Aos 20.498 minutos, FW NL eliminou CLG aphromoo
+Aos 20.542 minutos, FW NL eliminou CLG Stixxay
+Aos 20.595 minutos, FW Karsa eliminou CLG Huhi
+Aos 22.862 minutos, FW Maple eliminou CLG Darshan
+Aos 24.037 minutos, FW NL eliminou CLG Stixxay
+Aos 28.882 minutos, FW MMD eliminou CLG aphromoo
+Aos 31.107 minutos, FW Karsa eliminou CLG aphromoo
+Aos 31.682 minutos, FW NL eliminou CLG Xmithie
+Aos 12.468 minutos, CLG Huhi eliminou FW SwordArt
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6753
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/50392?gameHash=2d94494d161459f9
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: G2
+Vencedor: SKT
+Placar: SKT: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.523 minutos, SKT eliminou DRAGON
+Aos 14.172 minutos, SKT eliminou DRAGON
+Aos 27.53 minutos, SKT eliminou DRAGON
+Aos 15.324 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.743 minutos, SKT Duke eliminou G2 Kikis
+Aos 8.38 minutos, SKT Duke eliminou G2 Perkz
+Aos 9.908 minutos, SKT Blank eliminou G2 Trick
+Aos 12.126 minutos, SKT Blank eliminou G2 Emperor
+Aos 12.201 minutos, SKT Duke eliminou G2 Trick
+Aos 13.518 minutos, SKT Blank eliminou G2 Perkz
+Aos 16.313 minutos, SKT Bang eliminou G2 Emperor
+Aos 20.908 minutos, SKT Faker eliminou G2 Perkz
+Aos 22.235 minutos, SKT Duke eliminou G2 Emperor
+Aos 23.909 minutos, SKT Bang eliminou G2 Kikis
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6754
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60381?gameHash=9056683e5b4cc373
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SUP
+Time Vermelho: FW
+Vencedor: FW
+Placar: SUP: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.134 minutos, SUP eliminou DRAGON
+Aos 5.934 minutos, SUP eliminou RIFT_HERALD
+Aos 25.211 minutos, FW eliminou DRAGON
+Aos 31.512 minutos, FW eliminou DRAGON
+Aos 5.828 minutos, FW eliminou DRAGON
+Aos 18.516 minutos, FW eliminou DRAGON
+Aos 28.529 minutos, FW eliminou BARON_NASHOR
+Aos 12.209 minutos, FW eliminou RIFT_HERALD
+Aos 17.48 minutos, FW eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 22.88 minutos, SUP Stomaged eliminou FW MMD
+Aos 22.906 minutos, SUP Naru eliminou FW NL
+Aos 23.362 minutos, SUP Dumbledoge eliminou FW Karsa
+Aos 11.242 minutos, FW NL eliminou SUP Thaldrin
+Aos 13.396 minutos, FW MMD eliminou SUP Naru
+Aos 13.704 minutos, FW NL eliminou SUP Dumbledoge
+Aos 13.706 minutos, FW Maple eliminou SUP Thaldrin
+Aos 18.549 minutos, FW Maple eliminou SUP Naru
+Aos 22.87 minutos, FW Maple eliminou SUP Naru
+Aos 33.834 minutos, FW Maple eliminou SUP Naru
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6755
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60388?gameHash=ed2237c1fa11dc22
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: CLG
+Vencedor: CLG
+Placar: G2: 0 x 1 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.139 minutos, CLG eliminou DRAGON
+Aos 19.567 minutos, CLG eliminou DRAGON
+Aos 21.75 minutos, CLG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 6.142 minutos, G2 Perkz eliminou CLG Huhi
+Aos 7.991 minutos, G2 Emperor eliminou CLG Huhi
+Aos 12.098 minutos, G2 Hybrid eliminou CLG Stixxay
+Aos 12.188 minutos, G2 Trick eliminou CLG aphromoo
+Aos 14.494 minutos, G2 Trick eliminou CLG Xmithie
+Aos 18.018 minutos, G2 Emperor eliminou CLG aphromoo
+Aos 18.08 minutos, G2 Perkz eliminou CLG Huhi
+Aos 18.264 minutos, G2 Perkz eliminou CLG Stixxay
+Aos 8.13 minutos, CLG Xmithie eliminou G2 Hybrid
+Aos 8.227 minutos, CLG Darshan eliminou G2 Emperor
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6756
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60393?gameHash=9ec983246fbbfe86
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: RNG
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: RNG: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.778 minutos, RNG eliminou DRAGON
+Aos 30.881 minutos, RNG eliminou DRAGON
+Aos 51.046 minutos, RNG eliminou DRAGON
+Aos 44.662 minutos, RNG eliminou DRAGON
+Aos 37.978 minutos, RNG eliminou BARON_NASHOR
+Aos 15.116 minutos, RNG eliminou RIFT_HERALD
+Aos 17.997 minutos, SKT eliminou DRAGON
+Aos 24.588 minutos, SKT eliminou DRAGON
+Aos 38.015 minutos, SKT eliminou DRAGON
+Aos 45.204 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 6.808 minutos, RNG mlxg eliminou SKT Blank
+Aos 7.238 minutos, RNG mlxg eliminou SKT Faker
+Aos 7.389 minutos, RNG Wuxx eliminou SKT Wolf
+Aos 10.85 minutos, RNG mlxg eliminou SKT Bang
+Aos 15.737 minutos, RNG mlxg eliminou SKT Blank
+Aos 15.823 minutos, RNG Looper eliminou SKT Bang
+Aos 15.884 minutos, RNG Looper eliminou SKT Wolf
+Aos 25.06 minutos, RNG Looper eliminou SKT Faker
+Aos 28.353 minutos, RNG Wuxx eliminou SKT Faker
+Aos 28.494 minutos, RNG Looper eliminou SKT Bang
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6757
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60550?gameHash=df2865c8d1e74247
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: RNG
+Time Vermelho: SKT
+Vencedor: RNG
+Placar: RNG: 1 x 0 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.06 minutos, RNG eliminou DRAGON
+Aos 36.669 minutos, RNG eliminou DRAGON
+Aos 10.009 minutos, RNG eliminou DRAGON
+Aos 30.497 minutos, RNG eliminou DRAGON
+Aos 17.683 minutos, RNG eliminou DRAGON
+Aos 34.835 minutos, RNG eliminou BARON_NASHOR
+Aos 11.151 minutos, RNG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 10.531 minutos, RNG Looper eliminou SKT Duke
+Aos 16.099 minutos, RNG Looper eliminou SKT Faker
+Aos 23.323 minutos, RNG xiaohu eliminou SKT Wolf
+Aos 24.367 minutos, RNG Looper eliminou SKT Faker
+Aos 24.491 minutos, RNG Looper eliminou SKT Duke
+Aos 34.935 minutos, RNG xiaohu eliminou SKT Bang
+Aos 35.107 minutos, RNG xiaohu eliminou SKT Wolf
+Aos 35.334 minutos, RNG Wuxx eliminou SKT Faker
+Aos 35.734 minutos, RNG Wuxx eliminou SKT Blank
+Aos 41.267 minutos, RNG Wuxx eliminou SKT Bang
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6758
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60575?gameHash=6853b0f718293bc9
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: RNG
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: RNG: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.01 minutos, RNG eliminou RIFT_HERALD
+Aos 17.976 minutos, SKT eliminou DRAGON
+Aos 10.873 minutos, SKT eliminou DRAGON
+Aos 21.883 minutos, SKT eliminou BARON_NASHOR
+Aos 16.339 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 7.8 minutos, RNG xiaohu eliminou SKT Wolf
+Aos 13.754 minutos, RNG mlxg eliminou SKT Blank
+Aos 15.06 minutos, RNG mlxg eliminou SKT Wolf
+Aos 8.57 minutos, SKT Bang eliminou RNG Mata
+Aos 8.648 minutos, SKT Blank eliminou RNG Wuxx
+Aos 9.92 minutos, SKT Faker eliminou RNG xiaohu
+Aos 13.753 minutos, SKT Faker eliminou RNG mlxg
+Aos 13.925 minutos, SKT Bang eliminou RNG Mata
+Aos 13.944 minutos, SKT Bang eliminou RNG Wuxx
+Aos 14.021 minutos, SKT Wolf eliminou RNG Looper
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6759
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60576?gameHash=7e49b2d62cda501c
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: RNG
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: RNG: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.114 minutos, RNG eliminou RIFT_HERALD
+Aos 10.491 minutos, SKT eliminou DRAGON
+Aos 25.496 minutos, SKT eliminou DRAGON
+Aos 32.395 minutos, SKT eliminou DRAGON
+Aos 18.869 minutos, SKT eliminou DRAGON
+Aos 31.958 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 13.8 minutos, RNG xiaohu eliminou SKT Wolf
+Aos 16.209 minutos, RNG mlxg eliminou SKT Wolf
+Aos 16.301 minutos, RNG mlxg eliminou SKT Bang
+Aos 16.851 minutos, RNG mlxg eliminou SKT Faker
+Aos 17.546 minutos, RNG mlxg eliminou SKT Blank
+Aos 25.089 minutos, RNG Looper eliminou SKT Faker
+Aos 28.578 minutos, RNG Wuxx eliminou SKT Faker
+Aos 28.648 minutos, RNG xiaohu eliminou SKT Bang
+Aos 34.275 minutos, RNG mlxg eliminou SKT Bang
+Aos 34.54 minutos, RNG mlxg eliminou SKT Faker
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6760
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/60577?gameHash=13bd3b91846376ef
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: RNG
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: RNG: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.313 minutos, SKT eliminou DRAGON
+Aos 26.058 minutos, SKT eliminou DRAGON
+Aos 18.985 minutos, SKT eliminou DRAGON
+Aos 22.328 minutos, SKT eliminou BARON_NASHOR
+Aos 13.397 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos nan minutos, nan eliminou nan
+Aos 10.708 minutos, SKT Blank eliminou RNG Looper
+Aos 14.802 minutos, SKT Faker eliminou RNG xiaohu
+Aos 17.473 minutos, SKT Faker eliminou RNG Looper
+Aos 20.058 minutos, SKT Duke eliminou RNG Mata
+Aos 21.848 minutos, SKT Faker eliminou RNG Looper
+Aos 27.11 minutos, SKT Bang eliminou RNG mlxg
+Aos 27.146 minutos, SKT Wolf eliminou RNG Mata
+Aos 27.383 minutos, SKT Bang eliminou RNG Wuxx
+Aos 27.72 minutos, SKT Blank eliminou RNG xiaohu
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6761
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/70021?gameHash=50f9d2ed618ae11b
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: FW
+Vencedor: CLG
+Placar: CLG: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.142 minutos, CLG eliminou DRAGON
+Aos 28.215 minutos, CLG eliminou BARON_NASHOR
+Aos 12.826 minutos, CLG eliminou RIFT_HERALD
+Aos 13.379 minutos, FW eliminou DRAGON
+Aos 26.263 minutos, FW eliminou DRAGON
+
+=== ABATES ===
+Aos 12.056 minutos, CLG Stixxay eliminou FW MMD
+Aos 19.864 minutos, CLG Darshan eliminou FW Maple
+Aos 27.005 minutos, CLG Xmithie eliminou FW SwordArt
+Aos 27.099 minutos, CLG Stixxay eliminou FW MMD
+Aos 27.174 minutos, CLG Darshan eliminou FW NL
+Aos 27.245 minutos, CLG Huhi eliminou FW Karsa
+Aos 27.314 minutos, CLG aphromoo eliminou FW Maple
+Aos 30.667 minutos, CLG Huhi eliminou FW Karsa
+Aos 30.763 minutos, CLG Darshan eliminou FW SwordArt
+Aos 30.8 minutos, CLG Darshan eliminou FW Maple
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6762
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/70034?gameHash=4fc001a2dece10bf
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: FW
+Vencedor: FW
+Placar: CLG: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 6.084 minutos, CLG eliminou DRAGON
+Aos 12.705 minutos, CLG eliminou RIFT_HERALD
+Aos 25.725 minutos, FW eliminou DRAGON
+Aos 31.879 minutos, FW eliminou DRAGON
+Aos 19.259 minutos, FW eliminou DRAGON
+Aos 12.344 minutos, FW eliminou DRAGON
+Aos 27.974 minutos, FW eliminou BARON_NASHOR
+Aos 6.008 minutos, FW eliminou RIFT_HERALD
+Aos 18.332 minutos, FW eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 19.649 minutos, CLG Xmithie eliminou FW Karsa
+Aos 27.973 minutos, CLG Darshan eliminou FW SwordArt
+Aos 33.763 minutos, CLG Huhi eliminou FW Maple
+Aos 33.855 minutos, CLG Xmithie eliminou FW NL
+Aos 33.871 minutos, CLG Xmithie eliminou FW Karsa
+Aos 10.076 minutos, FW Maple eliminou CLG aphromoo
+Aos 19.655 minutos, FW MMD eliminou CLG Xmithie
+Aos 21.943 minutos, FW Maple eliminou CLG Huhi
+Aos 22.722 minutos, FW Maple eliminou CLG Stixxay
+Aos 27.893 minutos, FW Maple eliminou CLG Xmithie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6763
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/70035?gameHash=dc11f38d6243e85e
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: FW
+Vencedor: CLG
+Placar: CLG: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.888 minutos, CLG eliminou DRAGON
+Aos 37.062 minutos, CLG eliminou DRAGON
+Aos 31.159 minutos, CLG eliminou BARON_NASHOR
+Aos 11.33 minutos, FW eliminou DRAGON
+Aos 23.989 minutos, FW eliminou DRAGON
+Aos 17.873 minutos, FW eliminou DRAGON
+Aos 19.813 minutos, FW eliminou RIFT_HERALD
+Aos 13.598 minutos, FW eliminou RIFT_HERALD
+Aos 7.446 minutos, FW eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 15.076 minutos, CLG Xmithie eliminou FW NL
+Aos 15.219 minutos, CLG Huhi eliminou FW Karsa
+Aos 18.055 minutos, CLG Huhi eliminou FW NL
+Aos 18.166 minutos, CLG Stixxay eliminou FW Karsa
+Aos 25.105 minutos, CLG Huhi eliminou FW NL
+Aos 25.217 minutos, CLG Xmithie eliminou FW Maple
+Aos 25.705 minutos, CLG Darshan eliminou FW Karsa
+Aos 30.447 minutos, CLG Huhi eliminou FW Karsa
+Aos 30.487 minutos, CLG Stixxay eliminou FW SwordArt
+Aos 34.749 minutos, CLG Stixxay eliminou FW Karsa
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6764
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/70036?gameHash=14cdf682c4003638
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: FW
+Vencedor: CLG
+Placar: CLG: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.895 minutos, CLG eliminou DRAGON
+Aos 24.356 minutos, CLG eliminou DRAGON
+Aos 26.665 minutos, CLG eliminou BARON_NASHOR
+Aos 12.024 minutos, CLG eliminou RIFT_HERALD
+Aos 10.793 minutos, FW eliminou DRAGON
+
+=== ABATES ===
+Aos 2.734 minutos, CLG aphromoo eliminou FW Maple
+Aos 6.594 minutos, CLG Darshan eliminou FW MMD
+Aos 12.975 minutos, CLG Xmithie eliminou FW NL
+Aos 14.13 minutos, CLG aphromoo eliminou FW MMD
+Aos 14.354 minutos, CLG Stixxay eliminou FW Karsa
+Aos 17.111 minutos, CLG Stixxay eliminou FW Maple
+Aos 17.18 minutos, CLG Xmithie eliminou FW Karsa
+Aos 19.513 minutos, CLG Huhi eliminou FW Maple
+Aos 21.709 minutos, CLG Huhi eliminou FW SwordArt
+Aos 21.856 minutos, CLG Stixxay eliminou FW Maple
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6765
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/70046?gameHash=7c49caa814dfa403
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: CLG: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.244 minutos, CLG eliminou DRAGON
+Aos 28.282 minutos, CLG eliminou BARON_NASHOR
+Aos 21.264 minutos, SKT eliminou DRAGON
+Aos 14.971 minutos, SKT eliminou DRAGON
+Aos 7.799 minutos, SKT eliminou DRAGON
+Aos 16.871 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 7.564 minutos, CLG Xmithie eliminou SKT Duke
+Aos 25.55 minutos, CLG Darshan eliminou SKT Faker
+Aos 26.164 minutos, CLG Huhi eliminou SKT Wolf
+Aos 26.576 minutos, CLG Darshan eliminou SKT Bang
+Aos 27.453 minutos, CLG Xmithie eliminou SKT Faker
+Aos 27.545 minutos, CLG Stixxay eliminou SKT Wolf
+Aos 27.884 minutos, CLG Huhi eliminou SKT Blank
+Aos 33.879 minutos, CLG Xmithie eliminou SKT Bang
+Aos 34.032 minutos, CLG Xmithie eliminou SKT Faker
+Aos 2.953 minutos, SKT Bang eliminou CLG Darshan
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6766
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/70062?gameHash=8e4fa01185891ba7
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: CLG: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.156 minutos, CLG eliminou DRAGON
+Aos 8.32 minutos, CLG eliminou RIFT_HERALD
+Aos 28.138 minutos, SKT eliminou DRAGON
+Aos 21.428 minutos, SKT eliminou DRAGON
+Aos 7.348 minutos, SKT eliminou DRAGON
+Aos 30.718 minutos, SKT eliminou BARON_NASHOR
+Aos 15.758 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 5.976 minutos, CLG Stixxay eliminou SKT Faker
+Aos 9.652 minutos, CLG Stixxay eliminou SKT Duke
+Aos 13.326 minutos, CLG Xmithie eliminou SKT Faker
+Aos 17.956 minutos, CLG Darshan eliminou SKT Faker
+Aos 24.559 minutos, CLG Darshan eliminou SKT Duke
+Aos 24.971 minutos, CLG Huhi eliminou SKT Blank
+Aos 25.074 minutos, CLG Huhi eliminou SKT Faker
+Aos 10.149 minutos, SKT Bang eliminou CLG Huhi
+Aos 13.977 minutos, SKT Bang eliminou CLG Darshan
+Aos 20.023 minutos, SKT Faker eliminou CLG Darshan
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6767
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/70063?gameHash=7f48241f2ecbecc8
+Campeonato: MSI
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: CLG: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.145 minutos, CLG eliminou RIFT_HERALD
+Aos 28.814 minutos, SKT eliminou DRAGON
+Aos 35.456 minutos, SKT eliminou DRAGON
+Aos 8.736 minutos, SKT eliminou DRAGON
+Aos 15.633 minutos, SKT eliminou DRAGON
+Aos 21.996 minutos, SKT eliminou DRAGON
+Aos 25.742 minutos, SKT eliminou BARON_NASHOR
+Aos 34.406 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.898 minutos, CLG Darshan eliminou SKT Duke
+Aos 27.288 minutos, CLG Xmithie eliminou SKT Blank
+Aos 27.455 minutos, CLG Stixxay eliminou SKT Bang
+Aos 30.471 minutos, CLG Stixxay eliminou SKT Duke
+Aos 30.622 minutos, CLG Stixxay eliminou SKT Bang
+Aos 32.803 minutos, CLG Stixxay eliminou SKT Blank
+Aos 33.349 minutos, CLG Huhi eliminou SKT Faker
+Aos 9.727 minutos, SKT Bang eliminou CLG Stixxay
+Aos 9.838 minutos, SKT Faker eliminou CLG Huhi
+Aos 18.735 minutos, SKT Faker eliminou CLG aphromoo
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6768
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180106?gameHash=6000b59281dff531
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: G2: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.773 minutos, G2 eliminou RIFT_HERALD
+Aos 28.258 minutos, SKT eliminou WATER_DRAGON
+Aos 14.643 minutos, SKT eliminou AIR_DRAGON
+Aos 34.608 minutos, SKT eliminou AIR_DRAGON
+Aos 21.143 minutos, SKT eliminou AIR_DRAGON
+Aos 41.418 minutos, SKT eliminou ELDER_DRAGON
+Aos 41.911 minutos, SKT eliminou BARON_NASHOR
+Aos 33.109 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 11.335 minutos, G2 Trick eliminou SKT Wolf
+Aos 13.597 minutos, G2 Perkz eliminou SKT Wolf
+Aos 13.597 minutos, G2 Perkz eliminou SKT Bang
+Aos 26.333 minutos, G2 Zven eliminou SKT Huni
+Aos 38.459 minutos, G2 Perkz eliminou SKT Bang
+Aos 0.7666666666666667 minutos, TooEarly eliminou TooEarly
+Aos 17.341 minutos, SKT Bang eliminou G2 Expect
+Aos 22.271 minutos, SKT Peanut eliminou G2 Perkz
+Aos 25.902 minutos, SKT Faker eliminou G2 Trick
+Aos 26.242 minutos, SKT Peanut eliminou G2 mithy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6769
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180124?gameHash=a3c01e30df8a98a8
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: FW
+Vencedor: WE
+Placar: WE: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.358 minutos, WE eliminou FIRE_DRAGON
+Aos 26.797 minutos, WE eliminou BARON_NASHOR
+Aos 17.98 minutos, WE eliminou RIFT_HERALD
+Aos 15.163 minutos, FW eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 6.708 minutos, WE Condi eliminou FW MMD
+Aos 10.289 minutos, WE 957 eliminou FW MMD
+Aos 10.592 minutos, WE xiye eliminou FW Karsa
+Aos 16.788 minutos, WE 957 eliminou FW SwordArt
+Aos 19.21 minutos, WE 957 eliminou FW Karsa
+Aos 22.428 minutos, WE 957 eliminou FW MMD
+Aos 22.552 minutos, WE xiye eliminou FW Maple
+Aos 22.653 minutos, WE 957 eliminou FW SwordArt
+Aos 24.401 minutos, WE 957 eliminou FW Betty
+Aos 26.733 minutos, WE Mystic eliminou FW Karsa
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6770
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180130?gameHash=03336bc5758a759d
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: GAM
+Time Vermelho: TSM
+Vencedor: GAM
+Placar: GAM: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.673 minutos, GAM eliminou AIR_DRAGON
+Aos 14.381 minutos, GAM eliminou EARTH_DRAGON
+Aos 29.641 minutos, GAM eliminou BARON_NASHOR
+Aos 34.226 minutos, TSM eliminou WATER_DRAGON
+Aos 20.894 minutos, TSM eliminou EARTH_DRAGON
+
+=== ABATES ===
+Aos 4.217 minutos, GAM Stark eliminou TSM Hauntzer
+Aos 4.785 minutos, GAM Levi eliminou TSM Biofrost
+Aos 8.261 minutos, GAM Stark eliminou TSM Svenskeren
+Aos 12.781 minutos, GAM Levi eliminou TSM Svenskeren
+Aos 12.84 minutos, GAM Slay eliminou TSM WildTurtle
+Aos 16.831 minutos, GAM Optimus eliminou TSM Biofrost
+Aos 16.9 minutos, GAM Slay eliminou TSM Hauntzer
+Aos 21.767 minutos, GAM Slay eliminou TSM Hauntzer
+Aos 29.23 minutos, GAM Optimus eliminou TSM Svenskeren
+Aos 29.236 minutos, GAM Stark eliminou TSM WildTurtle
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6771
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180138?gameHash=5604703d17a7f2a4
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: G2
+Vencedor: G2
+Placar: FW: 0 x 1 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 38.195 minutos, FW eliminou ELDER_DRAGON
+Aos 16.033 minutos, FW eliminou WATER_DRAGON
+Aos 23.067 minutos, FW eliminou WATER_DRAGON
+Aos 37.58 minutos, FW eliminou BARON_NASHOR
+Aos 31.183 minutos, G2 eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 18.616 minutos, FW Karsa eliminou G2 Trick
+Aos 18.872 minutos, FW Maple eliminou G2 Expect
+Aos 19.074 minutos, FW Betty eliminou G2 mithy
+Aos 21.493 minutos, FW Karsa eliminou G2 Perkz
+Aos 26.042 minutos, FW Maple eliminou G2 mithy
+Aos 28.893 minutos, FW Karsa eliminou G2 Trick
+Aos 31.762 minutos, FW Betty eliminou G2 mithy
+Aos 33.065 minutos, FW MMD eliminou G2 Perkz
+Aos 36.834 minutos, FW Karsa eliminou G2 Trick
+Aos 41.059 minutos, FW Maple eliminou G2 mithy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6772
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180145?gameHash=2ba736f5ffe8a59c
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: GAM
+Vencedor: SKT
+Placar: SKT: 1 x 0 :GAM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.798 minutos, SKT eliminou EARTH_DRAGON
+Aos 19.14 minutos, SKT eliminou EARTH_DRAGON
+Aos 25.389 minutos, SKT eliminou EARTH_DRAGON
+Aos 20.293 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.765 minutos, SKT Peanut eliminou GAM Levi
+Aos 10.557 minutos, SKT Peanut eliminou GAM Optimus
+Aos 12.203 minutos, SKT Peanut eliminou GAM Optimus
+Aos 12.379 minutos, SKT Bang eliminou GAM Levi
+Aos 12.986 minutos, SKT Bang eliminou GAM Slay
+Aos 13.056 minutos, SKT Peanut eliminou GAM Archie
+Aos 13.146 minutos, SKT Peanut eliminou GAM Stark
+Aos 13.765 minutos, SKT Huni eliminou GAM Levi
+Aos 15.326 minutos, SKT Bang eliminou GAM Archie
+Aos 15.495 minutos, SKT Faker eliminou GAM Optimus
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6773
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180154?gameHash=e1b11e4d1901c49b
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: WE
+Vencedor: TSM
+Placar: TSM: 1 x 0 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 34.248 minutos, TSM eliminou WATER_DRAGON
+Aos 27.457 minutos, TSM eliminou AIR_DRAGON
+Aos 33.598 minutos, TSM eliminou BARON_NASHOR
+Aos 26.033 minutos, TSM eliminou BARON_NASHOR
+Aos 19.334 minutos, WE eliminou AIR_DRAGON
+Aos 12.41 minutos, WE eliminou EARTH_DRAGON
+
+=== ABATES ===
+Aos 9.954 minutos, TSM Svenskeren eliminou WE 957
+Aos 21.932 minutos, TSM Bjergsen eliminou WE 957
+Aos 24.047 minutos, TSM Hauntzer eliminou WE 957
+Aos 26.125 minutos, TSM Hauntzer eliminou WE 957
+Aos 30.478 minutos, TSM Hauntzer eliminou WE 957
+Aos 37.085 minutos, TSM WildTurtle eliminou WE Ben
+Aos 39.003 minutos, TSM Hauntzer eliminou WE Mystic
+Aos 39.02 minutos, TSM Bjergsen eliminou WE Ben
+Aos 39.037 minutos, TSM Hauntzer eliminou WE Condi
+Aos 39.063 minutos, TSM Hauntzer eliminou WE 957
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6774
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190147?gameHash=fd2fca48055e4ea9
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: TSM
+Vencedor: SKT
+Placar: SKT: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.871 minutos, SKT eliminou FIRE_DRAGON
+Aos 25.07 minutos, SKT eliminou AIR_DRAGON
+Aos 26.368 minutos, SKT eliminou BARON_NASHOR
+Aos 16.701 minutos, SKT eliminou RIFT_HERALD
+Aos 11.351 minutos, TSM eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 3.056 minutos, SKT Faker eliminou TSM Svenskeren
+Aos 5.108 minutos, SKT Peanut eliminou TSM Svenskeren
+Aos 12.866 minutos, SKT Peanut eliminou TSM Hauntzer
+Aos 12.923 minutos, SKT Peanut eliminou TSM Svenskeren
+Aos 15.961 minutos, SKT Huni eliminou TSM Bjergsen
+Aos 17.677 minutos, SKT Peanut eliminou TSM WildTurtle
+Aos 19.0 minutos, SKT Huni eliminou TSM Svenskeren
+Aos 21.58 minutos, SKT Peanut eliminou TSM WildTurtle
+Aos 23.652 minutos, SKT Peanut eliminou TSM Svenskeren
+Aos 23.699 minutos, SKT Huni eliminou TSM Biofrost
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6775
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190173?gameHash=68e64129fe2110ae
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: WE
+Vencedor: WE
+Placar: G2: 0 x 1 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.999 minutos, G2 eliminou WATER_DRAGON
+Aos 24.776 minutos, WE eliminou AIR_DRAGON
+Aos 18.388 minutos, WE eliminou FIRE_DRAGON
+Aos 22.427 minutos, WE eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.886 minutos, G2 Zven eliminou WE Mystic
+Aos 7.955 minutos, G2 mithy eliminou WE Condi
+Aos 25.87 minutos, G2 Perkz eliminou WE xiye
+Aos 4.921 minutos, WE Condi eliminou G2 Trick
+Aos 17.403 minutos, WE Condi eliminou G2 Trick
+Aos 21.844 minutos, WE 957 eliminou G2 Zven
+Aos 21.861 minutos, WE 957 eliminou G2 Trick
+Aos 23.27 minutos, WE Ben eliminou G2 Perkz
+Aos 26.027 minutos, WE Condi eliminou G2 Zven
+Aos 27.742 minutos, WE Condi eliminou G2 Perkz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6776
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190180?gameHash=7f22f5e1c5f67081
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: TSM
+Vencedor: FW
+Placar: FW: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.228 minutos, FW eliminou AIR_DRAGON
+Aos 22.031 minutos, FW eliminou AIR_DRAGON
+Aos 32.531 minutos, FW eliminou BARON_NASHOR
+Aos 15.865 minutos, TSM eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 9.307 minutos, FW Karsa eliminou TSM Hauntzer
+Aos 12.76 minutos, FW Karsa eliminou TSM Svenskeren
+Aos 20.653 minutos, FW Karsa eliminou TSM Hauntzer
+Aos 22.304 minutos, FW Karsa eliminou TSM Hauntzer
+Aos 28.421 minutos, FW Karsa eliminou TSM Biofrost
+Aos 30.414 minutos, FW Betty eliminou TSM Biofrost
+Aos 30.713 minutos, FW Betty eliminou TSM Svenskeren
+Aos 30.786 minutos, FW Maple eliminou TSM WildTurtle
+Aos 31.373 minutos, FW Maple eliminou TSM Bjergsen
+Aos 31.562 minutos, FW Betty eliminou TSM Hauntzer
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6777
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190189?gameHash=9cd972caedb6443f
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: GAM
+Time Vermelho: G2
+Vencedor: G2
+Placar: GAM: 0 x 1 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.968 minutos, GAM eliminou FIRE_DRAGON
+Aos 33.52 minutos, GAM eliminou EARTH_DRAGON
+Aos 29.061 minutos, GAM eliminou BARON_NASHOR
+Aos 26.095 minutos, G2 eliminou FIRE_DRAGON
+Aos 40.746 minutos, G2 eliminou ELDER_DRAGON
+Aos 13.6 minutos, G2 eliminou EARTH_DRAGON
+Aos 7.18 minutos, G2 eliminou WATER_DRAGON
+Aos 37.131 minutos, G2 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.296 minutos, GAM Optimus eliminou G2 Trick
+Aos 13.875 minutos, GAM Slay eliminou G2 mithy
+Aos 14.004 minutos, GAM Archie eliminou G2 Trick
+Aos 14.098 minutos, GAM Optimus eliminou G2 Expect
+Aos 15.424 minutos, GAM Stark eliminou G2 Perkz
+Aos 16.993 minutos, GAM Archie eliminou G2 Expect
+Aos 20.076 minutos, GAM Levi eliminou G2 Trick
+Aos 28.149 minutos, GAM Optimus eliminou G2 Zven
+Aos 28.43 minutos, GAM Slay eliminou G2 mithy
+Aos 28.436 minutos, GAM Levi eliminou G2 Expect
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6778
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190197?gameHash=7836715ba188f80c
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: WE: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.299 minutos, SKT eliminou AIR_DRAGON
+Aos 22.954 minutos, SKT eliminou FIRE_DRAGON
+Aos 16.768 minutos, SKT eliminou AIR_DRAGON
+Aos 31.716 minutos, SKT eliminou BARON_NASHOR
+Aos 23.301 minutos, SKT eliminou BARON_NASHOR
+Aos 17.94 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.974 minutos, WE 957 eliminou SKT Huni
+Aos 11.285 minutos, WE Condi eliminou SKT Bang
+Aos 13.61 minutos, WE Condi eliminou SKT Wolf
+Aos 14.16 minutos, WE Ben eliminou SKT Bang
+Aos 15.573 minutos, WE Condi eliminou SKT Faker
+Aos 18.452 minutos, WE Ben eliminou SKT Faker
+Aos 18.527 minutos, WE 957 eliminou SKT Peanut
+Aos 21.38 minutos, WE Condi eliminou SKT Faker
+Aos 23.745 minutos, WE Ben eliminou SKT Huni
+Aos 26.386 minutos, WE Condi eliminou SKT Huni
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6779
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180211?gameHash=ea452b69002fc067
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: G2: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.008 minutos, G2 eliminou WATER_DRAGON
+Aos 43.338 minutos, G2 eliminou BARON_NASHOR
+Aos 49.085 minutos, TSM eliminou ELDER_DRAGON
+Aos 38.832 minutos, TSM eliminou ELDER_DRAGON
+Aos 12.668 minutos, TSM eliminou EARTH_DRAGON
+Aos 32.583 minutos, TSM eliminou FIRE_DRAGON
+Aos 25.392 minutos, TSM eliminou FIRE_DRAGON
+Aos 34.609 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 19.179 minutos, G2 Perkz eliminou TSM Svenskeren
+Aos 19.18 minutos, G2 Expect eliminou TSM Biofrost
+Aos 26.794 minutos, G2 Zven eliminou TSM WildTurtle
+Aos 31.669 minutos, G2 Perkz eliminou TSM Hauntzer
+Aos 31.725 minutos, G2 Zven eliminou TSM Biofrost
+Aos 35.303 minutos, G2 Zven eliminou TSM Hauntzer
+Aos 43.431 minutos, G2 Perkz eliminou TSM WildTurtle
+Aos 6.873 minutos, TSM Svenskeren eliminou G2 Perkz
+Aos 8.507 minutos, TSM Svenskeren eliminou G2 Trick
+Aos 15.309 minutos, TSM Biofrost eliminou G2 Trick
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6780
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180223?gameHash=59d95d7a91fbd857
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: FW
+Vencedor: SKT
+Placar: SKT: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 34.477 minutos, SKT eliminou EARTH_DRAGON
+Aos 20.516 minutos, SKT eliminou EARTH_DRAGON
+Aos 26.742 minutos, SKT eliminou FIRE_DRAGON
+Aos 6.637 minutos, SKT eliminou FIRE_DRAGON
+Aos 33.62 minutos, SKT eliminou BARON_NASHOR
+Aos 13.964 minutos, SKT eliminou RIFT_HERALD
+Aos 14.264 minutos, FW eliminou EARTH_DRAGON
+
+=== ABATES ===
+Aos 9.182 minutos, SKT Peanut eliminou FW MMD
+Aos 32.964 minutos, SKT Bang eliminou FW Betty
+Aos 33.052 minutos, SKT Huni eliminou FW MMD
+Aos 35.361 minutos, SKT Faker eliminou FW Betty
+Aos 35.505 minutos, SKT Faker eliminou FW Maple
+Aos 35.577 minutos, SKT Bang eliminou FW Karsa
+Aos 35.771 minutos, SKT Faker eliminou FW SwordArt
+Aos 35.78 minutos, SKT Huni eliminou FW MMD
+Aos 11.533 minutos, FW Maple eliminou SKT Peanut
+Aos 21.291 minutos, FW Betty eliminou SKT Huni
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6781
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180232?gameHash=dd7144ce9d7a272a
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: GAM
+Time Vermelho: WE
+Vencedor: GAM
+Placar: GAM: 1 x 0 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.856 minutos, GAM eliminou AIR_DRAGON
+Aos 30.757 minutos, GAM eliminou AIR_DRAGON
+Aos 14.821 minutos, GAM eliminou WATER_DRAGON
+Aos 27.459 minutos, GAM eliminou BARON_NASHOR
+Aos 15.427 minutos, GAM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 2.479 minutos, GAM Slay eliminou WE Mystic
+Aos 4.706 minutos, GAM Optimus eliminou WE Condi
+Aos 11.442 minutos, GAM Levi eliminou WE Mystic
+Aos 11.548 minutos, GAM Levi eliminou WE 957
+Aos 11.591 minutos, GAM Optimus eliminou WE Ben
+Aos 11.937 minutos, GAM Levi eliminou WE xiye
+Aos 15.085 minutos, GAM Optimus eliminou WE Condi
+Aos 17.938 minutos, GAM Levi eliminou WE Ben
+Aos 19.455 minutos, GAM Levi eliminou WE Mystic
+Aos 19.627 minutos, GAM Slay eliminou WE xiye
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6782
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180239?gameHash=01a96409b7684abe
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: FW
+Vencedor: G2
+Placar: G2: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.096 minutos, G2 eliminou WATER_DRAGON
+Aos 15.796 minutos, G2 eliminou EARTH_DRAGON
+Aos 9.241 minutos, G2 eliminou WATER_DRAGON
+Aos 24.307 minutos, G2 eliminou BARON_NASHOR
+Aos 17.605 minutos, G2 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 2.873 minutos, G2 mithy eliminou FW SwordArt
+Aos 4.443 minutos, G2 Trick eliminou FW MMD
+Aos 6.252 minutos, G2 Expect eliminou FW SwordArt
+Aos 6.288 minutos, G2 Zven eliminou FW Betty
+Aos 8.397 minutos, G2 Perkz eliminou FW Karsa
+Aos 8.414 minutos, G2 Expect eliminou FW Maple
+Aos 13.709 minutos, G2 Perkz eliminou FW MMD
+Aos 13.806 minutos, G2 Perkz eliminou FW Karsa
+Aos 20.528 minutos, G2 Perkz eliminou FW Maple
+Aos 24.181 minutos, G2 Trick eliminou FW SwordArt
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6783
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180250?gameHash=d1842b4b45bf92df
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: GAM
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: GAM: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 8.509 minutos, SKT eliminou AIR_DRAGON
+Aos 16.212 minutos, SKT eliminou AIR_DRAGON
+Aos 22.402 minutos, SKT eliminou AIR_DRAGON
+Aos 21.187 minutos, SKT eliminou BARON_NASHOR
+Aos 15.167 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 2.241 minutos, GAM Levi eliminou SKT Faker
+Aos 3.817 minutos, GAM Stark eliminou SKT Huni
+Aos 4.448 minutos, GAM Levi eliminou SKT Huni
+Aos 9.258 minutos, GAM Levi eliminou SKT Wolf
+Aos 9.309 minutos, GAM Slay eliminou SKT Bang
+Aos 9.583 minutos, GAM Levi eliminou SKT Huni
+Aos 10.936 minutos, GAM Levi eliminou SKT Huni
+Aos 10.964 minutos, GAM Levi eliminou SKT Bang
+Aos 13.747 minutos, GAM Optimus eliminou SKT Huni
+Aos 17.494 minutos, GAM Levi eliminou SKT Peanut
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6784
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180257?gameHash=ce61f742ccc87f29
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: TSM
+Vencedor: WE
+Placar: WE: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.924 minutos, WE eliminou AIR_DRAGON
+Aos 25.415 minutos, WE eliminou BARON_NASHOR
+Aos 36.29 minutos, WE eliminou BARON_NASHOR
+Aos 14.308 minutos, WE eliminou RIFT_HERALD
+Aos 14.605 minutos, TSM eliminou AIR_DRAGON
+Aos 21.143 minutos, TSM eliminou EARTH_DRAGON
+Aos 37.704 minutos, TSM eliminou EARTH_DRAGON
+
+=== ABATES ===
+Aos 5.719 minutos, WE Ben eliminou TSM Svenskeren
+Aos 9.47 minutos, WE 957 eliminou TSM Hauntzer
+Aos 11.44 minutos, WE Condi eliminou TSM Svenskeren
+Aos 11.658 minutos, WE 957 eliminou TSM Biofrost
+Aos 11.895 minutos, WE 957 eliminou TSM Hauntzer
+Aos 13.357 minutos, WE xiye eliminou TSM Bjergsen
+Aos 16.605 minutos, WE Condi eliminou TSM Svenskeren
+Aos 24.663 minutos, WE Condi eliminou TSM WildTurtle
+Aos 24.866 minutos, WE xiye eliminou TSM Svenskeren
+Aos 24.986 minutos, WE Condi eliminou TSM Hauntzer
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6785
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190242?gameHash=f2c7aa22e4c07abf
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: G2
+Vencedor: WE
+Placar: WE: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.084 minutos, WE eliminou FIRE_DRAGON
+Aos 19.257 minutos, WE eliminou WATER_DRAGON
+Aos 12.599 minutos, WE eliminou WATER_DRAGON
+Aos 25.354 minutos, WE eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 8.613 minutos, WE xiye eliminou G2 Trick
+Aos 13.874 minutos, WE 957 eliminou G2 mithy
+Aos 14.047 minutos, WE xiye eliminou G2 Trick
+Aos 14.072 minutos, WE Condi eliminou G2 Zven
+Aos 18.114 minutos, WE 957 eliminou G2 Expect
+Aos 18.127 minutos, WE Condi eliminou G2 mithy
+Aos 20.254 minutos, WE 957 eliminou G2 Zven
+Aos 24.655 minutos, WE 957 eliminou G2 Perkz
+Aos 25.256 minutos, WE Condi eliminou G2 Trick
+Aos 27.396 minutos, WE xiye eliminou G2 mithy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6786
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190255?gameHash=a09827bcddbdda75
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: GAM
+Vencedor: TSM
+Placar: TSM: 1 x 0 :GAM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 28.298 minutos, TSM eliminou WATER_DRAGON
+Aos 21.777 minutos, TSM eliminou EARTH_DRAGON
+Aos 14.714 minutos, TSM eliminou WATER_DRAGON
+Aos 28.991 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 2.545 minutos, TSM Svenskeren eliminou GAM Levi
+Aos 5.126 minutos, TSM Biofrost eliminou GAM Slay
+Aos 7.039 minutos, TSM Biofrost eliminou GAM Archie
+Aos 7.205 minutos, TSM Biofrost eliminou GAM Slay
+Aos 11.605 minutos, TSM Svenskeren eliminou GAM Optimus
+Aos 16.581 minutos, TSM Bjergsen eliminou GAM Stark
+Aos 16.734 minutos, TSM WildTurtle eliminou GAM Optimus
+Aos 20.101 minutos, TSM Svenskeren eliminou GAM Optimus
+Aos 22.284 minutos, TSM Hauntzer eliminou GAM Optimus
+Aos 22.455 minutos, TSM Bjergsen eliminou GAM Slay
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6787
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190264?gameHash=016ac9c66c8ac080
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: SKT
+Vencedor: FW
+Placar: FW: 1 x 0 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 33.987 minutos, FW eliminou EARTH_DRAGON
+Aos 10.638 minutos, FW eliminou FIRE_DRAGON
+Aos 24.862 minutos, FW eliminou EARTH_DRAGON
+Aos 37.238 minutos, FW eliminou BARON_NASHOR
+Aos 29.337 minutos, FW eliminou BARON_NASHOR
+Aos 17.765 minutos, SKT eliminou EARTH_DRAGON
+
+=== ABATES ===
+Aos 7.692 minutos, FW Karsa eliminou SKT Huni
+Aos 14.995 minutos, FW Karsa eliminou SKT Wolf
+Aos 15.346 minutos, FW Maple eliminou SKT Faker
+Aos 17.515 minutos, FW Karsa eliminou SKT Huni
+Aos 22.319 minutos, FW Maple eliminou SKT Wolf
+Aos 22.381 minutos, FW MMD eliminou SKT Peanut
+Aos 22.454 minutos, FW MMD eliminou SKT Huni
+Aos 28.143 minutos, FW Maple eliminou SKT Faker
+Aos 28.185 minutos, FW MMD eliminou SKT Wolf
+Aos 32.224 minutos, FW Betty eliminou SKT Peanut
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6788
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190273?gameHash=932ac227b8ab560e
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: GAM
+Vencedor: GAM
+Placar: G2: 0 x 1 :GAM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 37.351 minutos, G2 eliminou BARON_NASHOR
+Aos 34.192 minutos, GAM eliminou AIR_DRAGON
+Aos 15.168 minutos, GAM eliminou FIRE_DRAGON
+Aos 26.869 minutos, GAM eliminou AIR_DRAGON
+Aos 29.286 minutos, GAM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 12.962 minutos, G2 Trick eliminou GAM Optimus
+Aos 15.239 minutos, G2 Perkz eliminou GAM Archie
+Aos 15.293 minutos, G2 Expect eliminou GAM Optimus
+Aos 19.306 minutos, G2 Zven eliminou GAM Optimus
+Aos 20.876 minutos, G2 Trick eliminou GAM Optimus
+Aos 21.906 minutos, G2 mithy eliminou GAM Slay
+Aos 22.732 minutos, G2 Expect eliminou GAM Optimus
+Aos 22.795 minutos, G2 Expect eliminou GAM Archie
+Aos 25.889 minutos, G2 Perkz eliminou GAM Archie
+Aos 30.738 minutos, G2 mithy eliminou GAM Archie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6789
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190280?gameHash=31eac7f42b5f4f15
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: TSM: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.708 minutos, SKT eliminou WATER_DRAGON
+Aos 16.272 minutos, SKT eliminou AIR_DRAGON
+Aos 29.107 minutos, SKT eliminou FIRE_DRAGON
+Aos 30.613 minutos, SKT eliminou BARON_NASHOR
+Aos 17.819 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 14.098 minutos, TSM WildTurtle eliminou SKT Bang
+Aos 17.038 minutos, TSM Svenskeren eliminou SKT Faker
+Aos 26.167 minutos, TSM Bjergsen eliminou SKT Huni
+Aos 33.357 minutos, TSM Bjergsen eliminou SKT Bang
+Aos 33.415 minutos, TSM WildTurtle eliminou SKT Wolf
+Aos 11.176 minutos, SKT Huni eliminou TSM Hauntzer
+Aos 11.389 minutos, SKT Peanut eliminou TSM WildTurtle
+Aos 14.027 minutos, SKT Bang eliminou TSM Bjergsen
+Aos 14.547 minutos, SKT Peanut eliminou TSM Svenskeren
+Aos 14.639 minutos, SKT Faker eliminou TSM Biofrost
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6790
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190287?gameHash=1d3a4aab02a70bdb
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: WE
+Vencedor: WE
+Placar: FW: 0 x 1 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.43 minutos, FW eliminou EARTH_DRAGON
+Aos 9.726 minutos, FW eliminou WATER_DRAGON
+Aos 30.82 minutos, FW eliminou EARTH_DRAGON
+Aos 16.602 minutos, WE eliminou WATER_DRAGON
+Aos 34.827 minutos, WE eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.224 minutos, FW Karsa eliminou WE Mystic
+Aos 7.3 minutos, FW Karsa eliminou WE Ben
+Aos 11.593 minutos, FW Karsa eliminou WE Mystic
+Aos 14.958 minutos, FW Karsa eliminou WE Mystic
+Aos 15.013 minutos, FW MMD eliminou WE Ben
+Aos 15.297 minutos, FW Karsa eliminou WE Condi
+Aos 15.429 minutos, FW Karsa eliminou WE 957
+Aos 7.405 minutos, WE Mystic eliminou FW Karsa
+Aos 15.026 minutos, WE Mystic eliminou FW Maple
+Aos 15.876 minutos, WE xiye eliminou FW Karsa
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6791
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180306?gameHash=da11fab881ad63b4
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: G2
+Vencedor: SKT
+Placar: SKT: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 18.574 minutos, SKT eliminou EARTH_DRAGON
+Aos 23.419 minutos, SKT eliminou BARON_NASHOR
+Aos 17.305 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 8.945 minutos, SKT Huni eliminou G2 Perkz
+Aos 9.08 minutos, SKT Huni eliminou G2 Trick
+Aos 11.194 minutos, SKT Faker eliminou G2 Trick
+Aos 11.823 minutos, SKT Faker eliminou G2 Perkz
+Aos 12.158 minutos, SKT Peanut eliminou G2 Trick
+Aos 13.503 minutos, SKT Huni eliminou G2 Trick
+Aos 14.469 minutos, SKT Bang eliminou G2 Zven
+Aos 20.099 minutos, SKT Peanut eliminou G2 Zven
+Aos 22.366 minutos, SKT Bang eliminou G2 Zven
+Aos 22.593 minutos, SKT Peanut eliminou G2 Perkz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6792
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180314?gameHash=530570051d84c333
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: FW
+Vencedor: TSM
+Placar: TSM: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 50.664 minutos, TSM eliminou ELDER_DRAGON
+Aos 10.428 minutos, TSM eliminou AIR_DRAGON
+Aos 31.078 minutos, TSM eliminou FIRE_DRAGON
+Aos 40.048 minutos, TSM eliminou ELDER_DRAGON
+Aos 24.912 minutos, FW eliminou FIRE_DRAGON
+Aos 18.082 minutos, FW eliminou WATER_DRAGON
+Aos 32.826 minutos, FW eliminou BARON_NASHOR
+Aos 50.189 minutos, FW eliminou BARON_NASHOR
+Aos 42.329 minutos, FW eliminou BARON_NASHOR
+Aos 11.856 minutos, FW eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 17.06 minutos, TSM Bjergsen eliminou FW SwordArt
+Aos 24.963 minutos, TSM Bjergsen eliminou FW Karsa
+Aos 35.388 minutos, TSM Bjergsen eliminou FW Betty
+Aos 35.519 minutos, TSM WildTurtle eliminou FW SwordArt
+Aos 38.944 minutos, TSM Bjergsen eliminou FW SwordArt
+Aos 39.054 minutos, TSM Bjergsen eliminou FW Maple
+Aos 39.208 minutos, TSM Svenskeren eliminou FW Karsa
+Aos 42.4 minutos, TSM WildTurtle eliminou FW MMD
+Aos 42.466 minutos, TSM Svenskeren eliminou FW Karsa
+Aos 42.577 minutos, TSM WildTurtle eliminou FW Betty
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6793
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180331?gameHash=e2b5435ded7cd56a
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: GAM
+Vencedor: WE
+Placar: WE: 1 x 0 :GAM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.934 minutos, WE eliminou FIRE_DRAGON
+Aos 28.504 minutos, WE eliminou FIRE_DRAGON
+Aos 15.763 minutos, WE eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 7.692 minutos, WE 957 eliminou GAM Stark
+Aos 11.186 minutos, WE 957 eliminou GAM Stark
+Aos 13.038 minutos, WE Ben eliminou GAM Optimus
+Aos 13.397 minutos, WE Mystic eliminou GAM Stark
+Aos 18.528 minutos, WE Mystic eliminou GAM Archie
+Aos 18.586 minutos, WE 957 eliminou GAM Optimus
+Aos 19.749 minutos, WE Mystic eliminou GAM Levi
+Aos 29.314 minutos, WE Mystic eliminou GAM Stark
+Aos 29.796 minutos, WE xiye eliminou GAM Slay
+Aos 29.841 minutos, WE Ben eliminou GAM Optimus
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6794
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180337?gameHash=a3984eaf02d16289
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: G2
+Vencedor: G2
+Placar: TSM: 0 x 1 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.427 minutos, TSM eliminou WATER_DRAGON
+Aos 22.979 minutos, TSM eliminou AIR_DRAGON
+Aos 29.16 minutos, TSM eliminou FIRE_DRAGON
+Aos 35.316 minutos, TSM eliminou ELDER_DRAGON
+Aos 38.926 minutos, TSM eliminou BARON_NASHOR
+Aos 45.708 minutos, G2 eliminou ELDER_DRAGON
+Aos 10.109 minutos, G2 eliminou AIR_DRAGON
+Aos 48.032 minutos, G2 eliminou BARON_NASHOR
+Aos 29.8 minutos, G2 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.836 minutos, TSM Bjergsen eliminou G2 Perkz
+Aos 18.819 minutos, TSM Biofrost eliminou G2 mithy
+Aos 24.853 minutos, TSM Bjergsen eliminou G2 Trick
+Aos 24.853 minutos, TSM Bjergsen eliminou G2 mithy
+Aos 32.123 minutos, TSM WildTurtle eliminou G2 Trick
+Aos 35.021 minutos, TSM Svenskeren eliminou G2 mithy
+Aos 35.045 minutos, TSM Hauntzer eliminou G2 Expect
+Aos 45.861 minutos, TSM WildTurtle eliminou G2 Expect
+Aos 50.104 minutos, TSM Biofrost eliminou G2 mithy
+Aos 18.991 minutos, G2 Perkz eliminou TSM Svenskeren
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6795
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180343?gameHash=ded059180842d72f
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: GAM
+Vencedor: FW
+Placar: FW: 1 x 0 :GAM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 28.187 minutos, FW eliminou AIR_DRAGON
+Aos 18.286 minutos, FW eliminou AIR_DRAGON
+Aos 10.01 minutos, GAM eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 10.573 minutos, FW Betty eliminou GAM Optimus
+Aos 10.599 minutos, FW Maple eliminou GAM Levi
+Aos 10.699 minutos, FW Betty eliminou GAM Slay
+Aos 10.764 minutos, FW Betty eliminou GAM Archie
+Aos 10.81 minutos, FW Betty eliminou GAM Stark
+Aos 11.681 minutos, FW SwordArt eliminou GAM Optimus
+Aos 13.12 minutos, FW Karsa eliminou GAM Archie
+Aos 13.2 minutos, FW SwordArt eliminou GAM Levi
+Aos 13.511 minutos, FW SwordArt eliminou GAM Slay
+Aos 15.737 minutos, FW MMD eliminou GAM Archie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6796
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180355?gameHash=a8686d4ba46af250
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: WE
+Vencedor: WE
+Placar: SKT: 0 x 1 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.596 minutos, SKT eliminou AIR_DRAGON
+Aos 32.199 minutos, SKT eliminou BARON_NASHOR
+Aos 30.868 minutos, WE eliminou FIRE_DRAGON
+Aos 22.835 minutos, WE eliminou FIRE_DRAGON
+Aos 21.769 minutos, WE eliminou BARON_NASHOR
+Aos 17.206 minutos, WE eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 9.235 minutos, SKT Bang eliminou WE Zero
+Aos 9.313 minutos, SKT Wolf eliminou WE Mystic
+Aos 9.746 minutos, SKT Peanut eliminou WE Condi
+Aos 13.967 minutos, SKT Faker eliminou WE Condi
+Aos 14.814 minutos, SKT Peanut eliminou WE Zero
+Aos 29.339 minutos, SKT Faker eliminou WE xiye
+Aos 29.501 minutos, SKT Faker eliminou WE Condi
+Aos 32.232 minutos, SKT Faker eliminou WE Condi
+Aos 32.437 minutos, SKT Huni eliminou WE Zero
+Aos 3.295 minutos, WE xiye eliminou SKT Faker
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6797
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180361?gameHash=c5707e2ad82817d2
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: TSM
+Vencedor: FW
+Placar: FW: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.137 minutos, FW eliminou AIR_DRAGON
+Aos 29.725 minutos, FW eliminou FIRE_DRAGON
+Aos 16.848 minutos, FW eliminou WATER_DRAGON
+Aos 35.964 minutos, FW eliminou ELDER_DRAGON
+Aos 31.34 minutos, FW eliminou BARON_NASHOR
+Aos 10.453 minutos, TSM eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 6.689 minutos, FW SwordArt eliminou TSM Biofrost
+Aos 10.744 minutos, FW Maple eliminou TSM Hauntzer
+Aos 17.137 minutos, FW Karsa eliminou TSM Biofrost
+Aos 17.912 minutos, FW MMD eliminou TSM Svenskeren
+Aos 19.333 minutos, FW MMD eliminou TSM Biofrost
+Aos 19.426 minutos, FW Karsa eliminou TSM WildTurtle
+Aos 19.452 minutos, FW Betty eliminou TSM Svenskeren
+Aos 29.444 minutos, FW Maple eliminou TSM Svenskeren
+Aos 29.527 minutos, FW Betty eliminou TSM Hauntzer
+Aos 33.328 minutos, FW Maple eliminou TSM Hauntzer
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6798
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180382?gameHash=065c380f65fa59d2
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: FW
+Vencedor: SKT
+Placar: SKT: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.724 minutos, SKT eliminou WATER_DRAGON
+Aos 11.04 minutos, SKT eliminou WATER_DRAGON
+Aos 27.987 minutos, SKT eliminou BARON_NASHOR
+Aos 18.203 minutos, FW eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 2.737 minutos, SKT Bang eliminou FW Betty
+Aos 27.107 minutos, SKT Bang eliminou FW SwordArt
+Aos 27.227 minutos, SKT Faker eliminou FW Maple
+Aos 27.377 minutos, SKT Bang eliminou FW MMD
+Aos 27.498 minutos, SKT Bang eliminou FW Karsa
+Aos 29.752 minutos, SKT Peanut eliminou FW MMD
+Aos 30.47 minutos, SKT Bang eliminou FW Karsa
+Aos 30.765 minutos, SKT Huni eliminou FW Maple
+Aos 30.931 minutos, SKT Peanut eliminou FW SwordArt
+Aos 30.987 minutos, SKT Huni eliminou FW Betty
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6799
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180408?gameHash=6b6f5b9abe560e74
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: FW: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.225 minutos, SKT eliminou WATER_DRAGON
+Aos 16.567 minutos, SKT eliminou EARTH_DRAGON
+Aos 23.092 minutos, SKT eliminou EARTH_DRAGON
+Aos 25.653 minutos, SKT eliminou BARON_NASHOR
+Aos 18.798 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 14.046 minutos, FW Betty eliminou SKT Huni
+Aos 17.143 minutos, FW Karsa eliminou SKT Huni
+Aos 7.094 minutos, SKT Huni eliminou FW Karsa
+Aos 8.421 minutos, SKT Bang eliminou FW Maple
+Aos 10.345 minutos, SKT Huni eliminou FW MMD
+Aos 13.937 minutos, SKT Huni eliminou FW Betty
+Aos 20.783 minutos, SKT Peanut eliminou FW Maple
+Aos 25.905 minutos, SKT Faker eliminou FW MMD
+Aos 26.519 minutos, SKT Huni eliminou FW Betty
+Aos 26.645 minutos, SKT Wolf eliminou FW Karsa
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6800
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180409?gameHash=6309072fab0edef9
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: FW
+Vencedor: SKT
+Placar: SKT: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.754 minutos, SKT eliminou WATER_DRAGON
+Aos 19.608 minutos, SKT eliminou EARTH_DRAGON
+Aos 27.624 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.949 minutos, SKT Bang eliminou FW Karsa
+Aos 7.616 minutos, SKT Bang eliminou FW Betty
+Aos 7.715 minutos, SKT Peanut eliminou FW SwordArt
+Aos 8.504 minutos, SKT Faker eliminou FW Karsa
+Aos 10.374 minutos, SKT Bang eliminou FW Karsa
+Aos 11.636 minutos, SKT Faker eliminou FW Maple
+Aos 14.955 minutos, SKT Peanut eliminou FW Maple
+Aos 19.022 minutos, SKT Wolf eliminou FW Betty
+Aos 20.478 minutos, SKT Bang eliminou FW Maple
+Aos 29.228 minutos, SKT Peanut eliminou FW MMD
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6801
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190409?gameHash=3338f9e98cbddf11
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: G2
+Vencedor: G2
+Placar: WE: 0 x 1 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 28.046 minutos, WE eliminou AIR_DRAGON
+Aos 34.181 minutos, WE eliminou EARTH_DRAGON
+Aos 38.739 minutos, WE eliminou BARON_NASHOR
+Aos 21.272 minutos, WE eliminou BARON_NASHOR
+Aos 31.469 minutos, WE eliminou BARON_NASHOR
+Aos 40.809 minutos, G2 eliminou ELDER_DRAGON
+Aos 21.822 minutos, G2 eliminou AIR_DRAGON
+Aos 13.36 minutos, G2 eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 3.936 minutos, WE Mystic eliminou G2 Trick
+Aos 13.628 minutos, WE xiye eliminou G2 Expect
+Aos 16.136 minutos, WE Ben eliminou G2 Trick
+Aos 20.383 minutos, WE Ben eliminou G2 Perkz
+Aos 20.489 minutos, WE Mystic eliminou G2 Trick
+Aos 20.561 minutos, WE 957 eliminou G2 Expect
+Aos 23.743 minutos, WE Mystic eliminou G2 mithy
+Aos 23.766 minutos, WE Mystic eliminou G2 Expect
+Aos 26.348 minutos, WE Ben eliminou G2 Perkz
+Aos 28.628 minutos, WE Mystic eliminou G2 Expect
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6802
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190418?gameHash=28aa815fb5caf7ab
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: WE
+Vencedor: G2
+Placar: G2: 1 x 0 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 36.013 minutos, G2 eliminou AIR_DRAGON
+Aos 25.204 minutos, G2 eliminou FIRE_DRAGON
+Aos 11.464 minutos, G2 eliminou FIRE_DRAGON
+Aos 35.246 minutos, G2 eliminou BARON_NASHOR
+Aos 17.944 minutos, WE eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 2.821 minutos, G2 Perkz eliminou WE Condi
+Aos 2.87 minutos, G2 mithy eliminou WE Mystic
+Aos 4.786 minutos, G2 Zven eliminou WE Ben
+Aos 9.76 minutos, G2 Trick eliminou WE 957
+Aos 12.753 minutos, G2 Zven eliminou WE Ben
+Aos 18.075 minutos, G2 Zven eliminou WE Condi
+Aos 18.166 minutos, G2 Expect eliminou WE 957
+Aos 21.033 minutos, G2 Trick eliminou WE Condi
+Aos 21.136 minutos, G2 Perkz eliminou WE Mystic
+Aos 23.961 minutos, G2 Perkz eliminou WE Ben
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6803
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190419?gameHash=890c4e23094a4846
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: G2
+Vencedor: WE
+Placar: WE: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.51 minutos, WE eliminou AIR_DRAGON
+Aos 30.605 minutos, WE eliminou EARTH_DRAGON
+Aos 24.018 minutos, WE eliminou EARTH_DRAGON
+Aos 22.446 minutos, WE eliminou BARON_NASHOR
+Aos 36.978 minutos, WE eliminou BARON_NASHOR
+Aos 29.667 minutos, WE eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 13.831 minutos, WE Condi eliminou G2 Trick
+Aos 13.995 minutos, WE 957 eliminou G2 Expect
+Aos 16.008 minutos, WE Mystic eliminou G2 Expect
+Aos 18.97 minutos, WE Condi eliminou G2 mithy
+Aos 19.104 minutos, WE 957 eliminou G2 Expect
+Aos 20.061 minutos, WE 957 eliminou G2 Perkz
+Aos 21.683 minutos, WE xiye eliminou G2 Trick
+Aos 21.797 minutos, WE Condi eliminou G2 mithy
+Aos 21.853 minutos, WE xiye eliminou G2 Expect
+Aos 21.912 minutos, WE 957 eliminou G2 Zven
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6804
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190420?gameHash=b59e397a52a18d24
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: WE
+Vencedor: G2
+Placar: G2: 1 x 0 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.754 minutos, G2 eliminou EARTH_DRAGON
+Aos 8.986 minutos, G2 eliminou WATER_DRAGON
+Aos 15.231 minutos, G2 eliminou AIR_DRAGON
+Aos 21.506 minutos, G2 eliminou AIR_DRAGON
+Aos 35.34 minutos, G2 eliminou BARON_NASHOR
+Aos 19.478 minutos, G2 eliminou RIFT_HERALD
+Aos 25.675 minutos, WE eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 10.966 minutos, G2 Expect eliminou WE Mystic
+Aos 11.252 minutos, G2 Expect eliminou WE Condi
+Aos 11.365 minutos, G2 Trick eliminou WE Zero
+Aos 11.393 minutos, G2 Trick eliminou WE xiye
+Aos 11.456 minutos, G2 Zven eliminou WE 957
+Aos 17.774 minutos, G2 Zven eliminou WE Condi
+Aos 17.808 minutos, G2 Zven eliminou WE xiye
+Aos 17.931 minutos, G2 Trick eliminou WE 957
+Aos 20.411 minutos, G2 Zven eliminou WE 957
+Aos 25.697 minutos, G2 Zven eliminou WE Condi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6805
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180435?gameHash=4c3dff841237f2c1
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: G2
+Vencedor: SKT
+Placar: SKT: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.466 minutos, SKT eliminou FIRE_DRAGON
+Aos 23.896 minutos, SKT eliminou FIRE_DRAGON
+Aos 36.352 minutos, SKT eliminou ELDER_DRAGON
+Aos 30.049 minutos, SKT eliminou AIR_DRAGON
+Aos 24.803 minutos, SKT eliminou BARON_NASHOR
+Aos 33.639 minutos, SKT eliminou BARON_NASHOR
+Aos 17.504 minutos, SKT eliminou RIFT_HERALD
+Aos 17.683 minutos, G2 eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 16.723 minutos, SKT Peanut eliminou G2 Expect
+Aos 23.179 minutos, SKT Wolf eliminou G2 Zven
+Aos 24.147 minutos, SKT Peanut eliminou G2 Perkz
+Aos 24.212 minutos, SKT Peanut eliminou G2 Trick
+Aos 24.339 minutos, SKT Peanut eliminou G2 mithy
+Aos 24.356 minutos, SKT Faker eliminou G2 Expect
+Aos 32.74 minutos, SKT Peanut eliminou G2 Expect
+Aos 32.834 minutos, SKT Peanut eliminou G2 mithy
+Aos 32.99 minutos, SKT Peanut eliminou G2 Trick
+Aos 33.153 minutos, SKT Faker eliminou G2 Zven
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6806
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180449?gameHash=4be50c234a9d8118
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: SKT
+Vencedor: G2
+Placar: G2: 1 x 0 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.035 minutos, G2 eliminou AIR_DRAGON
+Aos 22.714 minutos, G2 eliminou FIRE_DRAGON
+Aos 29.012 minutos, G2 eliminou WATER_DRAGON
+Aos 8.319 minutos, G2 eliminou WATER_DRAGON
+Aos 28.057 minutos, G2 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.641 minutos, G2 Trick eliminou SKT Peanut
+Aos 5.05 minutos, G2 Expect eliminou SKT Huni
+Aos 5.472 minutos, G2 Zven eliminou SKT Wolf
+Aos 5.583 minutos, G2 Zven eliminou SKT Bang
+Aos 6.219 minutos, G2 Perkz eliminou SKT Faker
+Aos 22.179 minutos, G2 Zven eliminou SKT Huni
+Aos 22.514 minutos, G2 Expect eliminou SKT Faker
+Aos 27.089 minutos, G2 Trick eliminou SKT Wolf
+Aos 27.196 minutos, G2 Expect eliminou SKT Faker
+Aos 27.28 minutos, G2 Expect eliminou SKT Bang
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6807
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180451?gameHash=c80e363a476f3d65
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: G2
+Vencedor: SKT
+Placar: SKT: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.594 minutos, SKT eliminou EARTH_DRAGON
+Aos 27.984 minutos, SKT eliminou AIR_DRAGON
+Aos 34.764 minutos, SKT eliminou EARTH_DRAGON
+Aos 33.92 minutos, SKT eliminou BARON_NASHOR
+Aos 16.197 minutos, SKT eliminou RIFT_HERALD
+Aos 14.096 minutos, G2 eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 5.646 minutos, SKT Huni eliminou G2 Expect
+Aos 10.36 minutos, SKT Faker eliminou G2 Perkz
+Aos 12.582 minutos, SKT Wolf eliminou G2 Trick
+Aos 12.62 minutos, SKT Faker eliminou G2 mithy
+Aos 12.707 minutos, SKT Peanut eliminou G2 Perkz
+Aos 13.151 minutos, SKT Peanut eliminou G2 Zven
+Aos 15.596 minutos, SKT Peanut eliminou G2 Expect
+Aos 23.636 minutos, SKT Faker eliminou G2 Perkz
+Aos 30.094 minutos, SKT Faker eliminou G2 Trick
+Aos 30.301 minutos, SKT Peanut eliminou G2 Perkz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6808
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002180452?gameHash=ee4c0c77e8622332
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: G2: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.309 minutos, SKT eliminou EARTH_DRAGON
+Aos 30.11 minutos, SKT eliminou EARTH_DRAGON
+Aos 23.737 minutos, SKT eliminou WATER_DRAGON
+Aos 32.263 minutos, SKT eliminou BARON_NASHOR
+Aos 22.234 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 10.592 minutos, G2 Zven eliminou SKT Faker
+Aos 12.974 minutos, G2 Perkz eliminou SKT Wolf
+Aos 14.173 minutos, G2 Expect eliminou SKT Bang
+Aos 27.661 minutos, G2 Perkz eliminou SKT Wolf
+Aos 27.666 minutos, G2 Perkz eliminou SKT Bang
+Aos 31.084 minutos, G2 Perkz eliminou SKT Bang
+Aos 7.754 minutos, SKT Peanut eliminou G2 mithy
+Aos 10.581 minutos, SKT Faker eliminou G2 Zven
+Aos 11.764 minutos, SKT Bang eliminou G2 mithy
+Aos 16.41 minutos, SKT Peanut eliminou G2 Perkz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7050
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002190162?gameHash=7727e88a0deb9e3e
+Campeonato: MSI
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: GAM
+Time Vermelho: FW
+Vencedor: FW
+Placar: GAM: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.004 minutos, GAM eliminou WATER_DRAGON
+Aos 23.291 minutos, GAM eliminou AIR_DRAGON
+Aos 17.009 minutos, GAM eliminou AIR_DRAGON
+Aos 10.308 minutos, FW eliminou WATER_DRAGON
+Aos 32.932 minutos, FW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.437 minutos, GAM Slay eliminou FW MMD
+Aos 9.68 minutos, GAM Optimus eliminou FW MMD
+Aos 11.857 minutos, GAM Optimus eliminou FW MMD
+Aos 11.94 minutos, GAM Levi eliminou FW SwordArt
+Aos 14.258 minutos, GAM Archie eliminou FW Karsa
+Aos 14.514 minutos, GAM Slay eliminou FW MMD
+Aos 21.921 minutos, GAM Levi eliminou FW SwordArt
+Aos 23.541 minutos, GAM Levi eliminou FW MMD
+Aos 24.421 minutos, GAM Optimus eliminou FW SwordArt
+Aos 25.148 minutos, GAM Levi eliminou FW Karsa
+
+==================================================
+

@@ -1,0 +1,4867 @@
+=== PARTIDA ===
+MatchID: 6809
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650221?gameHash=5ed2bacdb2469753
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: GET
+Time Vermelho: C9
+Vencedor: GET
+Placar: GET: 1 x 0 :C9
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.48 minutos, GET eliminou DRAGON
+Aos 20.724 minutos, GET eliminou DRAGON
+Aos 26.9 minutos, GET eliminou DRAGON
+Aos 22.071 minutos, GET eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.84 minutos, GET Lee eliminou C9 Hai
+Aos 6.442 minutos, GET Lee eliminou C9 Hai
+Aos 6.484 minutos, GET Smeb eliminou C9 Balls
+Aos 7.035 minutos, GET Smeb eliminou C9 Meteos
+Aos 7.323 minutos, GET Lee eliminou C9 Balls
+Aos 9.115 minutos, GET Lee eliminou C9 Balls
+Aos 9.466 minutos, GET kurO eliminou C9 Sneaky
+Aos 9.526 minutos, GET Smeb eliminou C9 LemonNation
+Aos 12.503 minutos, GET Lee eliminou C9 Hai
+Aos 12.926 minutos, GET GorillA eliminou C9 Meteos
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6810
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650251?gameHash=4bbd41eb6a31f483
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SK
+Time Vermelho: yoeFW
+Vencedor: SK
+Placar: SK: 1 x 0 :yoeFW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.871 minutos, SK eliminou DRAGON
+Aos 26.334 minutos, SK eliminou DRAGON
+Aos 32.799 minutos, SK eliminou DRAGON
+Aos 20.175 minutos, SK eliminou DRAGON
+Aos 29.814 minutos, SK eliminou BARON_NASHOR
+Aos 7.173 minutos, yoeFW eliminou DRAGON
+
+=== ABATES ===
+Aos 9.68 minutos, SK Fox eliminou yoeFW Neverloses
+Aos 9.719 minutos, SK fredy122 eliminou yoeFW Steak
+Aos 12.03 minutos, SK Svenskeren eliminou yoeFW Neverloses
+Aos 20.294 minutos, SK Fox eliminou yoeFW Steak
+Aos 26.488 minutos, SK fredy122 eliminou yoeFW Steak
+Aos 26.517 minutos, SK FORG1VENGRE eliminou yoeFW Karsa
+Aos 28.84 minutos, SK FORG1VENGRE eliminou yoeFW Karsa
+Aos 29.089 minutos, SK FORG1VENGRE eliminou yoeFW Maple
+Aos 29.699 minutos, SK FORG1VENGRE eliminou yoeFW Steak
+Aos 29.745 minutos, SK FORG1VENGRE eliminou yoeFW SwordArt
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6811
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650264?gameHash=d0f2f78150f7b0fe
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: GET
+Time Vermelho: SK
+Vencedor: GET
+Placar: GET: 1 x 0 :SK
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.611 minutos, GET eliminou DRAGON
+Aos 23.113 minutos, GET eliminou DRAGON
+Aos 29.308 minutos, GET eliminou DRAGON
+Aos 23.981 minutos, GET eliminou BARON_NASHOR
+Aos 33.856 minutos, GET eliminou BARON_NASHOR
+Aos 9.322 minutos, SK eliminou DRAGON
+
+=== ABATES ===
+Aos 5.017 minutos, GET Smeb eliminou SK FORG1VENGRE
+Aos 11.761 minutos, GET Smeb eliminou SK fredy122
+Aos 12.83 minutos, GET PraY eliminou SK nRated
+Aos 16.169 minutos, GET kurO eliminou SK Fox
+Aos 16.174 minutos, GET Smeb eliminou SK nRated
+Aos 16.667 minutos, GET PraY eliminou SK Svenskeren
+Aos 19.11 minutos, GET PraY eliminou SK FORG1VENGRE
+Aos 19.29 minutos, GET kurO eliminou SK Svenskeren
+Aos 19.37 minutos, GET kurO eliminou SK Fox
+Aos 19.413 minutos, GET Lee eliminou SK nRated
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6812
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650269?gameHash=bc50cefc626d436f
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: C9
+Time Vermelho: yoeFW
+Vencedor: yoeFW
+Placar: C9: 0 x 1 :yoeFW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.317 minutos, C9 eliminou DRAGON
+Aos 24.945 minutos, C9 eliminou DRAGON
+Aos 10.679 minutos, yoeFW eliminou DRAGON
+Aos 38.684 minutos, yoeFW eliminou DRAGON
+Aos 31.9 minutos, yoeFW eliminou DRAGON
+Aos 39.361 minutos, yoeFW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.199 minutos, C9 Meteos eliminou yoeFW Steak
+Aos 9.37 minutos, C9 Meteos eliminou yoeFW Karsa
+Aos 9.912 minutos, C9 Sneaky eliminou yoeFW Neverloses
+Aos 12.445 minutos, C9 Meteos eliminou yoeFW Maple
+Aos 16.186 minutos, C9 Meteos eliminou yoeFW Neverloses
+Aos 16.221 minutos, C9 Meteos eliminou yoeFW SwordArt
+Aos 16.41 minutos, C9 Balls eliminou yoeFW Maple
+Aos 17.094 minutos, C9 Meteos eliminou yoeFW Karsa
+Aos 18.886 minutos, C9 Meteos eliminou yoeFW Maple
+Aos 21.359 minutos, C9 Sneaky eliminou yoeFW Neverloses
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6813
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650340?gameHash=44dd75bcb0230807
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: SK
+Time Vermelho: yoeFW
+Vencedor: yoeFW
+Placar: SK: 0 x 1 :yoeFW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 32.926 minutos, SK eliminou DRAGON
+Aos 26.364 minutos, SK eliminou DRAGON
+Aos 4.917 minutos, yoeFW eliminou DRAGON
+Aos 11.312 minutos, yoeFW eliminou DRAGON
+Aos 19.253 minutos, yoeFW eliminou DRAGON
+Aos 32.366 minutos, yoeFW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 17.765 minutos, SK Fox eliminou yoeFW Steak
+Aos 17.852 minutos, SK Fox eliminou yoeFW SwordArt
+Aos 19.297 minutos, SK FORG1VENGRE eliminou yoeFW Steak
+Aos 24.907 minutos, SK FORG1VENGRE eliminou yoeFW Neverloses
+Aos 24.962 minutos, SK Fox eliminou yoeFW Karsa
+Aos 26.212 minutos, SK FORG1VENGRE eliminou yoeFW Karsa
+Aos 28.938 minutos, SK fredy122 eliminou yoeFW Steak
+Aos 12.677 minutos, yoeFW Karsa eliminou SK Fox
+Aos 13.531 minutos, yoeFW Karsa eliminou SK fredy122
+Aos 17.717 minutos, yoeFW Karsa eliminou SK Svenskeren
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6814
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650284?gameHash=84a2f2ae0b64708c
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: GMB
+Time Vermelho: CJ
+Vencedor: CJ
+Placar: GMB: 0 x 1 :CJ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 38.363 minutos, GMB eliminou DRAGON
+Aos 18.771 minutos, GMB eliminou DRAGON
+Aos 31.959 minutos, CJ eliminou DRAGON
+Aos 25.334 minutos, CJ eliminou DRAGON
+Aos 12.263 minutos, CJ eliminou DRAGON
+Aos 35.529 minutos, CJ eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.348 minutos, GMB Cabochard eliminou CJ Shy
+Aos 9.571 minutos, GMB Diamond eliminou CJ Shy
+Aos 13.115 minutos, GMB Betsy eliminou CJ Shy
+Aos 15.724 minutos, GMB Cabochard eliminou CJ Ambition
+Aos 17.865 minutos, GMB Cabochard eliminou CJ Ambition
+Aos 22.751 minutos, GMB P1noy eliminou CJ Ambition
+Aos 28.614 minutos, GMB Cabochard eliminou CJ Space
+Aos 36.17 minutos, GMB P1noy eliminou CJ Ambition
+Aos 36.248 minutos, GMB Edward eliminou CJ Madlife
+Aos 40.726 minutos, GMB Betsy eliminou CJ Ambition
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6815
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650296?gameHash=965cc74569ffbb69
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: WE: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.592 minutos, WE eliminou DRAGON
+Aos 30.377 minutos, WE eliminou DRAGON
+Aos 24.022 minutos, TSM eliminou DRAGON
+Aos 8.649 minutos, TSM eliminou DRAGON
+Aos 32.621 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 11.183 minutos, WE YuZhe eliminou TSM Wildturtle
+Aos 12.045 minutos, WE Aluka eliminou TSM Dyrus
+Aos 13.303 minutos, WE xiye eliminou TSM Lustboy
+Aos 15.817 minutos, WE Aluka eliminou TSM Bjergsen
+Aos 15.835 minutos, WE xiye eliminou TSM Santorin
+Aos 17.726 minutos, WE xiye eliminou TSM Santorin
+Aos 17.783 minutos, WE Aluka eliminou TSM Dyrus
+Aos 23.497 minutos, WE Mystic eliminou TSM Lustboy
+Aos 23.589 minutos, WE Mystic eliminou TSM Wildturtle
+Aos 25.981 minutos, WE Spirit eliminou TSM Wildturtle
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6816
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650304?gameHash=f1d4757cc7b7f896
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: CJ
+Vencedor: TSM
+Placar: TSM: 1 x 0 :CJ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 18.709 minutos, TSM eliminou DRAGON
+Aos 26.257 minutos, TSM eliminou BARON_NASHOR
+Aos 25.182 minutos, CJ eliminou DRAGON
+Aos 12.447 minutos, CJ eliminou DRAGON
+
+=== ABATES ===
+Aos 14.931 minutos, TSM Wildturtle eliminou CJ Madlife
+Aos 16.09 minutos, TSM Wildturtle eliminou CJ Madlife
+Aos 19.706 minutos, TSM Wildturtle eliminou CJ Madlife
+Aos 20.422 minutos, TSM Wildturtle eliminou CJ Space
+Aos 23.104 minutos, TSM Dyrus eliminou CJ Space
+Aos 23.281 minutos, TSM Santorin eliminou CJ Madlife
+Aos 25.419 minutos, TSM Bjergsen eliminou CJ Shy
+Aos 25.487 minutos, TSM Santorin eliminou CJ Madlife
+Aos 25.582 minutos, TSM Wildturtle eliminou CJ Ambition
+Aos 27.999 minutos, TSM Dyrus eliminou CJ Shy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6817
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650307?gameHash=47d5bd14b5a041f7
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: GMB
+Vencedor: WE
+Placar: WE: 1 x 0 :GMB
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 9.514 minutos, WE eliminou DRAGON
+Aos 23.281 minutos, WE eliminou DRAGON
+Aos 16.8 minutos, WE eliminou DRAGON
+Aos 29.563 minutos, GMB eliminou DRAGON
+Aos 25.479 minutos, GMB eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.981 minutos, WE xiye eliminou GMB Edward
+Aos 11.851 minutos, WE xiye eliminou GMB Betsy
+Aos 12.669 minutos, WE Mystic eliminou GMB P1noy
+Aos 14.798 minutos, WE Mystic eliminou GMB Edward
+Aos 14.981 minutos, WE Mystic eliminou GMB Cabochard
+Aos 15.043 minutos, WE xiye eliminou GMB Diamond
+Aos 23.524 minutos, WE Mystic eliminou GMB Diamond
+Aos 24.077 minutos, WE Mystic eliminou GMB Edward
+Aos 25.102 minutos, WE xiye eliminou GMB P1noy
+Aos 25.5 minutos, WE xiye eliminou GMB Diamond
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6818
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650341?gameHash=ba900ca8debc13a2
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: CJ
+Vencedor: WE
+Placar: WE: 1 x 0 :CJ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 40.046 minutos, WE eliminou DRAGON
+Aos 5.807 minutos, WE eliminou DRAGON
+Aos 37.894 minutos, WE eliminou BARON_NASHOR
+Aos 33.828 minutos, CJ eliminou DRAGON
+Aos 26.674 minutos, CJ eliminou DRAGON
+Aos 13.967 minutos, CJ eliminou DRAGON
+Aos 20.396 minutos, CJ eliminou DRAGON
+
+=== ABATES ===
+Aos 11.706 minutos, WE xiye eliminou CJ Madlife
+Aos 12.454 minutos, WE Mystic eliminou CJ Space
+Aos 14.479 minutos, WE xiye eliminou CJ Madlife
+Aos 16.988 minutos, WE Aluka eliminou CJ Madlife
+Aos 18.764 minutos, WE Mystic eliminou CJ Space
+Aos 30.122 minutos, WE Spirit eliminou CJ Madlife
+Aos 30.192 minutos, WE xiye eliminou CJ CoCo
+Aos 36.68 minutos, WE xiye eliminou CJ CoCo
+Aos 36.811 minutos, WE Aluka eliminou CJ Shy
+Aos 36.986 minutos, WE Aluka eliminou CJ Space
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6819
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650351?gameHash=f3145b87375f8297
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: yoeFW
+Vencedor: yoeFW
+Placar: TSM: 0 x 1 :yoeFW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 18.113 minutos, TSM eliminou DRAGON
+Aos 25.474 minutos, yoeFW eliminou DRAGON
+Aos 11.269 minutos, yoeFW eliminou DRAGON
+Aos 4.813 minutos, yoeFW eliminou DRAGON
+Aos 37.851 minutos, yoeFW eliminou DRAGON
+Aos 31.601 minutos, yoeFW eliminou DRAGON
+Aos 29.345 minutos, yoeFW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 11.095 minutos, TSM Bjergsen eliminou yoeFW Steak
+Aos 14.738 minutos, TSM Bjergsen eliminou yoeFW SwordArt
+Aos 21.79 minutos, TSM Bjergsen eliminou yoeFW Steak
+Aos 23.036 minutos, TSM Wildturtle eliminou yoeFW Maple
+Aos 24.977 minutos, TSM Wildturtle eliminou yoeFW Karsa
+Aos 25.03 minutos, TSM Dyrus eliminou yoeFW Steak
+Aos 29.149 minutos, TSM Dyrus eliminou yoeFW Steak
+Aos 34.227 minutos, TSM Bjergsen eliminou yoeFW Neverloses
+Aos 34.37 minutos, TSM Santorin eliminou yoeFW Maple
+Aos 36.298 minutos, TSM Bjergsen eliminou yoeFW Steak
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6820
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650364?gameHash=852877143f21285b
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: yoeFW
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: yoeFW: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 7.081 minutos, yoeFW eliminou DRAGON
+Aos 43.117 minutos, TSM eliminou DRAGON
+Aos 36.819 minutos, TSM eliminou DRAGON
+Aos 23.147 minutos, TSM eliminou DRAGON
+Aos 14.606 minutos, TSM eliminou DRAGON
+Aos 30.677 minutos, TSM eliminou DRAGON
+Aos 41.685 minutos, TSM eliminou BARON_NASHOR
+Aos 32.96 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 12.44 minutos, yoeFW Karsa eliminou TSM Dyrus
+Aos 18.936 minutos, yoeFW Maple eliminou TSM Bjergsen
+Aos 32.531 minutos, yoeFW Neverloses eliminou TSM Dyrus
+Aos 32.534 minutos, yoeFW Maple eliminou TSM Bjergsen
+Aos 36.477 minutos, yoeFW Steak eliminou TSM Dyrus
+Aos 39.041 minutos, yoeFW Maple eliminou TSM Dyrus
+Aos 42.767 minutos, yoeFW Maple eliminou TSM Dyrus
+Aos 8.748 minutos, TSM Bjergsen eliminou yoeFW Maple
+Aos 10.828 minutos, TSM Santorin eliminou yoeFW Neverloses
+Aos 10.928 minutos, TSM Wildturtle eliminou yoeFW SwordArt
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6821
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650365?gameHash=c3f04927de652749
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: yoeFW
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: yoeFW: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.725 minutos, yoeFW eliminou DRAGON
+Aos 10.74 minutos, yoeFW eliminou DRAGON
+Aos 33.953 minutos, TSM eliminou DRAGON
+Aos 18.497 minutos, TSM eliminou DRAGON
+Aos 26.12 minutos, TSM eliminou BARON_NASHOR
+Aos 33.341 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 21.385 minutos, yoeFW Maple eliminou TSM Bjergsen
+Aos 13.912 minutos, TSM Dyrus eliminou yoeFW Karsa
+Aos 14.651 minutos, TSM Lustboy eliminou yoeFW SwordArt
+Aos 18.211 minutos, TSM Santorin eliminou yoeFW Neverloses
+Aos 21.139 minutos, TSM Bjergsen eliminou yoeFW SwordArt
+Aos 21.142 minutos, TSM Wildturtle eliminou yoeFW Neverloses
+Aos 21.246 minutos, TSM Bjergsen eliminou yoeFW Karsa
+Aos 21.3 minutos, TSM Wildturtle eliminou yoeFW Steak
+Aos 25.453 minutos, TSM Wildturtle eliminou yoeFW Karsa
+Aos 25.53 minutos, TSM Dyrus eliminou yoeFW Neverloses
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6822
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650366?gameHash=3f43dae8fd4a6a53
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: GET
+Time Vermelho: WE
+Vencedor: GET
+Placar: GET: 1 x 0 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 35.277 minutos, GET eliminou DRAGON
+Aos 15.914 minutos, GET eliminou DRAGON
+Aos 28.936 minutos, GET eliminou DRAGON
+Aos 22.558 minutos, GET eliminou DRAGON
+Aos 33.614 minutos, GET eliminou BARON_NASHOR
+Aos 9.639 minutos, WE eliminou DRAGON
+
+=== ABATES ===
+Aos 5.797 minutos, GET Smeb eliminou WE Aluka
+Aos 14.007 minutos, GET Smeb eliminou WE Aluka
+Aos 22.995 minutos, GET Smeb eliminou WE Mystic
+Aos 23.0 minutos, GET PraY eliminou WE Spirit
+Aos 23.311 minutos, GET Lee eliminou WE Aluka
+Aos 23.408 minutos, GET kurO eliminou WE xiye
+Aos 23.437 minutos, GET Lee eliminou WE YuZhe
+Aos 24.477 minutos, GET PraY eliminou WE Mystic
+Aos 25.247 minutos, GET PraY eliminou WE xiye
+Aos 29.979 minutos, GET kurO eliminou WE Aluka
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6823
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650376?gameHash=32888084264ff5b3
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: GET
+Vencedor: WE
+Placar: WE: 1 x 0 :GET
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.148 minutos, WE eliminou DRAGON
+Aos 8.31 minutos, WE eliminou DRAGON
+Aos 14.519 minutos, WE eliminou DRAGON
+Aos 28.18 minutos, WE eliminou DRAGON
+Aos 30.124 minutos, WE eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 12.912 minutos, WE xiye eliminou GET Smeb
+Aos 14.07 minutos, WE Spirit eliminou GET Smeb
+Aos 16.293 minutos, WE Aluka eliminou GET PraY
+Aos 16.7 minutos, WE Mystic eliminou GET Lee
+Aos 21.255 minutos, WE Mystic eliminou GET Lee
+Aos 21.316 minutos, WE Mystic eliminou GET GorillA
+Aos 21.435 minutos, WE Mystic eliminou GET PraY
+Aos 21.542 minutos, WE Spirit eliminou GET Smeb
+Aos 21.714 minutos, WE Aluka eliminou GET kurO
+Aos 25.975 minutos, WE Aluka eliminou GET kurO
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6824
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650377?gameHash=7a4877bcab893877
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: GET
+Vencedor: WE
+Placar: WE: 1 x 0 :GET
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.077 minutos, WE eliminou DRAGON
+Aos 24.615 minutos, WE eliminou DRAGON
+Aos 17.247 minutos, WE eliminou DRAGON
+Aos 26.721 minutos, WE eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.909 minutos, WE Spirit eliminou GET kurO
+Aos 9.898 minutos, WE YuZhe eliminou GET Lee
+Aos 13.404 minutos, WE Spirit eliminou GET Smeb
+Aos 16.288 minutos, WE xiye eliminou GET kurO
+Aos 24.003 minutos, WE xiye eliminou GET GorillA
+Aos 24.057 minutos, WE Mystic eliminou GET Lee
+Aos 24.071 minutos, WE Mystic eliminou GET Smeb
+Aos 24.24 minutos, WE Spirit eliminou GET PraY
+Aos 24.264 minutos, WE xiye eliminou GET kurO
+Aos 26.131 minutos, WE xiye eliminou GET Smeb
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6825
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000650407?gameHash=1afd536f8b0a2476
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: WE: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.333 minutos, WE eliminou DRAGON
+Aos 29.668 minutos, WE eliminou BARON_NASHOR
+Aos 36.043 minutos, TSM eliminou DRAGON
+Aos 10.174 minutos, TSM eliminou DRAGON
+Aos 29.919 minutos, TSM eliminou DRAGON
+Aos 23.246 minutos, TSM eliminou DRAGON
+Aos 39.344 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 10.781 minutos, WE xiye eliminou TSM Bjergsen
+Aos 13.476 minutos, WE xiye eliminou TSM Dyrus
+Aos 16.577 minutos, WE Mystic eliminou TSM Lustboy
+Aos 18.835 minutos, WE xiye eliminou TSM Lustboy
+Aos 18.956 minutos, WE xiye eliminou TSM Santorin
+Aos 23.759 minutos, WE xiye eliminou TSM Santorin
+Aos 28.938 minutos, WE Spirit eliminou TSM Lustboy
+Aos 29.023 minutos, WE xiye eliminou TSM Wildturtle
+Aos 32.484 minutos, WE Mystic eliminou TSM Wildturtle
+Aos 32.513 minutos, WE xiye eliminou TSM Lustboy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6826
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000640275?gameHash=5d271a18cb9e23f6
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: WE
+Vencedor: TSM
+Placar: TSM: 1 x 0 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.497 minutos, TSM eliminou DRAGON
+Aos 28.907 minutos, TSM eliminou DRAGON
+Aos 22.692 minutos, TSM eliminou DRAGON
+Aos 28.027 minutos, TSM eliminou BARON_NASHOR
+Aos 9.68 minutos, WE eliminou DRAGON
+
+=== ABATES ===
+Aos 1.537 minutos, TSM Santorin eliminou WE Aluka
+Aos 1.603 minutos, TSM Bjergsen eliminou WE Spirit
+Aos 2.763 minutos, TSM Wildturtle eliminou WE Mystic
+Aos 14.117 minutos, TSM Wildturtle eliminou WE YuZhe
+Aos 14.244 minutos, TSM Wildturtle eliminou WE Aluka
+Aos 14.841 minutos, TSM Wildturtle eliminou WE Mystic
+Aos 15.558 minutos, TSM Santorin eliminou WE xiye
+Aos 16.484 minutos, TSM Bjergsen eliminou WE Spirit
+Aos 16.496 minutos, TSM Bjergsen eliminou WE Mystic
+Aos 16.559 minutos, TSM Dyrus eliminou WE xiye
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6827
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1000640276?gameHash=bb0fef6f6594a8b7
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Spring
+Time Azul: WE
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: WE: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.725 minutos, TSM eliminou DRAGON
+Aos 16.495 minutos, TSM eliminou DRAGON
+Aos 24.245 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 14.24 minutos, WE Spirit eliminou TSM Santorin
+Aos 15.949 minutos, WE xiye eliminou TSM Bjergsen
+Aos 16.002 minutos, WE Spirit eliminou TSM Lustboy
+Aos 18.564 minutos, WE Aluka eliminou TSM Lustboy
+Aos 18.739 minutos, WE Aluka eliminou TSM Bjergsen
+Aos 20.941 minutos, WE xiye eliminou TSM Lustboy
+Aos 20.966 minutos, WE Mystic eliminou TSM Wildturtle
+Aos 5.554 minutos, TSM Santorin eliminou WE Aluka
+Aos 9.184 minutos, TSM Bjergsen eliminou WE xiye
+Aos 11.26 minutos, TSM Bjergsen eliminou WE xiye
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6828
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770068?gameHash=8d74c674cdb2760e
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: TSM
+Time Vermelho: LGD
+Vencedor: TSM
+Placar: TSM: 1 x 0 :LGD
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.949 minutos, TSM eliminou DRAGON
+Aos 39.468 minutos, TSM eliminou DRAGON
+Aos 30.278 minutos, TSM eliminou DRAGON
+Aos 46.286 minutos, TSM eliminou BARON_NASHOR
+Aos 38.514 minutos, TSM eliminou BARON_NASHOR
+Aos 48.917 minutos, LGD eliminou DRAGON
+Aos 16.414 minutos, LGD eliminou DRAGON
+
+=== ABATES ===
+Aos 4.917 minutos, TSM Hauntzer eliminou LGD Flame
+Aos 18.224 minutos, TSM Hauntzer eliminou LGD imp
+Aos 18.361 minutos, TSM Hauntzer eliminou LGD TBQ
+Aos 24.658 minutos, TSM Bjergsen eliminou LGD Pyl
+Aos 24.817 minutos, TSM Bjergsen eliminou LGD imp
+Aos 32.264 minutos, TSM Doublelift eliminou LGD TBQ
+Aos 32.317 minutos, TSM Hauntzer eliminou LGD Flame
+Aos 32.483 minutos, TSM Bjergsen eliminou LGD Pyl
+Aos 32.531 minutos, TSM Doublelift eliminou LGD PAinEvil
+Aos 37.533 minutos, TSM Bjergsen eliminou LGD TBQ
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6829
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770070?gameHash=576cedb6f531c2a7
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: LGD
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: LGD: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.732 minutos, LGD eliminou DRAGON
+Aos 20.052 minutos, LGD eliminou DRAGON
+Aos 13.702 minutos, LGD eliminou DRAGON
+Aos 33.215 minutos, LGD eliminou BARON_NASHOR
+Aos 34.353 minutos, TSM eliminou DRAGON
+
+=== ABATES ===
+Aos 9.055 minutos, LGD TBQ eliminou TSM Svenskeren
+Aos 9.811 minutos, LGD PAinEvil eliminou TSM Bjergsen
+Aos 14.956 minutos, LGD imp eliminou TSM kaSing
+Aos 15.481 minutos, LGD TBQ eliminou TSM Svenskeren
+Aos 17.484 minutos, LGD PAinEvil eliminou TSM Svenskeren
+Aos 22.51 minutos, LGD imp eliminou TSM Svenskeren
+Aos 23.401 minutos, LGD Acorn eliminou TSM Hauntzer
+Aos 29.37 minutos, LGD PAinEvil eliminou TSM Bjergsen
+Aos 29.441 minutos, LGD imp eliminou TSM kaSing
+Aos 29.482 minutos, LGD PAinEvil eliminou TSM Doublelift
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6830
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770087?gameHash=54a862593a3e5c91
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: CLG
+Time Vermelho: UOL
+Vencedor: CLG
+Placar: CLG: 1 x 0 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.312 minutos, CLG eliminou DRAGON
+Aos 29.963 minutos, CLG eliminou BARON_NASHOR
+Aos 11.379 minutos, UOL eliminou DRAGON
+Aos 31.343 minutos, UOL eliminou DRAGON
+Aos 17.848 minutos, UOL eliminou DRAGON
+
+=== ABATES ===
+Aos 4.401 minutos, CLG Darshan eliminou UOL Gilius
+Aos 4.988 minutos, CLG Huhi eliminou UOL Steeelback
+Aos 9.594 minutos, CLG Darshan eliminou UOL Vizicsacsi
+Aos 15.148 minutos, CLG Darshan eliminou UOL Hylissang
+Aos 16.224 minutos, CLG Darshan eliminou UOL Steeelback
+Aos 17.533 minutos, CLG Stixxay eliminou UOL Hylissang
+Aos 18.727 minutos, CLG Huhi eliminou UOL Hylissang
+Aos 20.013 minutos, CLG Xmithie eliminou UOL Fox
+Aos 26.945 minutos, CLG Stixxay eliminou UOL Hylissang
+Aos 28.349 minutos, CLG Darshan eliminou UOL Vizicsacsi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6831
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770102?gameHash=d845dfd05b168873
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: CLG
+Vencedor: CLG
+Placar: UOL: 0 x 1 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.563 minutos, CLG eliminou DRAGON
+Aos 26.708 minutos, CLG eliminou DRAGON
+Aos 18.99 minutos, CLG eliminou DRAGON
+Aos 25.887 minutos, CLG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 6.798 minutos, UOL Vizicsacsi eliminou CLG Stixxay
+Aos 9.77 minutos, UOL Gilius eliminou CLG Stixxay
+Aos 16.888 minutos, UOL Steeelback eliminou CLG Darshan
+Aos 17.23 minutos, UOL Steeelback eliminou CLG aphromoo
+Aos 17.828 minutos, UOL Gilius eliminou CLG Stixxay
+Aos 21.774 minutos, UOL Steeelback eliminou CLG Darshan
+Aos 22.709 minutos, UOL Vizicsacsi eliminou CLG aphromoo
+Aos 22.904 minutos, UOL Steeelback eliminou CLG Xmithie
+Aos 24.877 minutos, UOL Vizicsacsi eliminou CLG Darshan
+Aos 27.145 minutos, UOL Fox eliminou CLG Xmithie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6832
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770119?gameHash=de4c529b53a28740
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: OG
+Time Vermelho: TSM
+Vencedor: OG
+Placar: OG: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.513 minutos, OG eliminou DRAGON
+Aos 12.858 minutos, OG eliminou DRAGON
+Aos 20.249 minutos, OG eliminou DRAGON
+Aos 33.603 minutos, OG eliminou DRAGON
+Aos 24.167 minutos, OG eliminou BARON_NASHOR
+Aos 32.887 minutos, OG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.267 minutos, OG sOAZ eliminou TSM Hauntzer
+Aos 3.353 minutos, OG sOAZ eliminou TSM kaSing
+Aos 3.475 minutos, OG PowerOfEvil eliminou TSM Svenskeren
+Aos 8.555 minutos, OG Amazing eliminou TSM Hauntzer
+Aos 15.454 minutos, OG Niels eliminou TSM Doublelift
+Aos 15.901 minutos, OG Niels eliminou TSM kaSing
+Aos 16.378 minutos, OG PowerOfEvil eliminou TSM Svenskeren
+Aos 16.917 minutos, OG Niels eliminou TSM kaSing
+Aos 17.125 minutos, OG sOAZ eliminou TSM Doublelift
+Aos 17.676 minutos, OG PowerOfEvil eliminou TSM Hauntzer
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6833
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770121?gameHash=3ef08158fed20146
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: TSM
+Time Vermelho: OG
+Vencedor: OG
+Placar: TSM: 0 x 1 :OG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 31.888 minutos, OG eliminou DRAGON
+Aos 19.477 minutos, OG eliminou DRAGON
+Aos 25.752 minutos, OG eliminou DRAGON
+Aos 12.345 minutos, OG eliminou DRAGON
+Aos 32.372 minutos, OG eliminou BARON_NASHOR
+Aos 24.172 minutos, OG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.204 minutos, TSM Doublelift eliminou OG mithy
+Aos 7.704 minutos, TSM Hauntzer eliminou OG Niels
+Aos 18.143 minutos, TSM Hauntzer eliminou OG Niels
+Aos 18.371 minutos, TSM Doublelift eliminou OG sOAZ
+Aos 18.913 minutos, TSM Hauntzer eliminou OG Amazing
+Aos 24.51 minutos, TSM Bjergsen eliminou OG Niels
+Aos 24.566 minutos, TSM Bjergsen eliminou OG sOAZ
+Aos 25.317 minutos, TSM Hauntzer eliminou OG PowerOfEvil
+Aos 26.914 minutos, TSM Hauntzer eliminou OG sOAZ
+Aos 27.02 minutos, TSM Doublelift eliminou OG Niels
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6834
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770125?gameHash=bafa2d19f76966d5
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: JAG
+Time Vermelho: CLG
+Vencedor: CLG
+Placar: JAG: 0 x 1 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 48.73 minutos, JAG eliminou DRAGON
+Aos 16.493 minutos, JAG eliminou DRAGON
+Aos 10.349 minutos, JAG eliminou DRAGON
+Aos 36.017 minutos, JAG eliminou DRAGON
+Aos 22.967 minutos, JAG eliminou DRAGON
+Aos 29.561 minutos, CLG eliminou DRAGON
+Aos 42.489 minutos, CLG eliminou DRAGON
+Aos 39.509 minutos, CLG eliminou BARON_NASHOR
+Aos 47.094 minutos, CLG eliminou BARON_NASHOR
+Aos 31.885 minutos, CLG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.657 minutos, JAG Chei eliminou CLG aphromoo
+Aos 15.847 minutos, JAG Kuzan eliminou CLG Xmithie
+Aos 22.298 minutos, JAG Kuzan eliminou CLG Xmithie
+Aos 22.334 minutos, JAG SoHwan eliminou CLG aphromoo
+Aos 22.546 minutos, JAG SoHwan eliminou CLG Stixxay
+Aos 31.942 minutos, JAG Pilot eliminou CLG Darshan
+Aos 31.975 minutos, JAG SoHwan eliminou CLG Stixxay
+Aos 32.019 minutos, JAG SoHwan eliminou CLG aphromoo
+Aos 34.789 minutos, JAG Chei eliminou CLG Huhi
+Aos 34.826 minutos, JAG SoHwan eliminou CLG Stixxay
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6835
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770138?gameHash=67cafcd3bf2c0430
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: CLG
+Time Vermelho: JAG
+Vencedor: CLG
+Placar: CLG: 1 x 0 :JAG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.067 minutos, CLG eliminou DRAGON
+Aos 38.505 minutos, CLG eliminou DRAGON
+Aos 25.285 minutos, CLG eliminou DRAGON
+Aos 44.752 minutos, CLG eliminou DRAGON
+Aos 32.007 minutos, CLG eliminou DRAGON
+Aos 41.258 minutos, CLG eliminou BARON_NASHOR
+Aos 12.154 minutos, JAG eliminou DRAGON
+Aos 34.071 minutos, JAG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.936 minutos, CLG Darshan eliminou JAG SoHwan
+Aos 7.127 minutos, CLG Xmithie eliminou JAG SoHwan
+Aos 9.959 minutos, CLG Darshan eliminou JAG SoHwan
+Aos 10.728 minutos, CLG Huhi eliminou JAG Chei
+Aos 29.519 minutos, CLG Xmithie eliminou JAG SoHwan
+Aos 29.543 minutos, CLG Darshan eliminou JAG Kuzan
+Aos 31.747 minutos, CLG Huhi eliminou JAG SoHwan
+Aos 34.361 minutos, CLG Stixxay eliminou JAG Chei
+Aos 34.912 minutos, CLG Darshan eliminou JAG Winged
+Aos 35.026 minutos, CLG Darshan eliminou JAG Pilot
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6836
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770140?gameHash=93b9e07e283ca957
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: CLG
+Time Vermelho: OG
+Vencedor: OG
+Placar: CLG: 0 x 1 :OG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.413 minutos, CLG eliminou DRAGON
+Aos 20.816 minutos, CLG eliminou DRAGON
+Aos 26.996 minutos, CLG eliminou DRAGON
+Aos 33.471 minutos, OG eliminou DRAGON
+Aos 24.081 minutos, OG eliminou BARON_NASHOR
+Aos 32.208 minutos, OG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.293 minutos, CLG Darshan eliminou OG sOAZ
+Aos 19.852 minutos, CLG aphromoo eliminou OG mithy
+Aos 20.036 minutos, CLG Darshan eliminou OG PowerOfEvil
+Aos 20.085 minutos, CLG Darshan eliminou OG sOAZ
+Aos 20.122 minutos, CLG Darshan eliminou OG Amazing
+Aos 20.288 minutos, CLG Stixxay eliminou OG Niels
+Aos 21.736 minutos, CLG Stixxay eliminou OG PowerOfEvil
+Aos 24.132 minutos, CLG Stixxay eliminou OG sOAZ
+Aos 24.237 minutos, CLG Huhi eliminou OG Amazing
+Aos 24.266 minutos, CLG Stixxay eliminou OG Niels
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6837
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770146?gameHash=e8168cbbbcf24708
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: OG
+Time Vermelho: CLG
+Vencedor: OG
+Placar: OG: 1 x 0 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.757 minutos, OG eliminou DRAGON
+Aos 22.007 minutos, OG eliminou DRAGON
+Aos 24.693 minutos, OG eliminou BARON_NASHOR
+Aos 9.427 minutos, CLG eliminou DRAGON
+
+=== ABATES ===
+Aos 4.41 minutos, OG Amazing eliminou CLG Huhi
+Aos 6.334 minutos, OG PowerOfEvil eliminou CLG Huhi
+Aos 10.03 minutos, OG Amazing eliminou CLG Darshan
+Aos 12.534 minutos, OG PowerOfEvil eliminou CLG Huhi
+Aos 23.527 minutos, OG Niels eliminou CLG Xmithie
+Aos 23.988 minutos, OG Niels eliminou CLG Huhi
+Aos 24.124 minutos, OG Niels eliminou CLG aphromoo
+Aos 24.167 minutos, OG Amazing eliminou CLG Darshan
+Aos 24.194 minutos, OG Niels eliminou CLG Stixxay
+Aos 26.146 minutos, OG Niels eliminou CLG Xmithie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6838
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT1/770147?gameHash=b18759eb59191bd1
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: CLG
+Time Vermelho: OG
+Vencedor: OG
+Placar: CLG: 0 x 1 :OG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.84 minutos, OG eliminou DRAGON
+Aos 13.138 minutos, OG eliminou DRAGON
+Aos 26.33 minutos, OG eliminou DRAGON
+Aos 32.989 minutos, OG eliminou DRAGON
+Aos 29.475 minutos, OG eliminou BARON_NASHOR
+Aos 36.634 minutos, OG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 11.997 minutos, CLG Darshan eliminou OG mithy
+Aos 12.062 minutos, CLG Stixxay eliminou OG PowerOfEvil
+Aos 15.324 minutos, CLG Huhi eliminou OG sOAZ
+Aos 15.684 minutos, CLG Huhi eliminou OG PowerOfEvil
+Aos 15.779 minutos, CLG Huhi eliminou OG Amazing
+Aos 15.932 minutos, CLG Xmithie eliminou OG mithy
+Aos 23.568 minutos, CLG Xmithie eliminou OG sOAZ
+Aos 27.624 minutos, CLG Stixxay eliminou OG Niels
+Aos 6.417 minutos, OG Amazing eliminou CLG Darshan
+Aos 6.469 minutos, OG Amazing eliminou CLG Xmithie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6839
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10037?gameHash=a1591a0021bc6fb2
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: DIG
+Time Vermelho: QG
+Vencedor: DIG
+Placar: DIG: 1 x 0 :QG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.708 minutos, DIG eliminou DRAGON
+Aos 26.965 minutos, DIG eliminou BARON_NASHOR
+Aos 17.253 minutos, DIG eliminou RIFT_HERALD
+Aos 18.206 minutos, QG eliminou DRAGON
+Aos 26.165 minutos, QG eliminou DRAGON
+
+=== ABATES ===
+Aos 2.989 minutos, DIG Kirei eliminou QG Doinb
+Aos 3.286 minutos, DIG Kirei eliminou QG Swift
+Aos 3.452 minutos, DIG Shiphtur eliminou QG Doinb
+Aos 4.991 minutos, DIG Smittyj eliminou QG V
+Aos 6.419 minutos, DIG Kirei eliminou QG V
+Aos 10.375 minutos, DIG Shiphtur eliminou QG TcT
+Aos 10.992 minutos, DIG Apollo eliminou QG TnT
+Aos 13.848 minutos, DIG Apollo eliminou QG Doinb
+Aos 13.901 minutos, DIG Apollo eliminou QG Swift
+Aos 21.416 minutos, DIG Apollo eliminou QG Doinb
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6840
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10043?gameHash=8ac474a9ea04c69c
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: QG
+Time Vermelho: DIG
+Vencedor: QG
+Placar: QG: 1 x 0 :DIG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.443 minutos, QG eliminou DRAGON
+Aos 26.345 minutos, QG eliminou DRAGON
+Aos 17.77 minutos, QG eliminou DRAGON
+Aos 32.593 minutos, DIG eliminou DRAGON
+Aos 33.828 minutos, DIG eliminou BARON_NASHOR
+Aos 25.29 minutos, DIG eliminou BARON_NASHOR
+Aos 15.747 minutos, DIG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 9.73 minutos, QG V eliminou DIG Jesiz
+Aos 11.056 minutos, QG TnT eliminou DIG Jesiz
+Aos 21.691 minutos, QG V eliminou DIG Apollo
+Aos 21.77 minutos, QG Swift eliminou DIG Shiphtur
+Aos 21.931 minutos, QG Doinb eliminou DIG Jesiz
+Aos 22.115 minutos, QG Swift eliminou DIG Smittyj
+Aos 25.363 minutos, QG Swift eliminou DIG Jesiz
+Aos 25.385 minutos, QG TnT eliminou DIG Apollo
+Aos 25.387 minutos, QG V eliminou DIG Kirei
+Aos 25.413 minutos, QG TnT eliminou DIG Smittyj
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6841
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10048?gameHash=507f52f61ff37ad1
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: DIG
+Time Vermelho: QG
+Vencedor: QG
+Placar: DIG: 0 x 1 :QG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 18.642 minutos, QG eliminou DRAGON
+Aos 26.779 minutos, QG eliminou DRAGON
+Aos 24.121 minutos, QG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.588 minutos, DIG Jesiz eliminou QG TnT
+Aos 12.923 minutos, DIG Shiphtur eliminou QG Swift
+Aos 16.039 minutos, DIG Smittyj eliminou QG Swift
+Aos 20.833 minutos, DIG Smittyj eliminou QG V
+Aos 20.885 minutos, DIG Smittyj eliminou QG Swift
+Aos 20.946 minutos, DIG Shiphtur eliminou QG TnT
+Aos 9.291 minutos, QG Swift eliminou DIG Smittyj
+Aos 13.787 minutos, QG V eliminou DIG Smittyj
+Aos 16.066 minutos, QG V eliminou DIG Smittyj
+Aos 18.705 minutos, QG TnT eliminou DIG Jesiz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6842
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10057?gameHash=b9667b8665d50488
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: H2k
+Time Vermelho: C9
+Vencedor: C9
+Placar: H2k: 0 x 1 :C9
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.359 minutos, C9 eliminou DRAGON
+Aos 20.642 minutos, C9 eliminou DRAGON
+Aos 14.386 minutos, C9 eliminou DRAGON
+Aos 28.588 minutos, C9 eliminou BARON_NASHOR
+Aos 15.671 minutos, C9 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.251 minutos, H2K FORG1VENGRE eliminou C9 Balls
+Aos 12.713 minutos, H2k Odoamne eliminou C9 Hai
+Aos 12.766 minutos, H2k Odoamne eliminou C9 Rush
+Aos 14.359 minutos, H2k Odoamne eliminou C9 Jensen
+Aos 25.556 minutos, H2k Odoamne eliminou C9 Hai
+Aos 25.631 minutos, H2K FORG1VENGRE eliminou C9 Jensen
+Aos 29.623 minutos, H2k Ryu eliminou C9 Hai
+Aos 9.911 minutos, C9 Jensen eliminou H2K FORG1VENGRE
+Aos 12.862 minutos, C9 Sneaky eliminou H2k Odoamne
+Aos 17.841 minutos, C9 Sneaky eliminou H2K FORG1VENGRE
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6843
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10060?gameHash=72a9a266e9684e72
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: C9
+Time Vermelho: H2k
+Vencedor: H2k
+Placar: C9: 0 x 1 :H2k
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 33.042 minutos, C9 eliminou DRAGON
+Aos 19.215 minutos, H2k eliminou DRAGON
+Aos 26.03 minutos, H2k eliminou DRAGON
+Aos 29.754 minutos, H2k eliminou BARON_NASHOR
+Aos 22.369 minutos, H2k eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.839 minutos, C9 Rush eliminou H2k Jankos
+Aos 9.686 minutos, C9 Sneaky eliminou H2k Ryu
+Aos 9.745 minutos, C9 Rush eliminou H2k Jankos
+Aos 9.808 minutos, C9 Rush eliminou H2k Odoamne
+Aos 9.864 minutos, C9 Balls eliminou H2K FORG1VENGRE
+Aos 16.18 minutos, C9 Sneaky eliminou H2k Jankos
+Aos 22.424 minutos, C9 Jensen eliminou H2k Jankos
+Aos 22.5 minutos, C9 Sneaky eliminou H2k Odoamne
+Aos 27.663 minutos, C9 Sneaky eliminou H2k Ryu
+Aos 27.703 minutos, C9 Sneaky eliminou H2k Jankos
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6844
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10061?gameHash=5ff964710ffc286f
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: H2k
+Time Vermelho: C9
+Vencedor: H2k
+Placar: H2k: 1 x 0 :C9
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.798 minutos, H2k eliminou DRAGON
+Aos 15.334 minutos, H2k eliminou DRAGON
+Aos 24.217 minutos, H2k eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 12.153 minutos, H2k Jankos eliminou C9 Rush
+Aos 18.158 minutos, H2k Vander eliminou C9 Balls
+Aos 18.245 minutos, H2K FORG1VENGRE eliminou C9 Rush
+Aos 18.317 minutos, H2k Odoamne eliminou C9 Hai
+Aos 20.887 minutos, H2k Jankos eliminou C9 Rush
+Aos 23.414 minutos, H2k Ryu eliminou C9 Sneaky
+Aos 23.543 minutos, H2k Odoamne eliminou C9 Jensen
+Aos 23.623 minutos, H2K FORG1VENGRE eliminou C9 Hai
+Aos 23.96 minutos, H2k Ryu eliminou C9 Rush
+Aos 26.488 minutos, H2k Jankos eliminou C9 Hai
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6845
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10069?gameHash=e07e09c4d4c6de67
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: FNC
+Time Vermelho: QG
+Vencedor: FNC
+Placar: FNC: 1 x 0 :QG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 31.579 minutos, FNC eliminou DRAGON
+Aos 12.116 minutos, FNC eliminou DRAGON
+Aos 18.403 minutos, FNC eliminou DRAGON
+Aos 32.445 minutos, FNC eliminou BARON_NASHOR
+Aos 19.605 minutos, FNC eliminou RIFT_HERALD
+Aos 25.21 minutos, QG eliminou DRAGON
+
+=== ABATES ===
+Aos 3.428 minutos, FNC Spirit eliminou QG TnT
+Aos 6.083 minutos, FNC Gamsu eliminou QG Swift
+Aos 6.472 minutos, FNC Gamsu eliminou QG TnT
+Aos 6.517 minutos, FNC Gamsu eliminou QG TcT
+Aos 14.094 minutos, FNC Rekkles eliminou QG Doinb
+Aos 19.763 minutos, FNC Noxiak eliminou QG TcT
+Aos 19.832 minutos, FNC Spirit eliminou QG Doinb
+Aos 19.912 minutos, FNC Gamsu eliminou QG V
+Aos 25.32 minutos, FNC Spirit eliminou QG V
+Aos 25.343 minutos, FNC Rekkles eliminou QG Doinb
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6846
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10070?gameHash=7ffd8236d9cb40a9
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: QG
+Time Vermelho: FNC
+Vencedor: QG
+Placar: QG: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.067 minutos, QG eliminou DRAGON
+Aos 12.184 minutos, QG eliminou DRAGON
+Aos 25.221 minutos, FNC eliminou DRAGON
+Aos 31.508 minutos, FNC eliminou DRAGON
+Aos 14.965 minutos, FNC eliminou RIFT_HERALD
+Aos 7.859 minutos, FNC eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 10.69 minutos, QG Doinb eliminou FNC Febiven
+Aos 11.126 minutos, QG Swift eliminou FNC Spirit
+Aos 22.873 minutos, QG V eliminou FNC Rekkles
+Aos 23.097 minutos, QG Doinb eliminou FNC Gamsu
+Aos 23.361 minutos, QG TnT eliminou FNC Spirit
+Aos 23.542 minutos, QG TcT eliminou FNC Noxiak
+Aos 27.615 minutos, QG Doinb eliminou FNC Noxiak
+Aos 31.966 minutos, QG Doinb eliminou FNC Febiven
+Aos 32.019 minutos, QG TnT eliminou FNC Rekkles
+Aos 32.178 minutos, QG Swift eliminou FNC Gamsu
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6847
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10071?gameHash=89badbc5e251cd8c
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: FNC
+Time Vermelho: QG
+Vencedor: QG
+Placar: FNC: 0 x 1 :QG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.02 minutos, FNC eliminou DRAGON
+Aos 31.312 minutos, FNC eliminou DRAGON
+Aos 18.984 minutos, FNC eliminou RIFT_HERALD
+Aos 24.606 minutos, QG eliminou DRAGON
+Aos 18.419 minutos, QG eliminou DRAGON
+Aos 37.693 minutos, QG eliminou DRAGON
+Aos 35.53 minutos, QG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.886 minutos, FNC Rekkles eliminou QG V
+Aos 17.148 minutos, FNC Gamsu eliminou QG Doinb
+Aos 26.083 minutos, FNC Febiven eliminou QG Swift
+Aos 26.521 minutos, FNC Rekkles eliminou QG Doinb
+Aos 26.64 minutos, FNC Febiven eliminou QG TcT
+Aos 35.776 minutos, FNC Febiven eliminou QG TcT
+Aos 2.814 minutos, QG V eliminou FNC Febiven
+Aos 17.035 minutos, QG Doinb eliminou FNC Febiven
+Aos 17.625 minutos, QG V eliminou FNC Rekkles
+Aos 17.768 minutos, QG TnT eliminou FNC Gamsu
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6848
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10072?gameHash=fd22f6772fe4d964
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: H2k
+Time Vermelho: ESC
+Vencedor: ESC
+Placar: H2k: 0 x 1 :ESC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.046 minutos, ESC eliminou DRAGON
+Aos 9.084 minutos, ESC eliminou DRAGON
+Aos 22.313 minutos, ESC eliminou DRAGON
+Aos 16.128 minutos, ESC eliminou DRAGON
+
+=== ABATES ===
+Aos 3.315 minutos, H2k Ryu eliminou ESC Athena
+Aos 12.627 minutos, H2k Ryu eliminou ESC Athena
+Aos 21.113 minutos, H2k Odoamne eliminou ESC Key
+Aos 5.62 minutos, ESC Ares eliminou H2k Odoamne
+Aos 9.517 minutos, ESC Loken eliminou H2k Odoamne
+Aos 21.085 minutos, ESC Athena eliminou H2k Jankos
+Aos 21.383 minutos, ESC Athena eliminou H2k Odoamne
+Aos 23.817 minutos, ESC Loken eliminou H2k Jankos
+Aos 27.89 minutos, ESC Crazy eliminou H2k Ryu
+Aos 30.806 minutos, ESC Crazy eliminou H2k Ryu
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6849
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10081?gameHash=34ec56b9ac7ab858
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: ESC
+Time Vermelho: H2k
+Vencedor: H2k
+Placar: ESC: 0 x 1 :H2k
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.149 minutos, ESC eliminou DRAGON
+Aos 35.529 minutos, ESC eliminou DRAGON
+Aos 28.578 minutos, ESC eliminou DRAGON
+Aos 25.374 minutos, ESC eliminou BARON_NASHOR
+Aos 15.25 minutos, H2k eliminou DRAGON
+
+=== ABATES ===
+Aos 9.353 minutos, ESC Athena eliminou H2k Vander
+Aos 21.628 minutos, ESC Crazy eliminou H2k Odoamne
+Aos 24.693 minutos, ESC Loken eliminou H2k Odoamne
+Aos 24.823 minutos, ESC Crazy eliminou H2k Jankos
+Aos 26.786 minutos, ESC Athena eliminou H2k Ryu
+Aos 26.915 minutos, ESC Athena eliminou H2k Jankos
+Aos 27.645 minutos, ESC Crazy eliminou H2K FORG1VENGRE
+Aos 27.721 minutos, ESC Crazy eliminou H2k Odoamne
+Aos 34.302 minutos, ESC Athena eliminou H2k Ryu
+Aos 34.343 minutos, ESC Loken eliminou H2k Vander
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6850
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/10082?gameHash=ac05544507faed2b
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: ESC
+Time Vermelho: H2k
+Vencedor: ESC
+Placar: ESC: 1 x 0 :H2k
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.475 minutos, ESC eliminou DRAGON
+Aos 14.333 minutos, ESC eliminou DRAGON
+Aos 20.981 minutos, H2k eliminou DRAGON
+
+=== ABATES ===
+Aos 4.606 minutos, ESC Crazy eliminou H2k Odoamne
+Aos 4.692 minutos, ESC Loken eliminou H2k Jankos
+Aos 6.149 minutos, ESC Ares eliminou H2k Vander
+Aos 10.555 minutos, ESC Athena eliminou H2k Ryu
+Aos 15.603 minutos, ESC Loken eliminou H2k Odoamne
+Aos 17.159 minutos, ESC Loken eliminou H2k Ryu
+Aos 18.896 minutos, ESC Crazy eliminou H2K FORG1VENGRE
+Aos 21.07 minutos, ESC Loken eliminou H2k Ryu
+Aos 21.122 minutos, ESC Loken eliminou H2k Odoamne
+Aos 27.023 minutos, ESC Loken eliminou H2k Odoamne
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6851
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/88?gameHash=99a59a892367eed7
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: QG
+Time Vermelho: ESC
+Vencedor: QG
+Placar: QG: 1 x 0 :ESC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.799 minutos, QG eliminou DRAGON
+Aos 29.221 minutos, QG eliminou DRAGON
+Aos 25.244 minutos, QG eliminou BARON_NASHOR
+Aos 34.698 minutos, QG eliminou BARON_NASHOR
+Aos 14.325 minutos, ESC eliminou DRAGON
+Aos 35.559 minutos, ESC eliminou DRAGON
+
+=== ABATES ===
+Aos 10.695 minutos, QG V eliminou ESC Ares
+Aos 10.871 minutos, QG Doinb eliminou ESC Crazy
+Aos 22.825 minutos, QG Doinb eliminou ESC Ares
+Aos 22.889 minutos, QG Doinb eliminou ESC Crazy
+Aos 25.292 minutos, QG Doinb eliminou ESC Ares
+Aos 25.313 minutos, QG TnT eliminou ESC Key
+Aos 29.301 minutos, QG TnT eliminou ESC Ares
+Aos 29.328 minutos, QG Doinb eliminou ESC Loken
+Aos 29.336 minutos, QG TnT eliminou ESC Crazy
+Aos 29.429 minutos, QG TnT eliminou ESC Key
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6852
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/89?gameHash=e1cec08bbcad276f
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: ESC
+Time Vermelho: QG
+Vencedor: ESC
+Placar: ESC: 1 x 0 :QG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.851 minutos, ESC eliminou DRAGON
+Aos 22.753 minutos, ESC eliminou DRAGON
+Aos 29.509 minutos, ESC eliminou DRAGON
+Aos 26.174 minutos, QG eliminou BARON_NASHOR
+Aos 15.268 minutos, QG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 10.022 minutos, ESC Athena eliminou QG Doinb
+Aos 15.102 minutos, ESC Loken eliminou QG TnT
+Aos 22.347 minutos, ESC Key eliminou QG Swift
+Aos 22.425 minutos, ESC Athena eliminou QG Doinb
+Aos 22.541 minutos, ESC Athena eliminou QG V
+Aos 26.291 minutos, ESC Loken eliminou QG TcT
+Aos 28.595 minutos, ESC Crazy eliminou QG TcT
+Aos 31.34 minutos, ESC Loken eliminou QG TnT
+Aos 33.147 minutos, ESC Loken eliminou QG TcT
+Aos 33.449 minutos, ESC Loken eliminou QG V
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6853
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/90?gameHash=9a9299ecf2fd8956
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: QG
+Time Vermelho: ESC
+Vencedor: ESC
+Placar: QG: 0 x 1 :ESC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.483 minutos, QG eliminou DRAGON
+Aos 16.529 minutos, QG eliminou RIFT_HERALD
+Aos 9.511 minutos, ESC eliminou DRAGON
+
+=== ABATES ===
+Aos 5.121 minutos, QG Swift eliminou ESC Crazy
+Aos 6.92 minutos, QG Doinb eliminou ESC Ares
+Aos 12.588 minutos, QG TnT eliminou ESC Key
+Aos 12.645 minutos, QG TnT eliminou ESC Ares
+Aos 12.694 minutos, QG V eliminou ESC Loken
+Aos 17.391 minutos, QG TnT eliminou ESC Key
+Aos 17.954 minutos, QG Swift eliminou ESC Ares
+Aos 18.311 minutos, QG Swift eliminou ESC Loken
+Aos 18.374 minutos, QG Swift eliminou ESC Crazy
+Aos 18.54 minutos, QG TnT eliminou ESC Key
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6854
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/91?gameHash=09d881156bf5e9aa
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: ESC
+Time Vermelho: QG
+Vencedor: QG
+Placar: ESC: 0 x 1 :QG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.343 minutos, QG eliminou DRAGON
+Aos 22.725 minutos, QG eliminou DRAGON
+Aos 9.407 minutos, QG eliminou DRAGON
+
+=== ABATES ===
+Aos 2.622 minutos, ESC Key eliminou QG TnT
+Aos 4.99 minutos, ESC Ares eliminou QG Doinb
+Aos 5.993 minutos, ESC Athena eliminou QG Doinb
+Aos 7.691 minutos, ESC Athena eliminou QG Doinb
+Aos 17.727 minutos, ESC Ares eliminou QG Swift
+Aos 21.174 minutos, ESC Loken eliminou QG TcT
+Aos 23.785 minutos, ESC Crazy eliminou QG Doinb
+Aos 23.83 minutos, ESC Loken eliminou QG TcT
+Aos 25.913 minutos, ESC Athena eliminou QG TnT
+Aos 25.983 minutos, ESC Loken eliminou QG Doinb
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6855
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/FRA1TMNT2/92?gameHash=60e0a87eab1a4b04
+Campeonato: IEM
+Ano: 2015
+Fase: International
+Temporada: Summer
+Time Azul: ESC
+Time Vermelho: QG
+Vencedor: ESC
+Placar: ESC: 1 x 0 :QG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.451 minutos, ESC eliminou DRAGON
+Aos 27.729 minutos, ESC eliminou BARON_NASHOR
+Aos 23.289 minutos, QG eliminou DRAGON
+Aos 17.006 minutos, QG eliminou DRAGON
+
+=== ABATES ===
+Aos 10.812 minutos, ESC Crazy eliminou QG Swift
+Aos 12.742 minutos, ESC Crazy eliminou QG Swift
+Aos 12.915 minutos, ESC Key eliminou QG TcT
+Aos 12.991 minutos, ESC Crazy eliminou QG Doinb
+Aos 26.883 minutos, ESC Athena eliminou QG Swift
+Aos 26.89 minutos, ESC Athena eliminou QG TnT
+Aos 27.114 minutos, ESC Athena eliminou QG Doinb
+Aos 33.866 minutos, ESC Loken eliminou QG Doinb
+Aos 33.908 minutos, ESC Loken eliminou QG TnT
+Aos 34.306 minutos, ESC Athena eliminou QG V
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6856
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120538?gameHash=729fe79efb1a4d87
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: ESC
+Time Vermelho: TSM
+Vencedor: ESC
+Placar: ESC: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.949 minutos, TSM eliminou DRAGON
+Aos 15.079 minutos, TSM eliminou DRAGON
+Aos 30.567 minutos, TSM eliminou DRAGON
+Aos 16.061 minutos, TSM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 10.065 minutos, ESC Ever Tempt eliminou TSM Yellowstar
+Aos 15.564 minutos, ESC Ever Loken eliminou TSM Bjergsen
+Aos 20.429 minutos, ESC Ever Key eliminou TSM Doublelift
+Aos 20.588 minutos, ESC Ever Crazy eliminou TSM Yellowstar
+Aos 23.414 minutos, ESC Ever Loken eliminou TSM Hauntzer
+Aos 24.021 minutos, ESC Ever Key eliminou TSM Bjergsen
+Aos 26.0 minutos, ESC Ever Loken eliminou TSM Bjergsen
+Aos 26.102 minutos, ESC Ever Crazy eliminou TSM Yellowstar
+Aos 28.779 minutos, ESC Ever Loken eliminou TSM Yellowstar
+Aos 28.895 minutos, ESC Ever Ares eliminou TSM Svenskeren
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6857
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001130555?gameHash=41b187f68985d3a7
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: OG
+Time Vermelho: RNG
+Vencedor: RNG
+Placar: OG: 0 x 1 :RNG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 8.791 minutos, OG eliminou DRAGON
+Aos 6.534 minutos, OG eliminou RIFT_HERALD
+Aos 12.729 minutos, OG eliminou RIFT_HERALD
+Aos 25.147 minutos, RNG eliminou DRAGON
+Aos 15.595 minutos, RNG eliminou DRAGON
+Aos 28.346 minutos, RNG eliminou BARON_NASHOR
+Aos 19.021 minutos, RNG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 22.548 minutos, OG Amazing eliminou RNG Looper
+Aos 23.016 minutos, OG Amazing eliminou RNG Mlxg
+Aos 23.065 minutos, OG Zven eliminou RNG Mata
+Aos 23.227 minutos, OG Zven eliminou RNG Xiaohu
+Aos 9.179 minutos, RNG Looper eliminou OG Soaz
+Aos 12.91 minutos, RNG Xiaohu eliminou OG Soaz
+Aos 14.888 minutos, RNG Xiaohu eliminou OG Soaz
+Aos 18.082 minutos, RNG Mlxg eliminou OG Zven
+Aos 18.205 minutos, RNG Xiaohu eliminou OG Mithy
+Aos 22.639 minutos, RNG Xiaohu eliminou OG PowerOfEvil
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6858
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120549?gameHash=268832df03e52a9a
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: ESC
+Time Vermelho: RNG
+Vencedor: RNG
+Placar: ESC: 0 x 1 :RNG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.347 minutos, RNG eliminou DRAGON
+Aos 20.066 minutos, RNG eliminou DRAGON
+Aos 11.808 minutos, RNG eliminou DRAGON
+Aos 13.251 minutos, RNG eliminou RIFT_HERALD
+Aos 18.951 minutos, RNG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 16.286 minutos, ESC Ever Tempt eliminou RNG Mata
+Aos 16.516 minutos, ESC Ever Crazy eliminou RNG Wuxx
+Aos 16.682 minutos, ESC Ever Loken eliminou RNG Looper
+Aos 24.018 minutos, ESC Ever Crazy eliminou RNG Xiaohu
+Aos 26.315 minutos, ESC Ever Loken eliminou RNG Wuxx
+Aos 26.523 minutos, ESC Ever Crazy eliminou RNG Looper
+Aos 5.159 minutos, RNG Mata eliminou ESC Ever Crazy
+Aos 16.341 minutos, RNG Mlxg eliminou ESC Ever Ares
+Aos 16.703 minutos, RNG Mlxg eliminou ESC Ever Loken
+Aos 16.716 minutos, RNG Xiaohu eliminou ESC Ever Key
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6859
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120554?gameHash=9bb3f7cafcc4157d
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: OG
+Vencedor: TSM
+Placar: TSM: 1 x 0 :OG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.651 minutos, TSM eliminou DRAGON
+Aos 44.303 minutos, TSM eliminou DRAGON
+Aos 35.202 minutos, TSM eliminou DRAGON
+Aos 40.671 minutos, TSM eliminou BARON_NASHOR
+Aos 29.006 minutos, OG eliminou DRAGON
+Aos 8.253 minutos, OG eliminou DRAGON
+Aos 14.549 minutos, OG eliminou DRAGON
+Aos 16.758 minutos, OG eliminou RIFT_HERALD
+Aos 5.81 minutos, OG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 11.862 minutos, TSM Bjergsen eliminou OG Soaz
+Aos 11.931 minutos, TSM Svenskeren eliminou OG PowerOfEvil
+Aos 11.953 minutos, TSM Bjergsen eliminou OG Mithy
+Aos 11.995 minutos, TSM Svenskeren eliminou OG Amazing
+Aos 17.839 minutos, TSM Bjergsen eliminou OG Amazing
+Aos 19.594 minutos, TSM Bjergsen eliminou OG Amazing
+Aos 20.984 minutos, TSM Bjergsen eliminou OG PowerOfEvil
+Aos 21.091 minutos, TSM Hauntzer eliminou OG Mithy
+Aos 21.153 minutos, TSM Hauntzer eliminou OG Zven
+Aos 21.235 minutos, TSM Doublelift eliminou OG Soaz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6860
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001130565?gameHash=62e441be0e5f2948
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: OG
+Time Vermelho: TSM
+Vencedor: OG
+Placar: OG: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 28.376 minutos, OG eliminou DRAGON
+Aos 39.797 minutos, OG eliminou BARON_NASHOR
+Aos 17.026 minutos, OG eliminou RIFT_HERALD
+Aos 11.391 minutos, OG eliminou RIFT_HERALD
+Aos 14.984 minutos, TSM eliminou DRAGON
+Aos 37.536 minutos, TSM eliminou DRAGON
+Aos 21.514 minutos, TSM eliminou DRAGON
+Aos 32.327 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.191 minutos, OG Amazing eliminou TSM Yellowstar
+Aos 6.356 minutos, OG Soaz eliminou TSM Doublelift
+Aos 15.489 minutos, OG Soaz eliminou TSM Doublelift
+Aos 18.42 minutos, OG Amazing eliminou TSM Yellowstar
+Aos 22.993 minutos, OG Zven eliminou TSM Yellowstar
+Aos 23.06 minutos, OG Soaz eliminou TSM Doublelift
+Aos 23.158 minutos, OG PowerOfEvil eliminou TSM Bjergsen
+Aos 24.547 minutos, OG PowerOfEvil eliminou TSM Hauntzer
+Aos 25.253 minutos, OG Zven eliminou TSM Svenskeren
+Aos 26.996 minutos, OG Zven eliminou TSM Yellowstar
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6861
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120567?gameHash=d96f3cd26f39df1c
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: OG
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: OG: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.985 minutos, OG eliminou DRAGON
+Aos 15.529 minutos, OG eliminou RIFT_HERALD
+Aos 14.765 minutos, TSM eliminou DRAGON
+Aos 23.481 minutos, TSM eliminou BARON_NASHOR
+Aos 30.827 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.914 minutos, OG Amazing eliminou TSM Bjergsen
+Aos 6.258 minutos, OG Zven eliminou TSM Yellowstar
+Aos 7.923 minutos, OG PowerOfEvil eliminou TSM Hauntzer
+Aos 7.927 minutos, OG Zven eliminou TSM Doublelift
+Aos 10.447 minutos, OG Zven eliminou TSM Yellowstar
+Aos 10.56 minutos, OG Zven eliminou TSM Svenskeren
+Aos 13.613 minutos, OG PowerOfEvil eliminou TSM Doublelift
+Aos 19.272 minutos, OG Amazing eliminou TSM Hauntzer
+Aos 19.315 minutos, OG Zven eliminou TSM Bjergsen
+Aos 19.594 minutos, OG Zven eliminou TSM Yellowstar
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6862
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120574?gameHash=4698baef8fdaa93c
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: ESC
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: ESC: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 31.901 minutos, TSM eliminou DRAGON
+Aos 25.267 minutos, TSM eliminou DRAGON
+Aos 15.888 minutos, TSM eliminou DRAGON
+Aos 31.17 minutos, TSM eliminou BARON_NASHOR
+Aos 7.865 minutos, TSM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 5.074 minutos, ESC Ever Tempt eliminou TSM Hauntzer
+Aos 9.072 minutos, ESC Ever Ares eliminou TSM Doublelift
+Aos 9.291 minutos, ESC Ever Tempt eliminou TSM Svenskeren
+Aos 13.364 minutos, ESC Ever Key eliminou TSM Doublelift
+Aos 21.508 minutos, ESC Ever Loken eliminou TSM Svenskeren
+Aos 21.599 minutos, ESC Ever Tempt eliminou TSM Hauntzer
+Aos 21.76 minutos, ESC Ever Ares eliminou TSM Doublelift
+Aos 23.353 minutos, ESC Ever Loken eliminou TSM Bjergsen
+Aos 23.737 minutos, ESC Ever Loken eliminou TSM Svenskeren
+Aos 23.806 minutos, ESC Ever Crazy eliminou TSM Yellowstar
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6863
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001130573?gameHash=9da71bb289acee5e
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: ESC
+Vencedor: TSM
+Placar: TSM: 1 x 0 :ESC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.197 minutos, TSM eliminou DRAGON
+Aos 22.004 minutos, TSM eliminou BARON_NASHOR
+Aos 10.833 minutos, TSM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.757 minutos, TSM Hauntzer eliminou ESC Ever Crazy
+Aos 9.951 minutos, TSM Doublelift eliminou ESC Ever Key
+Aos 11.817 minutos, TSM Hauntzer eliminou ESC Ever Key
+Aos 12.065 minutos, TSM Svenskeren eliminou ESC Ever Loken
+Aos 12.15 minutos, TSM Bjergsen eliminou ESC Ever Ares
+Aos 12.263 minutos, TSM Svenskeren eliminou ESC Ever Crazy
+Aos 12.857 minutos, TSM Bjergsen eliminou ESC Ever Key
+Aos 14.261 minutos, TSM Bjergsen eliminou ESC Ever Loken
+Aos 14.34 minutos, TSM Doublelift eliminou ESC Ever Key
+Aos 14.477 minutos, TSM Bjergsen eliminou ESC Ever Ares
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6864
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120594?gameHash=0ed807a5cb6d64d6
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: CLG
+Vencedor: SKT
+Placar: SKT: 1 x 0 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 6.218 minutos, SKT eliminou DRAGON
+Aos 26.594 minutos, SKT eliminou DRAGON
+Aos 20.168 minutos, SKT eliminou DRAGON
+Aos 14.95 minutos, SKT eliminou RIFT_HERALD
+Aos 8.639 minutos, SKT eliminou RIFT_HERALD
+Aos 13.843 minutos, CLG eliminou DRAGON
+
+=== ABATES ===
+Aos 6.72 minutos, SKT Bang eliminou CLG Darshan
+Aos 17.967 minutos, SKT Blank eliminou CLG Huhi
+Aos 18.13 minutos, SKT Faker eliminou CLG aphromoo
+Aos 18.983 minutos, SKT Bang eliminou CLG Stixxay
+Aos 27.378 minutos, SKT Bang eliminou CLG aphromoo
+Aos 30.248 minutos, SKT Blank eliminou CLG aphromoo
+Aos 30.382 minutos, SKT Bang eliminou CLG Stixxay
+Aos 30.522 minutos, SKT Bang eliminou CLG Huhi
+Aos 30.563 minutos, SKT Blank eliminou CLG Darshan
+Aos 30.587 minutos, SKT Bang eliminou CLG Xmithie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6865
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120615?gameHash=16272b8c7fb5b904
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: QG
+Time Vermelho: FNC
+Vencedor: QG
+Placar: QG: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.269 minutos, QG eliminou DRAGON
+Aos 14.86 minutos, QG eliminou DRAGON
+Aos 28.44 minutos, QG eliminou DRAGON
+Aos 18.14 minutos, QG eliminou RIFT_HERALD
+Aos 12.522 minutos, QG eliminou RIFT_HERALD
+Aos 36.28 minutos, FNC eliminou DRAGON
+
+=== ABATES ===
+Aos 6.37 minutos, QG Uzi eliminou FNC Rekkles
+Aos 9.728 minutos, QG Uzi eliminou FNC Klaj
+Aos 12.655 minutos, QG Uzi eliminou FNC Febiven
+Aos 12.777 minutos, QG Doinb eliminou FNC Spirit
+Aos 19.75 minutos, QG Doinb eliminou FNC Febiven
+Aos 34.874 minutos, QG Doinb eliminou FNC Klaj
+Aos 34.937 minutos, QG Uzi eliminou FNC Spirit
+Aos 35.092 minutos, QG Uzi eliminou FNC Gamsu
+Aos 39.19 minutos, QG Swift eliminou FNC Klaj
+Aos 39.221 minutos, QG Uzi eliminou FNC Rekkles
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6866
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120619?gameHash=7bfe98675f81378f
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: QG
+Vencedor: SKT
+Placar: SKT: 1 x 0 :QG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.394 minutos, SKT eliminou DRAGON
+Aos 22.587 minutos, SKT eliminou DRAGON
+Aos 29.329 minutos, SKT eliminou DRAGON
+Aos 27.894 minutos, SKT eliminou BARON_NASHOR
+Aos 9.59 minutos, QG eliminou DRAGON
+Aos 18.72 minutos, QG eliminou RIFT_HERALD
+Aos 11.448 minutos, QG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 9.441 minutos, SKT Faker eliminou QG Doinb
+Aos 9.7 minutos, SKT Duke eliminou QG Mor
+Aos 9.985 minutos, SKT Bang eliminou QG Uzi
+Aos 11.82 minutos, SKT Wolf eliminou QG Doinb
+Aos 12.679 minutos, SKT Bang eliminou QG Mor
+Aos 15.735 minutos, SKT Faker eliminou QG Doinb
+Aos 15.81 minutos, SKT Wolf eliminou QG Swift
+Aos 15.89 minutos, SKT Faker eliminou QG V
+Aos 15.905 minutos, SKT Faker eliminou QG Mor
+Aos 18.875 minutos, SKT Bang eliminou QG Doinb
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6867
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120634?gameHash=e80bc0b6ea3bc76d
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: CLG
+Vencedor: CLG
+Placar: FNC: 0 x 1 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.272 minutos, FNC eliminou DRAGON
+Aos 19.574 minutos, CLG eliminou DRAGON
+Aos 27.124 minutos, CLG eliminou DRAGON
+Aos 34.681 minutos, CLG eliminou DRAGON
+Aos 32.169 minutos, CLG eliminou BARON_NASHOR
+Aos 12.601 minutos, CLG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 8.088 minutos, FNC Klaj eliminou CLG aphromoo
+Aos 11.008 minutos, FNC Rekkles eliminou CLG Stixxay
+Aos 28.817 minutos, FNC Gamsu eliminou CLG Huhi
+Aos 29.435 minutos, FNC Febiven eliminou CLG aphromoo
+Aos 31.94 minutos, FNC Klaj eliminou CLG Darshan
+Aos 33.505 minutos, FNC Spirit eliminou CLG Huhi
+Aos 34.137 minutos, FNC Rekkles eliminou CLG Darshan
+Aos 8.149 minutos, CLG Stixxay eliminou FNC Rekkles
+Aos 9.984 minutos, CLG Xmithie eliminou FNC Klaj
+Aos 11.055 minutos, CLG aphromoo eliminou FNC Rekkles
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6868
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120640?gameHash=2afa6d834aed724f
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: CLG
+Time Vermelho: FNC
+Vencedor: FNC
+Placar: CLG: 0 x 1 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 31.201 minutos, CLG eliminou DRAGON
+Aos 22.582 minutos, CLG eliminou DRAGON
+Aos 54.755 minutos, CLG eliminou DRAGON
+Aos 30.457 minutos, CLG eliminou BARON_NASHOR
+Aos 41.439 minutos, CLG eliminou BARON_NASHOR
+Aos 15.692 minutos, FNC eliminou DRAGON
+Aos 38.346 minutos, FNC eliminou DRAGON
+Aos 45.95 minutos, FNC eliminou DRAGON
+Aos 54.728 minutos, FNC eliminou BARON_NASHOR
+Aos 19.646 minutos, FNC eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.324 minutos, CLG Darshan eliminou FNC Febiven
+Aos 6.588 minutos, CLG Stixxay eliminou FNC Klaj
+Aos 8.651 minutos, CLG Stixxay eliminou FNC Rekkles
+Aos 12.365 minutos, CLG Xmithie eliminou FNC Spirit
+Aos 12.377 minutos, CLG Xmithie eliminou FNC Klaj
+Aos 17.829 minutos, CLG Huhi eliminou FNC Febiven
+Aos 23.57 minutos, CLG Stixxay eliminou FNC Spirit
+Aos 26.389 minutos, CLG Huhi eliminou FNC Spirit
+Aos 27.006 minutos, CLG Huhi eliminou FNC Klaj
+Aos 27.334 minutos, CLG Huhi eliminou FNC Gamsu
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6869
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120669?gameHash=3a7509ba17901bb4
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: CLG
+Vencedor: FNC
+Placar: FNC: 1 x 0 :CLG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.528 minutos, FNC eliminou DRAGON
+Aos 29.406 minutos, FNC eliminou BARON_NASHOR
+Aos 16.811 minutos, CLG eliminou DRAGON
+Aos 23.849 minutos, CLG eliminou DRAGON
+Aos 30.024 minutos, CLG eliminou DRAGON
+Aos 16.186 minutos, CLG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 10.257 minutos, FNC Rekkles eliminou CLG aphromoo
+Aos 10.32 minutos, FNC Rekkles eliminou CLG Xmithie
+Aos 10.357 minutos, FNC Febiven eliminou CLG Stixxay
+Aos 19.004 minutos, FNC Spirit eliminou CLG Darshan
+Aos 25.249 minutos, FNC Rekkles eliminou CLG aphromoo
+Aos 25.447 minutos, FNC Febiven eliminou CLG Huhi
+Aos 28.551 minutos, FNC Gamsu eliminou CLG Xmithie
+Aos 28.554 minutos, FNC Rekkles eliminou CLG Stixxay
+Aos 28.623 minutos, FNC Klaj eliminou CLG Huhi
+Aos 28.79 minutos, FNC Rekkles eliminou CLG Darshan
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6870
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120684?gameHash=4e1e413735b5eaf6
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: QG
+Time Vermelho: FNC
+Vencedor: QG
+Placar: QG: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.478 minutos, QG eliminou DRAGON
+Aos 32.374 minutos, QG eliminou DRAGON
+Aos 15.678 minutos, QG eliminou DRAGON
+Aos 22.67 minutos, QG eliminou BARON_NASHOR
+Aos 33.093 minutos, QG eliminou BARON_NASHOR
+Aos 14.64 minutos, FNC eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 7.593 minutos, QG Uzi eliminou FNC Klaj
+Aos 11.356 minutos, QG Swift eliminou FNC Spirit
+Aos 11.514 minutos, QG V eliminou FNC Gamsu
+Aos 21.736 minutos, QG Uzi eliminou FNC Rekkles
+Aos 21.827 minutos, QG V eliminou FNC Gamsu
+Aos 21.843 minutos, QG Uzi eliminou FNC Febiven
+Aos 21.976 minutos, QG Doinb eliminou FNC Klaj
+Aos 22.64 minutos, QG Uzi eliminou FNC Spirit
+Aos 26.32 minutos, QG Doinb eliminou FNC Rekkles
+Aos 26.645 minutos, QG Swift eliminou FNC Spirit
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6871
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120688?gameHash=6445d069641cd6b5
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: QG
+Vencedor: FNC
+Placar: FNC: 1 x 0 :QG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.067 minutos, FNC eliminou DRAGON
+Aos 11.167 minutos, FNC eliminou DRAGON
+Aos 22.282 minutos, FNC eliminou BARON_NASHOR
+Aos 15.003 minutos, FNC eliminou RIFT_HERALD
+Aos 18.321 minutos, QG eliminou DRAGON
+
+=== ABATES ===
+Aos 3.658 minutos, FNC Gamsu eliminou QG Swift
+Aos 3.743 minutos, FNC Gamsu eliminou QG V
+Aos 5.141 minutos, FNC Spirit eliminou QG Swift
+Aos 10.42 minutos, FNC Spirit eliminou QG V
+Aos 12.816 minutos, FNC Febiven eliminou QG Swift
+Aos 14.328 minutos, FNC Spirit eliminou QG Doinb
+Aos 16.551 minutos, FNC Febiven eliminou QG Uzi
+Aos 16.647 minutos, FNC Febiven eliminou QG V
+Aos 16.698 minutos, FNC Rekkles eliminou QG Swift
+Aos 16.994 minutos, FNC Gamsu eliminou QG Doinb
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6872
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120701?gameHash=c9135bb73e2480e4
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: QG
+Vencedor: FNC
+Placar: FNC: 1 x 0 :QG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.492 minutos, FNC eliminou DRAGON
+Aos 29.07 minutos, FNC eliminou DRAGON
+Aos 22.901 minutos, FNC eliminou DRAGON
+Aos 24.431 minutos, FNC eliminou BARON_NASHOR
+Aos 17.321 minutos, FNC eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.79 minutos, FNC Gamsu eliminou QG V
+Aos 6.115 minutos, FNC Gamsu eliminou QG Doinb
+Aos 6.206 minutos, FNC Febiven eliminou QG Mor
+Aos 9.251 minutos, FNC Spirit eliminou QG Doinb
+Aos 12.354 minutos, FNC Gamsu eliminou QG Uzi
+Aos 12.363 minutos, FNC Rekkles eliminou QG Swift
+Aos 12.433 minutos, FNC Febiven eliminou QG Mor
+Aos 15.724 minutos, FNC Rekkles eliminou QG Uzi
+Aos 16.079 minutos, FNC Febiven eliminou QG Mor
+Aos 23.432 minutos, FNC Febiven eliminou QG Uzi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6873
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001130710?gameHash=bbda0acdae9ec190
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: TSM
+Vencedor: SKT
+Placar: SKT: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.307 minutos, SKT eliminou DRAGON
+Aos 19.706 minutos, SKT eliminou DRAGON
+Aos 27.183 minutos, SKT eliminou DRAGON
+Aos 26.115 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.122 minutos, SKT Duke eliminou TSM Hauntzer
+Aos 11.538 minutos, SKT Faker eliminou TSM Svenskeren
+Aos 12.366 minutos, SKT Duke eliminou TSM Hauntzer
+Aos 12.497 minutos, SKT Blank eliminou TSM Doublelift
+Aos 19.966 minutos, SKT Duke eliminou TSM Doublelift
+Aos 22.039 minutos, SKT Faker eliminou TSM Doublelift
+Aos 23.325 minutos, SKT Duke eliminou TSM Svenskeren
+Aos 23.385 minutos, SKT Blank eliminou TSM YellOwStaR
+Aos 25.531 minutos, SKT Faker eliminou TSM Hauntzer
+Aos 25.669 minutos, SKT Bang eliminou TSM Svenskeren
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6874
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001130713?gameHash=e262657f67be02ed
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: TSM
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: TSM: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.363 minutos, SKT eliminou DRAGON
+Aos 18.234 minutos, SKT eliminou DRAGON
+Aos 21.548 minutos, SKT eliminou BARON_NASHOR
+Aos 15.766 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 10.836 minutos, TSM Hauntzer eliminou SKT Duke
+Aos 11.578 minutos, TSM Svenskeren eliminou SKT Faker
+Aos 13.435 minutos, TSM Doublelift eliminou SKT Faker
+Aos 16.163 minutos, TSM Svenskeren eliminou SKT Faker
+Aos 24.494 minutos, TSM Doublelift eliminou SKT Duke
+Aos 11.708 minutos, SKT Bang eliminou TSM Bjergsen
+Aos 12.801 minutos, SKT Bang eliminou TSM Bjergsen
+Aos 13.434 minutos, SKT Faker eliminou TSM YellOwStaR
+Aos 20.729 minutos, SKT Faker eliminou TSM Doublelift
+Aos 20.76 minutos, SKT Bang eliminou TSM Svenskeren
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6875
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001130714?gameHash=c3ce1584ee9d862a
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: RNG
+Time Vermelho: FNC
+Vencedor: FNC
+Placar: RNG: 0 x 1 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 14.118 minutos, RNG eliminou RIFT_HERALD
+Aos 21.304 minutos, FNC eliminou DRAGON
+Aos 13.394 minutos, FNC eliminou DRAGON
+Aos 20.504 minutos, FNC eliminou BARON_NASHOR
+Aos 19.397 minutos, FNC eliminou RIFT_HERALD
+Aos 5.914 minutos, FNC eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 7.783 minutos, RNG Xiaohu eliminou FNC Spirit
+Aos 10.067 minutos, RNG Wuxx eliminou FNC Rekkles
+Aos 10.124 minutos, RNG Xiaohu eliminou FNC Gamsu
+Aos 12.697 minutos, RNG Mlxg eliminou FNC Klaj
+Aos 15.998 minutos, RNG Wuxx eliminou FNC Febiven
+Aos 16.649 minutos, RNG Xiaohu eliminou FNC Gamsu
+Aos 6.774 minutos, FNC Spirit eliminou RNG Mlxg
+Aos 7.637 minutos, FNC Gamsu eliminou RNG Mlxg
+Aos 7.771 minutos, FNC Febiven eliminou RNG Mata
+Aos 7.826 minutos, FNC Gamsu eliminou RNG Xiaohu
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6876
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001130723?gameHash=116dc2122a47c57e
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: RNG
+Vencedor: RNG
+Placar: FNC: 0 x 1 :RNG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 14.422 minutos, FNC eliminou DRAGON
+Aos 7.97 minutos, FNC eliminou DRAGON
+Aos 18.03 minutos, FNC eliminou RIFT_HERALD
+Aos 11.976 minutos, FNC eliminou RIFT_HERALD
+Aos 5.969 minutos, FNC eliminou RIFT_HERALD
+Aos 20.888 minutos, RNG eliminou DRAGON
+Aos 27.336 minutos, RNG eliminou DRAGON
+Aos 32.244 minutos, RNG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 15.249 minutos, FNC Gamsu eliminou RNG Xiaohu
+Aos 17.292 minutos, FNC Febiven eliminou RNG Xiaohu
+Aos 17.392 minutos, FNC Febiven eliminou RNG Mata
+Aos 17.454 minutos, FNC Gamsu eliminou RNG Wuxx
+Aos 17.495 minutos, FNC Febiven eliminou RNG Looper
+Aos 22.692 minutos, FNC Rekkles eliminou RNG Mata
+Aos 22.986 minutos, FNC Rekkles eliminou RNG Looper
+Aos 8.461 minutos, RNG Mlxg eliminou FNC Spirit
+Aos 12.416 minutos, RNG Wuxx eliminou FNC Klaj
+Aos 15.011 minutos, RNG Wuxx eliminou FNC Rekkles
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6877
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001130727?gameHash=bf6c219640259b74
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: RNG
+Vencedor: FNC
+Placar: FNC: 1 x 0 :RNG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.382 minutos, FNC eliminou DRAGON
+Aos 34.468 minutos, FNC eliminou DRAGON
+Aos 20.974 minutos, FNC eliminou DRAGON
+Aos 33.264 minutos, FNC eliminou BARON_NASHOR
+Aos 24.527 minutos, FNC eliminou BARON_NASHOR
+Aos 13.683 minutos, FNC eliminou RIFT_HERALD
+Aos 19.157 minutos, FNC eliminou RIFT_HERALD
+Aos 11.681 minutos, RNG eliminou DRAGON
+
+=== ABATES ===
+Aos 21.664 minutos, FNC Spirit eliminou RNG Mata
+Aos 21.864 minutos, FNC Spirit eliminou RNG Mlxg
+Aos 21.918 minutos, FNC Rekkles eliminou RNG Wuxx
+Aos 22.011 minutos, FNC Gamsu eliminou RNG Xiaohu
+Aos 22.086 minutos, FNC Spirit eliminou RNG Looper
+Aos 23.821 minutos, FNC Rekkles eliminou RNG Mlxg
+Aos 23.975 minutos, FNC Febiven eliminou RNG Mata
+Aos 24.054 minutos, FNC Spirit eliminou RNG Wuxx
+Aos 32.107 minutos, FNC Rekkles eliminou RNG Mata
+Aos 32.121 minutos, FNC Febiven eliminou RNG Wuxx
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6878
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001130745?gameHash=b19bf00e2c8ce937
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: FNC
+Vencedor: SKT
+Placar: SKT: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 6.039 minutos, SKT eliminou DRAGON
+Aos 12.665 minutos, SKT eliminou DRAGON
+Aos 19.14 minutos, SKT eliminou DRAGON
+Aos 31.572 minutos, SKT eliminou BARON_NASHOR
+Aos 16.206 minutos, SKT eliminou RIFT_HERALD
+Aos 31.584 minutos, FNC eliminou DRAGON
+Aos 25.307 minutos, FNC eliminou DRAGON
+Aos 10.223 minutos, FNC eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 10.329 minutos, SKT Blank eliminou FNC Febiven
+Aos 10.843 minutos, SKT Blank eliminou FNC Spirit
+Aos 13.659 minutos, SKT Faker eliminou FNC Spirit
+Aos 13.734 minutos, SKT Duke eliminou FNC Febiven
+Aos 14.495 minutos, SKT Duke eliminou FNC Klaj
+Aos 23.946 minutos, SKT Duke eliminou FNC Rekkles
+Aos 29.467 minutos, SKT Duke eliminou FNC Rekkles
+Aos 29.579 minutos, SKT Duke eliminou FNC Spirit
+Aos 30.994 minutos, SKT Bang eliminou FNC Klaj
+Aos 31.076 minutos, SKT Duke eliminou FNC Spirit
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6879
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120779?gameHash=196d4de3a06c6071
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: FNC
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: FNC: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 7.937 minutos, FNC eliminou DRAGON
+Aos 35.715 minutos, FNC eliminou DRAGON
+Aos 17.982 minutos, FNC eliminou RIFT_HERALD
+Aos 12.24 minutos, FNC eliminou RIFT_HERALD
+Aos 28.232 minutos, SKT eliminou DRAGON
+Aos 14.992 minutos, SKT eliminou DRAGON
+Aos 21.858 minutos, SKT eliminou DRAGON
+Aos 27.586 minutos, SKT eliminou BARON_NASHOR
+Aos 5.825 minutos, SKT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 7.321 minutos, FNC Rekkles eliminou SKT Bang
+Aos 11.594 minutos, FNC Febiven eliminou SKT Duke
+Aos 15.419 minutos, FNC Klaj eliminou SKT Duke
+Aos 22.479 minutos, FNC Rekkles eliminou SKT Wolf
+Aos 24.802 minutos, FNC Gamsu eliminou SKT Faker
+Aos 29.134 minutos, FNC Rekkles eliminou SKT Blank
+Aos 30.68 minutos, FNC Febiven eliminou SKT Duke
+Aos 34.168 minutos, FNC Rekkles eliminou SKT Blank
+Aos 34.576 minutos, FNC Febiven eliminou SKT Faker
+Aos 37.336 minutos, FNC Rekkles eliminou SKT Blank
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6880
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/TREU/1001120781?gameHash=80bbab6d533d3e35
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Spring
+Time Azul: SKT
+Time Vermelho: FNC
+Vencedor: SKT
+Placar: SKT: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.193 minutos, SKT eliminou DRAGON
+Aos 21.698 minutos, SKT eliminou BARON_NASHOR
+Aos 16.475 minutos, SKT eliminou RIFT_HERALD
+Aos 10.241 minutos, SKT eliminou RIFT_HERALD
+Aos 8.913 minutos, FNC eliminou DRAGON
+
+=== ABATES ===
+Aos 10.89 minutos, SKT Faker eliminou FNC Spirit
+Aos 11.025 minutos, SKT Blank eliminou FNC Rekkles
+Aos 11.035 minutos, SKT Duke eliminou FNC Klaj
+Aos 11.567 minutos, SKT Faker eliminou FNC Gamsu
+Aos 15.681 minutos, SKT Duke eliminou FNC Spirit
+Aos 15.752 minutos, SKT Faker eliminou FNC Rekkles
+Aos 16.067 minutos, SKT Faker eliminou FNC Klaj
+Aos 16.168 minutos, SKT Blank eliminou FNC Gamsu
+Aos 16.236 minutos, SKT Bang eliminou FNC Febiven
+Aos 18.964 minutos, SKT Duke eliminou FNC Rekkles
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6881
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001290428?gameHash=a85df0bb0ce69ae3
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: INTZ
+Vencedor: UOL
+Placar: UOL: 1 x 0 :INTZ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.812 minutos, UOL eliminou WATER_DRAGON
+Aos 21.144 minutos, UOL eliminou AIR_DRAGON
+Aos 24.184 minutos, UOL eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 8.073 minutos, UOL Exileh eliminou INTZ Yang
+Aos 10.693 minutos, UOL Vizicsacsi eliminou INTZ Yang
+Aos 14.041 minutos, UOL Move eliminou INTZ micaO
+Aos 17.209 minutos, UOL Hylissang eliminou INTZ Yang
+Aos 17.263 minutos, UOL Exileh eliminou INTZ micaO
+Aos 17.304 minutos, UOL Exileh eliminou INTZ Jockster
+Aos 17.606 minutos, UOL Hylissang eliminou INTZ Revolta
+Aos 19.896 minutos, UOL Vizicsacsi eliminou INTZ Jockster
+Aos 20.059 minutos, UOL Exileh eliminou INTZ Yang
+Aos 20.063 minutos, UOL Vizicsacsi eliminou INTZ Revolta
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6882
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280502?gameHash=3cb3d35c53b05d8e
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: INTZ
+Time Vermelho: UOL
+Vencedor: UOL
+Placar: INTZ: 0 x 1 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 14.789 minutos, UOL eliminou EARTH_DRAGON
+Aos 21.19 minutos, UOL eliminou FIRE_DRAGON
+Aos 22.836 minutos, UOL eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 12.414 minutos, INTZ Revolta eliminou UOL Vizicsacsi
+Aos 12.797 minutos, INTZ tockers eliminou UOL Move
+Aos 19.719 minutos, INTZ Revolta eliminou UOL Vizicsacsi
+Aos 1.801 minutos, UOL Hylissang eliminou INTZ Jockster
+Aos 9.085 minutos, UOL Vizicsacsi eliminou INTZ Yang
+Aos 9.809 minutos, UOL Exileh eliminou INTZ tockers
+Aos 12.189 minutos, UOL Hylissang eliminou INTZ micaO
+Aos 12.431 minutos, UOL Move eliminou INTZ Yang
+Aos 13.939 minutos, UOL Veritas eliminou INTZ tockers
+Aos 14.09 minutos, UOL Veritas eliminou INTZ Jockster
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6883
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001290446?gameHash=ea3ed9478cc1ebe9
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: CHF
+Time Vermelho: LZ
+Vencedor: LZ
+Placar: CHF: 0 x 1 :LZ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.788 minutos, CHF eliminou AIR_DRAGON
+Aos 42.27 minutos, CHF eliminou BARON_NASHOR
+Aos 33.923 minutos, CHF eliminou BARON_NASHOR
+Aos 15.559 minutos, LZ eliminou WATER_DRAGON
+Aos 28.451 minutos, LZ eliminou WATER_DRAGON
+Aos 34.584 minutos, LZ eliminou WATER_DRAGON
+Aos 43.244 minutos, LZ eliminou ELDER_DRAGON
+Aos 24.176 minutos, LZ eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.29 minutos, CHF Swiffer eliminou LZ Chaser
+Aos 6.197 minutos, CHF Raes eliminou LZ Pure
+Aos 8.098 minutos, CHF Spookz eliminou LZ Frozen
+Aos 11.798 minutos, CHF Spookz eliminou LZ Pure
+Aos 17.937 minutos, CHF Swiffer eliminou LZ Frozen
+Aos 19.793 minutos, CHF EGym eliminou LZ Frozen
+Aos 20.495 minutos, CHF Swiffer eliminou LZ Expession
+Aos 29.494 minutos, CHF Spookz eliminou LZ Pure
+Aos 32.362 minutos, CHF Swiffer eliminou LZ Fury
+Aos 33.987 minutos, CHF EGym eliminou LZ Expession
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6884
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001290451?gameHash=e53d7aebab97a395
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: LZ
+Time Vermelho: CHF
+Vencedor: LZ
+Placar: LZ: 1 x 0 :CHF
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.666 minutos, LZ eliminou BARON_NASHOR
+Aos 18.83 minutos, LZ eliminou RIFT_HERALD
+Aos 23.279 minutos, CHF eliminou EARTH_DRAGON
+Aos 14.834 minutos, CHF eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 3.053 minutos, LZ Chaser eliminou CHF Raes
+Aos 5.21 minutos, LZ Expession eliminou CHF Spookz
+Aos 6.969 minutos, LZ Chaser eliminou CHF Swiffer
+Aos 7.486 minutos, LZ Chaser eliminou CHF Spookz
+Aos 8.486 minutos, LZ Expession eliminou CHF EGym
+Aos 8.649 minutos, LZ Pure eliminou CHF Raes
+Aos 10.078 minutos, LZ Fury eliminou CHF Raes
+Aos 13.546 minutos, LZ Expession eliminou CHF Swip3rR
+Aos 13.596 minutos, LZ Expession eliminou CHF EGym
+Aos 13.615 minutos, LZ Frozen eliminou CHF Swiffer
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6885
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280541?gameHash=b211f40eba3fe441
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: TSM
+Time Vermelho: UOL
+Vencedor: TSM
+Placar: TSM: 1 x 0 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.635 minutos, TSM eliminou EARTH_DRAGON
+Aos 17.249 minutos, TSM eliminou WATER_DRAGON
+Aos 30.034 minutos, TSM eliminou WATER_DRAGON
+Aos 27.788 minutos, TSM eliminou BARON_NASHOR
+Aos 10.495 minutos, UOL eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 6.38 minutos, TSM Bjergsen eliminou UOL Exileh
+Aos 7.123 minutos, TSM Svenskeren eliminou UOL Vizicsacsi
+Aos 7.826 minutos, TSM Hauntzer eliminou UOL Move
+Aos 8.603 minutos, TSM Svenskeren eliminou UOL Exileh
+Aos 8.734 minutos, TSM Svenskeren eliminou UOL Move
+Aos 9.974 minutos, TSM Hauntzer eliminou UOL Vizicsacsi
+Aos 11.191 minutos, TSM Hauntzer eliminou UOL Hylissang
+Aos 11.215 minutos, TSM WildTurtle eliminou UOL Move
+Aos 11.273 minutos, TSM Svenskeren eliminou UOL Veritas
+Aos 13.566 minutos, TSM WildTurtle eliminou UOL Hylissang
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6886
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280553?gameHash=1fb358e3a860c3d2
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: TSM
+Vencedor: UOL
+Placar: UOL: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.442 minutos, UOL eliminou AIR_DRAGON
+Aos 16.769 minutos, UOL eliminou AIR_DRAGON
+Aos 23.263 minutos, UOL eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 2.847 minutos, UOL Vizicsacsi eliminou TSM Hauntzer
+Aos 4.429 minutos, UOL Veritas eliminou TSM Biofrost
+Aos 8.049 minutos, UOL Hylissang eliminou TSM WildTurtle
+Aos 13.276 minutos, UOL Exileh eliminou TSM Svenskeren
+Aos 13.865 minutos, UOL Move eliminou TSM Biofrost
+Aos 16.81 minutos, UOL Exileh eliminou TSM Biofrost
+Aos 17.066 minutos, UOL Veritas eliminou TSM WildTurtle
+Aos 17.53 minutos, UOL Exileh eliminou TSM Bjergsen
+Aos 19.137 minutos, UOL Exileh eliminou TSM Svenskeren
+Aos 20.461 minutos, UOL Veritas eliminou TSM WildTurtle
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6887
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280558?gameHash=baa24a660292ce77
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: TSM
+Vencedor: UOL
+Placar: UOL: 1 x 0 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 28.773 minutos, UOL eliminou EARTH_DRAGON
+Aos 21.016 minutos, UOL eliminou AIR_DRAGON
+Aos 14.731 minutos, UOL eliminou RIFT_HERALD
+Aos 13.854 minutos, TSM eliminou WATER_DRAGON
+Aos 26.923 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.639 minutos, UOL Move eliminou TSM Hauntzer
+Aos 7.822 minutos, UOL Move eliminou TSM Bjergsen
+Aos 8.45 minutos, UOL Exileh eliminou TSM Svenskeren
+Aos 10.016 minutos, UOL Veritas eliminou TSM WildTurtle
+Aos 11.897 minutos, UOL Vizicsacsi eliminou TSM Hauntzer
+Aos 18.093 minutos, UOL Exileh eliminou TSM Svenskeren
+Aos 18.173 minutos, UOL Exileh eliminou TSM Bjergsen
+Aos 18.287 minutos, UOL Exileh eliminou TSM Hauntzer
+Aos 25.546 minutos, UOL Veritas eliminou TSM Biofrost
+Aos 27.537 minutos, UOL Exileh eliminou TSM Svenskeren
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6888
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280565?gameHash=d2e1f6dc8cfb8340
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: FW
+Time Vermelho: LZ
+Vencedor: FW
+Placar: FW: 1 x 0 :LZ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.967 minutos, FW eliminou AIR_DRAGON
+Aos 20.099 minutos, LZ eliminou EARTH_DRAGON
+Aos 34.09 minutos, LZ eliminou FIRE_DRAGON
+Aos 30.857 minutos, LZ eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.571 minutos, FW Karsa eliminou LZ Expession
+Aos 9.55 minutos, FW Karsa eliminou LZ Pure
+Aos 15.183 minutos, FW MMD eliminou LZ Expession
+Aos 17.134 minutos, FW Maple eliminou LZ Expession
+Aos 19.674 minutos, FW Maple eliminou LZ Pure
+Aos 22.079 minutos, FW Karsa eliminou LZ Frozen
+Aos 39.495 minutos, FW Maple eliminou LZ Frozen
+Aos 39.98 minutos, FW SwordArt eliminou LZ Chaser
+Aos 40.346 minutos, FW Maple eliminou LZ Fury
+Aos 13.579 minutos, LZ Expession eliminou FW DoubleRed
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6889
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280568?gameHash=b11187ba22cfdad2
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: LZ
+Time Vermelho: FW
+Vencedor: FW
+Placar: LZ: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.519 minutos, FW eliminou FIRE_DRAGON
+Aos 15.057 minutos, FW eliminou EARTH_DRAGON
+Aos 28.628 minutos, FW eliminou WATER_DRAGON
+Aos 27.863 minutos, FW eliminou BARON_NASHOR
+Aos 16.699 minutos, FW eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 11.558 minutos, LZ Crash eliminou FW MMD
+Aos 12.257 minutos, LZ Frozen eliminou FW SwordArt
+Aos 12.322 minutos, LZ Expession eliminou FW MMD
+Aos 15.99 minutos, LZ Fury eliminou FW SwordArt
+Aos 26.952 minutos, LZ Frozen eliminou FW SwordArt
+Aos 29.68 minutos, LZ Expession eliminou FW Karsa
+Aos 29.984 minutos, LZ Fury eliminou FW MMD
+Aos 5.312 minutos, FW Maple eliminou LZ Expession
+Aos 6.725 minutos, FW DoubleRed eliminou LZ Fury
+Aos 6.88 minutos, FW Maple eliminou LZ Pure
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6890
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280571?gameHash=73baeae747679e79
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: FW
+Vencedor: FW
+Placar: UOL: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 35.005 minutos, UOL eliminou AIR_DRAGON
+Aos 28.614 minutos, UOL eliminou AIR_DRAGON
+Aos 22.325 minutos, UOL eliminou EARTH_DRAGON
+Aos 23.438 minutos, UOL eliminou BARON_NASHOR
+Aos 14.803 minutos, FW eliminou AIR_DRAGON
+Aos 41.607 minutos, FW eliminou ELDER_DRAGON
+Aos 45.433 minutos, FW eliminou BARON_NASHOR
+Aos 36.855 minutos, FW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 10.039 minutos, UOL Exileh eliminou FW DoubleRed
+Aos 12.722 minutos, UOL Move eliminou FW Maple
+Aos 16.362 minutos, UOL Exileh eliminou FW Maple
+Aos 23.06 minutos, UOL Vizicsacsi eliminou FW Karsa
+Aos 25.876 minutos, UOL Exileh eliminou FW Karsa
+Aos 26.019 minutos, UOL Veritas eliminou FW MMD
+Aos 26.098 minutos, UOL Vizicsacsi eliminou FW Maple
+Aos 41.214 minutos, UOL Vizicsacsi eliminou FW MMD
+Aos 43.281 minutos, UOL Exileh eliminou FW DoubleRed
+Aos 43.373 minutos, UOL Exileh eliminou FW SwordArt
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6891
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280587?gameHash=e7db2bd91f1e553b
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: FW
+Time Vermelho: UOL
+Vencedor: UOL
+Placar: FW: 0 x 1 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.686 minutos, UOL eliminou WATER_DRAGON
+Aos 19.197 minutos, UOL eliminou AIR_DRAGON
+Aos 10.486 minutos, UOL eliminou AIR_DRAGON
+Aos 22.361 minutos, UOL eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 6.666 minutos, FW Karsa eliminou UOL Move
+Aos 10.444 minutos, FW Karsa eliminou UOL Hylissang
+Aos 17.094 minutos, FW Maple eliminou UOL Vizicsacsi
+Aos 23.87 minutos, FW Karsa eliminou UOL Vizicsacsi
+Aos 24.755 minutos, FW MMD eliminou UOL Exileh
+Aos 26.056 minutos, FW Karsa eliminou UOL Hylissang
+Aos 27.943 minutos, FW Maple eliminou UOL Move
+Aos 3.935 minutos, UOL Veritas eliminou FW SwordArt
+Aos 9.275 minutos, UOL Exileh eliminou FW Karsa
+Aos 11.039 minutos, UOL Vizicsacsi eliminou FW MMD
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6892
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280588?gameHash=64a6ab8367fa1173
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: FW
+Vencedor: UOL
+Placar: UOL: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 32.213 minutos, UOL eliminou FIRE_DRAGON
+Aos 14.527 minutos, UOL eliminou FIRE_DRAGON
+Aos 23.492 minutos, UOL eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 11.004 minutos, UOL Vizicsacsi eliminou FW DoubleRed
+Aos 15.283 minutos, UOL Vizicsacsi eliminou FW MMD
+Aos 16.651 minutos, UOL Exileh eliminou FW Maple
+Aos 16.98 minutos, UOL Exileh eliminou FW SwordArt
+Aos 24.298 minutos, UOL Vizicsacsi eliminou FW SwordArt
+Aos 24.476 minutos, UOL Vizicsacsi eliminou FW DoubleRed
+Aos 26.074 minutos, UOL Vizicsacsi eliminou FW DoubleRed
+Aos 26.664 minutos, UOL Exileh eliminou FW Maple
+Aos 26.921 minutos, UOL Exileh eliminou FW MMD
+Aos 28.281 minutos, UOL Hylissang eliminou FW MMD
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6893
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280594?gameHash=19959811967d062e
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: FW
+Vencedor: UOL
+Placar: UOL: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.14 minutos, UOL eliminou FIRE_DRAGON
+Aos 26.185 minutos, UOL eliminou FIRE_DRAGON
+Aos 25.39 minutos, UOL eliminou BARON_NASHOR
+Aos 12.188 minutos, FW eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 6.359 minutos, UOL Veritas eliminou FW DoubleRed
+Aos 9.409 minutos, UOL Veritas eliminou FW DoubleRed
+Aos 14.344 minutos, UOL Veritas eliminou FW Maple
+Aos 14.459 minutos, UOL Veritas eliminou FW Karsa
+Aos 14.674 minutos, UOL Veritas eliminou FW DoubleRed
+Aos 15.639 minutos, UOL Veritas eliminou FW MMD
+Aos 18.408 minutos, UOL Veritas eliminou FW SwordArt
+Aos 20.866 minutos, UOL Veritas eliminou FW Maple
+Aos 20.987 minutos, UOL Exileh eliminou FW DoubleRed
+Aos 21.017 minutos, UOL Exileh eliminou FW SwordArt
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6894
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320136?gameHash=0cacdae71ca50e92
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: SSG
+Time Vermelho: VEG
+Vencedor: SSG
+Placar: SSG: 1 x 0 :VEG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.747 minutos, SSG eliminou WATER_DRAGON
+Aos 41.366 minutos, SSG eliminou ELDER_DRAGON
+Aos 41.834 minutos, SSG eliminou BARON_NASHOR
+Aos 12.478 minutos, VEG eliminou FIRE_DRAGON
+Aos 34.65 minutos, VEG eliminou FIRE_DRAGON
+Aos 21.252 minutos, VEG eliminou WATER_DRAGON
+Aos 34.167 minutos, VEG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.234 minutos, SSG CuVee eliminou VEG NoNholy
+Aos 7.405 minutos, SSG Crown eliminou VEG Drobovik123
+Aos 14.425 minutos, SSG CuVee eliminou VEG EDward
+Aos 14.472 minutos, SSG Crown eliminou VEG LeX
+Aos 25.567 minutos, SSG Crown eliminou VEG EDward
+Aos 25.645 minutos, SSG Crown eliminou VEG Drobovik123
+Aos 32.245 minutos, SSG Crown eliminou VEG EDward
+Aos 41.217 minutos, SSG Crown eliminou VEG Drobovik123
+Aos 41.263 minutos, SSG Crown eliminou VEG Zanzarah
+Aos 44.563 minutos, SSG Crown eliminou VEG LeX
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6895
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320149?gameHash=56dbfbadb2486ac7
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: JTM
+Time Vermelho: IMT
+Vencedor: IMT
+Placar: JTM: 0 x 1 :IMT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.029 minutos, IMT eliminou FIRE_DRAGON
+Aos 24.672 minutos, IMT eliminou EARTH_DRAGON
+Aos 18.227 minutos, IMT eliminou FIRE_DRAGON
+Aos 21.633 minutos, IMT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 10.728 minutos, JTM Breaker eliminou IMT Olleh
+Aos 18.782 minutos, JTM Fofo eliminou IMT Dardoch
+Aos 25.678 minutos, JTM Jay eliminou IMT Pobelter
+Aos 6.768 minutos, IMT Cody Sun eliminou JTM Jay
+Aos 6.781 minutos, IMT Cody Sun eliminou JTM Breaker
+Aos 11.043 minutos, IMT Pobelter eliminou JTM Breaker
+Aos 13.32 minutos, IMT Cody Sun eliminou JTM Breaker
+Aos 13.396 minutos, IMT Pobelter eliminou JTM Fofo
+Aos 13.462 minutos, IMT Flame eliminou JTM Jay
+Aos 13.782 minutos, IMT Pobelter eliminou JTM Achie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6896
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320166?gameHash=79369b5260b06cfc
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: VEG
+Time Vermelho: JTM
+Vencedor: JTM
+Placar: VEG: 0 x 1 :JTM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.503 minutos, JTM eliminou WATER_DRAGON
+Aos 20.02 minutos, JTM eliminou EARTH_DRAGON
+Aos 34.205 minutos, JTM eliminou WATER_DRAGON
+Aos 33.096 minutos, JTM eliminou BARON_NASHOR
+Aos 25.762 minutos, JTM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.514 minutos, VEG NoNholy eliminou JTM Morning
+Aos 15.093 minutos, VEG LeX eliminou JTM Achie
+Aos 25.113 minutos, VEG NoNholy eliminou JTM Jay
+Aos 33.646 minutos, VEG Drobovik123 eliminou JTM Bebe
+Aos 40.382 minutos, VEG Drobovik123 eliminou JTM Bebe
+Aos 40.465 minutos, VEG LeX eliminou JTM Achie
+Aos 40.754 minutos, VEG NoNholy eliminou JTM Jay
+Aos 15.507 minutos, JTM Fofo eliminou VEG Drobovik123
+Aos 18.671 minutos, JTM Achie eliminou VEG Drobovik123
+Aos 18.741 minutos, JTM Morning eliminou VEG LeX
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6897
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320173?gameHash=6c63f5fb472a3095
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: JTM
+Time Vermelho: VEG
+Vencedor: JTM
+Placar: JTM: 1 x 0 :VEG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.655 minutos, JTM eliminou FIRE_DRAGON
+Aos 27.64 minutos, JTM eliminou EARTH_DRAGON
+Aos 20.144 minutos, JTM eliminou EARTH_DRAGON
+Aos 24.292 minutos, JTM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 14.367 minutos, JTM Bebe eliminou VEG EDward
+Aos 15.844 minutos, JTM Bebe eliminou VEG NoNholy
+Aos 17.754 minutos, JTM Achie eliminou VEG EDward
+Aos 19.648 minutos, JTM Jay eliminou VEG EDward
+Aos 20.841 minutos, JTM Morning eliminou VEG EDward
+Aos 21.211 minutos, JTM Fofo eliminou VEG NoNholy
+Aos 21.265 minutos, JTM Achie eliminou VEG LeX
+Aos 21.317 minutos, JTM Morning eliminou VEG Drobovik123
+Aos 23.831 minutos, JTM Fofo eliminou VEG Zanzarah
+Aos 26.731 minutos, JTM Achie eliminou VEG NoNholy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6898
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320160?gameHash=85f2d0c38fc32a7d
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: IMT
+Time Vermelho: SSG
+Vencedor: SSG
+Placar: IMT: 0 x 1 :SSG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.465 minutos, SSG eliminou EARTH_DRAGON
+Aos 9.375 minutos, SSG eliminou EARTH_DRAGON
+Aos 24.433 minutos, SSG eliminou EARTH_DRAGON
+Aos 22.131 minutos, SSG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.948 minutos, IMT Dardoch eliminou SSG CoreJJ
+Aos 10.985 minutos, IMT Dardoch eliminou SSG Ambition
+Aos 14.134 minutos, IMT Dardoch eliminou SSG Ruler
+Aos 19.378 minutos, IMT Cody Sun eliminou SSG Ambition
+Aos 25.479 minutos, IMT Cody Sun eliminou SSG Crown
+Aos 26.35 minutos, IMT Cody Sun eliminou SSG Ruler
+Aos 26.376 minutos, IMT Cody Sun eliminou SSG CuVee
+Aos 8.894 minutos, SSG Ambition eliminou IMT Pobelter
+Aos 10.893 minutos, SSG Ambition eliminou IMT Olleh
+Aos 10.927 minutos, SSG CuVee eliminou IMT Cody Sun
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6899
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320165?gameHash=332e22c071148c54
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: SSG
+Time Vermelho: IMT
+Vencedor: SSG
+Placar: SSG: 1 x 0 :IMT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.107 minutos, SSG eliminou WATER_DRAGON
+Aos 37.615 minutos, SSG eliminou ELDER_DRAGON
+Aos 31.33 minutos, SSG eliminou EARTH_DRAGON
+Aos 39.912 minutos, SSG eliminou BARON_NASHOR
+Aos 17.914 minutos, IMT eliminou EARTH_DRAGON
+Aos 31.95 minutos, IMT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.811 minutos, SSG CoreJJ eliminou IMT Cody Sun
+Aos 9.042 minutos, SSG CoreJJ eliminou IMT Cody Sun
+Aos 11.288 minutos, SSG Crown eliminou IMT Olleh
+Aos 13.815 minutos, SSG CuVee eliminou IMT Pobelter
+Aos 13.86 minutos, SSG CuVee eliminou IMT Flame
+Aos 13.923 minutos, SSG CuVee eliminou IMT Dardoch
+Aos 21.67 minutos, SSG Ambition eliminou IMT Dardoch
+Aos 23.34 minutos, SSG Ambition eliminou IMT Olleh
+Aos 24.327 minutos, SSG Ruler eliminou IMT Dardoch
+Aos 26.014 minutos, SSG Ambition eliminou IMT Cody Sun
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6900
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320174?gameHash=ad14ff05d8104e71
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: IMT
+Time Vermelho: JTM
+Vencedor: IMT
+Placar: IMT: 1 x 0 :JTM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.292 minutos, IMT eliminou EARTH_DRAGON
+Aos 23.538 minutos, IMT eliminou AIR_DRAGON
+Aos 25.643 minutos, IMT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.923 minutos, IMT Flame eliminou JTM Morning
+Aos 11.576 minutos, IMT Pobelter eliminou JTM Jay
+Aos 11.606 minutos, IMT Pobelter eliminou JTM Bebe
+Aos 12.126 minutos, IMT Dardoch eliminou JTM Achie
+Aos 12.356 minutos, IMT Olleh eliminou JTM Morning
+Aos 14.159 minutos, IMT Dardoch eliminou JTM Achie
+Aos 16.519 minutos, IMT Cody Sun eliminou JTM Jay
+Aos 19.453 minutos, IMT Dardoch eliminou JTM Fofo
+Aos 26.438 minutos, IMT Pobelter eliminou JTM Jay
+Aos 26.634 minutos, IMT Flame eliminou JTM Bebe
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6901
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320177?gameHash=a43e6166b579e174
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: JTM
+Time Vermelho: IMT
+Vencedor: JTM
+Placar: JTM: 1 x 0 :IMT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.377 minutos, JTM eliminou EARTH_DRAGON
+Aos 21.536 minutos, JTM eliminou FIRE_DRAGON
+Aos 15.068 minutos, JTM eliminou AIR_DRAGON
+Aos 31.423 minutos, JTM eliminou BARON_NASHOR
+Aos 36.681 minutos, IMT eliminou ELDER_DRAGON
+
+=== ABATES ===
+Aos 4.246 minutos, JTM Bebe eliminou IMT Cody Sun
+Aos 6.421 minutos, JTM Fofo eliminou IMT Dardoch
+Aos 6.573 minutos, JTM Fofo eliminou IMT Pobelter
+Aos 8.929 minutos, JTM Fofo eliminou IMT Dardoch
+Aos 10.017 minutos, JTM Bebe eliminou IMT Pobelter
+Aos 10.695 minutos, JTM Fofo eliminou IMT Cody Sun
+Aos 12.575 minutos, JTM Fofo eliminou IMT Pobelter
+Aos 14.751 minutos, JTM Fofo eliminou IMT Olleh
+Aos 16.083 minutos, JTM Bebe eliminou IMT Flame
+Aos 19.63 minutos, JTM Jay eliminou IMT Olleh
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6902
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320178?gameHash=ff9990a7f4869ce5
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: IMT
+Time Vermelho: JTM
+Vencedor: IMT
+Placar: IMT: 1 x 0 :JTM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 38.372 minutos, IMT eliminou ELDER_DRAGON
+Aos 32.082 minutos, IMT eliminou FIRE_DRAGON
+Aos 24.928 minutos, IMT eliminou AIR_DRAGON
+Aos 18.341 minutos, IMT eliminou AIR_DRAGON
+Aos 21.746 minutos, IMT eliminou BARON_NASHOR
+Aos 33.212 minutos, IMT eliminou BARON_NASHOR
+Aos 40.638 minutos, JTM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.952 minutos, IMT Dardoch eliminou JTM Morning
+Aos 8.548 minutos, IMT Flame eliminou JTM Morning
+Aos 14.372 minutos, IMT Flame eliminou JTM Morning
+Aos 14.437 minutos, IMT Flame eliminou JTM Achie
+Aos 21.819 minutos, IMT Flame eliminou JTM Fofo
+Aos 21.819 minutos, IMT Flame eliminou JTM Jay
+Aos 39.299 minutos, IMT Flame eliminou JTM Morning
+Aos 40.645 minutos, IMT Pobelter eliminou JTM Achie
+Aos 40.691 minutos, IMT Flame eliminou JTM Bebe
+Aos 40.728 minutos, IMT Flame eliminou JTM Jay
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6903
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320204?gameHash=aaf8cc29ee9d234b
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: KDM
+Time Vermelho: DP
+Vencedor: KDM
+Placar: KDM: 1 x 0 :DP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.623 minutos, KDM eliminou EARTH_DRAGON
+Aos 20.686 minutos, KDM eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 6.045 minutos, KDM Edge eliminou DP Immortoru
+Aos 9.296 minutos, KDM Roach eliminou DP k0u
+Aos 9.483 minutos, KDM Edge eliminou DP Bwipo
+Aos 12.299 minutos, KDM Edge eliminou DP Immortoru
+Aos 15.88 minutos, KDM Punch eliminou DP Rogue
+Aos 15.904 minutos, KDM SSol eliminou DP HolyPhoenix
+Aos 16.041 minutos, KDM Punch eliminou DP Bwipo
+Aos 17.763 minutos, KDM Punch eliminou DP HolyPhoenix
+Aos 17.764 minutos, KDM Edge eliminou DP Rogue
+Aos 18.081 minutos, KDM Edge eliminou DP k0u
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6904
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320212?gameHash=d2ef8a9d7c41a02c
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: TL
+Time Vermelho: GlA
+Vencedor: GlA
+Placar: TL: 0 x 1 :GlA
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.511 minutos, TL eliminou WATER_DRAGON
+Aos 33.573 minutos, GlA eliminou WATER_DRAGON
+Aos 26.946 minutos, GlA eliminou WATER_DRAGON
+Aos 29.382 minutos, GlA eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 6.425 minutos, TL Matt eliminou GlA HusTlin
+Aos 6.498 minutos, TL Reignover eliminou GlA Mightybear
+Aos 7.427 minutos, TL Reignover eliminou GlA Flaxxish
+Aos 10.701 minutos, TL Lourlo eliminou GlA UpseT
+Aos 13.543 minutos, TL Reignover eliminou GlA Flaxxish
+Aos 17.514 minutos, TL Piglet eliminou GlA UpseT
+Aos 29.81 minutos, TL GoldenGlue eliminou GlA Mightybear
+Aos 6.443 minutos, GlA UpseT eliminou TL Piglet
+Aos 6.523 minutos, GlA NighT eliminou TL Reignover
+Aos 8.136 minutos, GlA Mightybear eliminou TL Piglet
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6905
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320243?gameHash=e146b369fc5e0b61
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: TL
+Time Vermelho: DP
+Vencedor: TL
+Placar: TL: 1 x 0 :DP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 18.938 minutos, TL eliminou EARTH_DRAGON
+
+=== ABATES ===
+Aos 4.354 minutos, TL Reignover eliminou DP Bwipo
+Aos 5.076 minutos, TL Piglet eliminou DP HolyPhoenix
+Aos 6.775 minutos, TL Lourlo eliminou DP Bwipo
+Aos 8.121 minutos, TL Reignover eliminou DP Bwipo
+Aos 8.135 minutos, TL Reignover eliminou DP k0u
+Aos 11.578 minutos, TL Piglet eliminou DP k0u
+Aos 11.775 minutos, TL Piglet eliminou DP Bwipo
+Aos 15.426 minutos, TL GoldenGlue eliminou DP Immortoru
+Aos 15.539 minutos, TL GoldenGlue eliminou DP k0u
+Aos 15.95 minutos, TL Piglet eliminou DP HolyPhoenix
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6906
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320244?gameHash=abae532969bdbb17
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: DP
+Time Vermelho: TL
+Vencedor: TL
+Placar: DP: 0 x 1 :TL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.972 minutos, TL eliminou EARTH_DRAGON
+
+=== ABATES ===
+Aos 3.339 minutos, DP k0u eliminou TL Lourlo
+Aos 7.983 minutos, DP k0u eliminou TL Lourlo
+Aos 18.191 minutos, DP Bwipo eliminou TL Piglet
+Aos 18.321 minutos, DP Immortoru eliminou TL Matt
+Aos 20.767 minutos, DP HolyPhoenix eliminou TL Lourlo
+Aos 20.816 minutos, DP HolyPhoenix eliminou TL GoldenGlue
+Aos 21.116 minutos, DP k0u eliminou TL Reignover
+Aos 3.286 minutos, TL Lourlo eliminou DP Bwipo
+Aos 3.784 minutos, TL Piglet eliminou DP HolyPhoenix
+Aos 3.878 minutos, TL Piglet eliminou DP Rogue
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6907
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320222?gameHash=6395df3b5b7a3743
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: KDM
+Time Vermelho: GlA
+Vencedor: KDM
+Placar: KDM: 1 x 0 :GlA
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 9.601 minutos, KDM eliminou FIRE_DRAGON
+Aos 30.474 minutos, KDM eliminou AIR_DRAGON
+Aos 24.173 minutos, KDM eliminou FIRE_DRAGON
+Aos 16.676 minutos, KDM eliminou FIRE_DRAGON
+Aos 28.046 minutos, KDM eliminou BARON_NASHOR
+Aos 19.263 minutos, KDM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 9.76 minutos, KDM Punch eliminou GlA HusTlin
+Aos 10.237 minutos, KDM Edge eliminou GlA NighT
+Aos 12.142 minutos, KDM SSol eliminou GlA HusTlin
+Aos 15.768 minutos, KDM Punch eliminou GlA HusTlin
+Aos 15.931 minutos, KDM Edge eliminou GlA NighT
+Aos 16.052 minutos, KDM Edge eliminou GlA Flaxxish
+Aos 17.758 minutos, KDM Edge eliminou GlA Flaxxish
+Aos 18.534 minutos, KDM SSol eliminou GlA UpseT
+Aos 18.589 minutos, KDM SSol eliminou GlA HusTlin
+Aos 18.669 minutos, KDM SSol eliminou GlA NighT
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6908
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320228?gameHash=c5063ac93f3086ba
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: GlA
+Time Vermelho: KDM
+Vencedor: KDM
+Placar: GlA: 0 x 1 :KDM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.706 minutos, GlA eliminou FIRE_DRAGON
+Aos 13.703 minutos, KDM eliminou AIR_DRAGON
+Aos 22.812 minutos, KDM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 8.489 minutos, GlA UpseT eliminou KDM GuGer
+Aos 10.209 minutos, GlA HusTlin eliminou KDM GuGer
+Aos 15.255 minutos, GlA UpseT eliminou KDM GuGer
+Aos 17.584 minutos, GlA UpseT eliminou KDM GuGer
+Aos 18.104 minutos, GlA NighT eliminou KDM SSol
+Aos 18.358 minutos, GlA NighT eliminou KDM Edge
+Aos 19.861 minutos, GlA UpseT eliminou KDM Edge
+Aos 20.077 minutos, GlA Mightybear eliminou KDM GuGer
+Aos 24.189 minutos, GlA HusTlin eliminou KDM Edge
+Aos 11.363 minutos, KDM Edge eliminou GlA NighT
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6909
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320245?gameHash=29534d865a819418
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: GlA
+Time Vermelho: TL
+Vencedor: TL
+Placar: GlA: 0 x 1 :TL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.1 minutos, GlA eliminou WATER_DRAGON
+Aos 34.246 minutos, GlA eliminou BARON_NASHOR
+Aos 26.255 minutos, TL eliminou EARTH_DRAGON
+Aos 33.129 minutos, TL eliminou AIR_DRAGON
+Aos 24.753 minutos, TL eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.847 minutos, GlA UpseT eliminou TL Matt
+Aos 6.806 minutos, GlA HusTlin eliminou TL GoldenGlue
+Aos 10.283 minutos, GlA HusTlin eliminou TL Piglet
+Aos 10.292 minutos, GlA HusTlin eliminou TL Matt
+Aos 13.201 minutos, GlA Flaxxish eliminou TL Reignover
+Aos 13.398 minutos, GlA HusTlin eliminou TL GoldenGlue
+Aos 16.962 minutos, GlA Mightybear eliminou TL Piglet
+Aos 19.997 minutos, GlA HusTlin eliminou TL Reignover
+Aos 20.053 minutos, GlA NighT eliminou TL Piglet
+Aos 20.394 minutos, GlA HusTlin eliminou TL GoldenGlue
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6910
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320249?gameHash=30cd089bd68cadb7
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: TL
+Time Vermelho: GlA
+Vencedor: TL
+Placar: TL: 1 x 0 :GlA
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.663 minutos, TL eliminou AIR_DRAGON
+Aos 16.407 minutos, TL eliminou WATER_DRAGON
+Aos 24.038 minutos, TL eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.629 minutos, TL Piglet eliminou GlA HusTlin
+Aos 4.944 minutos, TL Lourlo eliminou GlA Flaxxish
+Aos 8.31 minutos, TL Piglet eliminou GlA NighT
+Aos 8.348 minutos, TL Reignover eliminou GlA Mightybear
+Aos 9.398 minutos, TL Lourlo eliminou GlA Flaxxish
+Aos 11.277 minutos, TL GoldenGlue eliminou GlA Flaxxish
+Aos 13.629 minutos, TL Reignover eliminou GlA HusTlin
+Aos 13.696 minutos, TL Piglet eliminou GlA UpseT
+Aos 14.056 minutos, TL Piglet eliminou GlA Mightybear
+Aos 18.108 minutos, TL GoldenGlue eliminou GlA HusTlin
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6911
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320271?gameHash=3983b473ad2f5f4e
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: SSG
+Time Vermelho: TL
+Vencedor: SSG
+Placar: SSG: 1 x 0 :TL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.371 minutos, SSG eliminou FIRE_DRAGON
+Aos 9.998 minutos, TL eliminou AIR_DRAGON
+Aos 23.311 minutos, TL eliminou FIRE_DRAGON
+Aos 28.994 minutos, TL eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.754 minutos, SSG Ruler eliminou TL Piglet
+Aos 7.892 minutos, SSG CuVee eliminou TL Matt
+Aos 10.335 minutos, SSG Ambition eliminou TL Reignover
+Aos 20.615 minutos, SSG Ambition eliminou TL GoldenGlue
+Aos 29.033 minutos, SSG CuVee eliminou TL Matt
+Aos 29.196 minutos, SSG Ambition eliminou TL GoldenGlue
+Aos 29.219 minutos, SSG CoreJJ eliminou TL Piglet
+Aos 29.336 minutos, SSG Ruler eliminou TL Lourlo
+Aos 32.047 minutos, SSG Crown eliminou TL Piglet
+Aos 32.107 minutos, SSG Ruler eliminou TL Reignover
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6912
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001330306?gameHash=c103ceadbc264668
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: TL
+Time Vermelho: SSG
+Vencedor: SSG
+Placar: TL: 0 x 1 :SSG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 8.179 minutos, TL eliminou AIR_DRAGON
+Aos 21.901 minutos, TL eliminou AIR_DRAGON
+Aos 15.662 minutos, SSG eliminou WATER_DRAGON
+Aos 22.962 minutos, SSG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.15 minutos, TL Matt eliminou SSG Ruler
+Aos 7.829 minutos, TL Lourlo eliminou SSG CuVee
+Aos 9.923 minutos, TL GoldenGlue eliminou SSG Crown
+Aos 12.231 minutos, TL Matt eliminou SSG Ambition
+Aos 18.958 minutos, TL GoldenGlue eliminou SSG Ruler
+Aos 19.516 minutos, TL Lourlo eliminou SSG Crown
+Aos 20.056 minutos, TL GoldenGlue eliminou SSG Ambition
+Aos 2.664 minutos, SSG Ruler eliminou TL Matt
+Aos 9.927 minutos, SSG CoreJJ eliminou TL Piglet
+Aos 9.956 minutos, SSG CuVee eliminou TL Reignover
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6913
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320295?gameHash=b10040ada3a27bf7
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: KDM
+Time Vermelho: IMT
+Vencedor: KDM
+Placar: KDM: 1 x 0 :IMT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.741 minutos, KDM eliminou AIR_DRAGON
+Aos 30.297 minutos, KDM eliminou FIRE_DRAGON
+Aos 29.28 minutos, KDM eliminou BARON_NASHOR
+Aos 17.112 minutos, IMT eliminou FIRE_DRAGON
+Aos 10.82 minutos, IMT eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 9.076 minutos, KDM Roach eliminou IMT Olleh
+Aos 25.057 minutos, KDM SSol eliminou IMT Dardoch
+Aos 25.799 minutos, KDM GuGer eliminou IMT Pobelter
+Aos 28.939 minutos, KDM SSol eliminou IMT Cody Sun
+Aos 29.012 minutos, KDM SSol eliminou IMT Dardoch
+Aos 29.326 minutos, KDM SSol eliminou IMT Pobelter
+Aos 29.489 minutos, KDM SSol eliminou IMT Olleh
+Aos 33.95 minutos, KDM Edge eliminou IMT Cody Sun
+Aos 34.235 minutos, KDM SSol eliminou IMT Flame
+Aos 34.315 minutos, KDM Punch eliminou IMT Olleh
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6914
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320298?gameHash=750504c36cbdf576
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: IMT
+Time Vermelho: KDM
+Vencedor: IMT
+Placar: IMT: 1 x 0 :KDM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.299 minutos, IMT eliminou WATER_DRAGON
+Aos 22.621 minutos, IMT eliminou FIRE_DRAGON
+Aos 27.579 minutos, IMT eliminou BARON_NASHOR
+Aos 16.35 minutos, KDM eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 4.144 minutos, IMT Pobelter eliminou KDM GuGer
+Aos 7.181 minutos, IMT Dardoch eliminou KDM SSol
+Aos 7.19 minutos, IMT Cody Sun eliminou KDM GuGer
+Aos 8.414 minutos, IMT Olleh eliminou KDM Roach
+Aos 10.721 minutos, IMT Dardoch eliminou KDM Edge
+Aos 13.864 minutos, IMT Cody Sun eliminou KDM SSol
+Aos 13.925 minutos, IMT Cody Sun eliminou KDM Edge
+Aos 18.262 minutos, IMT Dardoch eliminou KDM GuGer
+Aos 26.799 minutos, IMT Pobelter eliminou KDM SSol
+Aos 26.906 minutos, IMT Pobelter eliminou KDM Edge
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6915
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001320299?gameHash=7a43bf4abe0707b2
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: IMT
+Time Vermelho: KDM
+Vencedor: KDM
+Placar: IMT: 0 x 1 :KDM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.937 minutos, KDM eliminou EARTH_DRAGON
+Aos 18.568 minutos, KDM eliminou AIR_DRAGON
+Aos 12.365 minutos, KDM eliminou AIR_DRAGON
+Aos 20.993 minutos, KDM eliminou BARON_NASHOR
+Aos 29.142 minutos, KDM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 15.352 minutos, IMT Dardoch eliminou KDM Roach
+Aos 16.321 minutos, IMT Cody Sun eliminou KDM Punch
+Aos 22.378 minutos, IMT Flame eliminou KDM GuGer
+Aos 22.481 minutos, IMT Flame eliminou KDM Punch
+Aos 25.4 minutos, IMT Pobelter eliminou KDM GuGer
+Aos 25.447 minutos, IMT Flame eliminou KDM Roach
+Aos 31.372 minutos, IMT Pobelter eliminou KDM Punch
+Aos 31.455 minutos, IMT Pobelter eliminou KDM Roach
+Aos 11.729 minutos, KDM GuGer eliminou IMT Cody Sun
+Aos 11.927 minutos, KDM Punch eliminou IMT Flame
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6916
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001330336?gameHash=505349d6ebe15385
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: KDM
+Time Vermelho: SSG
+Vencedor: SSG
+Placar: KDM: 0 x 1 :SSG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.454 minutos, KDM eliminou EARTH_DRAGON
+Aos 9.537 minutos, KDM eliminou EARTH_DRAGON
+Aos 25.407 minutos, KDM eliminou BARON_NASHOR
+Aos 16.812 minutos, SSG eliminou EARTH_DRAGON
+Aos 29.873 minutos, SSG eliminou FIRE_DRAGON
+Aos 33.442 minutos, SSG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.062 minutos, KDM Edge eliminou SSG Ambition
+Aos 9.15 minutos, KDM Punch eliminou SSG Crown
+Aos 25.019 minutos, KDM Punch eliminou SSG Ambition
+Aos 25.14 minutos, KDM Punch eliminou SSG Ruler
+Aos 25.947 minutos, KDM Punch eliminou SSG CoreJJ
+Aos 13.627 minutos, SSG Crown eliminou KDM GuGer
+Aos 25.372 minutos, SSG Crown eliminou KDM GuGer
+Aos 25.604 minutos, SSG Crown eliminou KDM SSol
+Aos 25.699 minutos, SSG Crown eliminou KDM Edge
+Aos 26.103 minutos, SSG Ambition eliminou KDM Punch
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6917
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001330338?gameHash=261f1ae643e80fd8
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: SSG
+Time Vermelho: KDM
+Vencedor: SSG
+Placar: SSG: 1 x 0 :KDM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.026 minutos, SSG eliminou WATER_DRAGON
+Aos 23.205 minutos, SSG eliminou FIRE_DRAGON
+Aos 27.478 minutos, SSG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.162 minutos, SSG Ambition eliminou KDM Punch
+Aos 10.027 minutos, SSG Crown eliminou KDM SSol
+Aos 10.074 minutos, SSG CoreJJ eliminou KDM Punch
+Aos 10.361 minutos, SSG Ruler eliminou KDM Roach
+Aos 12.252 minutos, SSG Crown eliminou KDM Edge
+Aos 13.486 minutos, SSG Ambition eliminou KDM SSol
+Aos 16.4 minutos, SSG Ambition eliminou KDM GuGer
+Aos 18.56 minutos, SSG Ambition eliminou KDM Roach
+Aos 19.71 minutos, SSG Ruler eliminou KDM SSol
+Aos 20.851 minutos, SSG Crown eliminou KDM Edge
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6918
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001330339?gameHash=66ace7686b2eb33e
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: KDM
+Time Vermelho: SSG
+Vencedor: KDM
+Placar: KDM: 1 x 0 :SSG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 39.594 minutos, KDM eliminou ELDER_DRAGON
+Aos 19.065 minutos, KDM eliminou AIR_DRAGON
+Aos 32.484 minutos, KDM eliminou FIRE_DRAGON
+Aos 25.27 minutos, KDM eliminou EARTH_DRAGON
+Aos 26.234 minutos, KDM eliminou BARON_NASHOR
+Aos 33.94 minutos, KDM eliminou BARON_NASHOR
+Aos 11.698 minutos, SSG eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 6.951 minutos, KDM Punch eliminou SSG CuVee
+Aos 12.366 minutos, KDM SSol eliminou SSG CuVee
+Aos 12.536 minutos, KDM Punch eliminou SSG Ambition
+Aos 14.605 minutos, KDM Punch eliminou SSG Ruler
+Aos 14.782 minutos, KDM Punch eliminou SSG CoreJJ
+Aos 14.879 minutos, KDM Edge eliminou SSG Ambition
+Aos 14.986 minutos, KDM Punch eliminou SSG Crown
+Aos 18.589 minutos, KDM Punch eliminou SSG Ambition
+Aos 23.304 minutos, KDM Roach eliminou SSG CuVee
+Aos 27.012 minutos, KDM SSol eliminou SSG CuVee
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6919
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001330340?gameHash=89a9290033530e82
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: SSG
+Time Vermelho: KDM
+Vencedor: SSG
+Placar: SSG: 1 x 0 :KDM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.803 minutos, SSG eliminou FIRE_DRAGON
+Aos 8.386 minutos, SSG eliminou WATER_DRAGON
+Aos 23.742 minutos, SSG eliminou BARON_NASHOR
+Aos 14.541 minutos, KDM eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 7.391 minutos, SSG Ambition eliminou KDM SSol
+Aos 8.157 minutos, SSG CuVee eliminou KDM Roach
+Aos 11.164 minutos, SSG Ambition eliminou KDM GuGer
+Aos 11.306 minutos, SSG Crown eliminou KDM Punch
+Aos 11.492 minutos, SSG Ambition eliminou KDM SSol
+Aos 11.692 minutos, SSG Crown eliminou KDM Edge
+Aos 12.77 minutos, SSG CuVee eliminou KDM GuGer
+Aos 12.82 minutos, SSG Ruler eliminou KDM SSol
+Aos 15.019 minutos, SSG Ambition eliminou KDM GuGer
+Aos 18.985 minutos, SSG Crown eliminou KDM Punch
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6920
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/40378?gameHash=585189d5b65b8d72
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: M19
+Time Vermelho: ROX
+Vencedor: ROX
+Placar: M19: 0 x 1 :ROX
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.714 minutos, M19 eliminou RIFT_HERALD
+Aos 21.363 minutos, ROX eliminou WATER_DRAGON
+Aos 15.158 minutos, ROX eliminou EARTH_DRAGON
+Aos 24.535 minutos, ROX eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.997 minutos, M19 Vincent eliminou ROX Sangyoon
+Aos 10.644 minutos, M19 Vincent eliminou ROX SeongHwan
+Aos 10.775 minutos, M19 Kira eliminou ROX Key
+Aos 16.944 minutos, M19 Vincent eliminou ROX SeongHwan
+Aos 17.11 minutos, M19 Smurf eliminou ROX Lindarang
+Aos 18.708 minutos, M19 Kira eliminou ROX Lindarang
+Aos 23.399 minutos, M19 Likkrit eliminou ROX Lindarang
+Aos 27.973 minutos, M19 Vincent eliminou ROX Key
+Aos 8.132 minutos, ROX Lindarang eliminou M19 Smurf
+Aos 10.51 minutos, ROX SeongHwan eliminou M19 Likkrit
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6921
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/40383?gameHash=b7956a6339aa5bd4
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: HKE
+Time Vermelho: H2K
+Vencedor: H2K
+Placar: HKE: 0 x 1 :H2K
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.012 minutos, HKE eliminou FIRE_DRAGON
+Aos 14.236 minutos, HKE eliminou WATER_DRAGON
+Aos 35.571 minutos, H2K eliminou WATER_DRAGON
+Aos 44.091 minutos, H2K eliminou ELDER_DRAGON
+Aos 28.735 minutos, H2K eliminou EARTH_DRAGON
+Aos 42.58 minutos, H2K eliminou BARON_NASHOR
+Aos 33.977 minutos, H2K eliminou BARON_NASHOR
+Aos 26.602 minutos, H2K eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 10.634 minutos, HKE Gear eliminou H2K Jankos
+Aos 13.65 minutos, HKE Gear eliminou H2K Jankos
+Aos 16.013 minutos, HKE Gemini eliminou H2K Jankos
+Aos 21.361 minutos, HKE Gemini eliminou H2K Febiven
+Aos 26.714 minutos, HKE Gemini eliminou H2K Odoamne
+Aos 32.955 minutos, HKE Gear eliminou H2K Jankos
+Aos 45.558 minutos, HKE MapleSnow eliminou H2K Nuclear
+Aos 45.652 minutos, HKE MapleSnow eliminou H2K Febiven
+Aos 7.192 minutos, H2K Nuclear eliminou HKE Nestea
+Aos 7.308 minutos, H2K Jankos eliminou HKE GodKwai
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6922
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/50394?gameHash=1b96bc098207c546
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: M19
+Time Vermelho: HKE
+Vencedor: HKE
+Placar: M19: 0 x 1 :HKE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.978 minutos, M19 eliminou FIRE_DRAGON
+Aos 32.599 minutos, M19 eliminou EARTH_DRAGON
+Aos 18.806 minutos, M19 eliminou RIFT_HERALD
+Aos 17.725 minutos, HKE eliminou EARTH_DRAGON
+Aos 25.272 minutos, HKE eliminou FIRE_DRAGON
+Aos 26.274 minutos, HKE eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 6.404 minutos, M19 Smurf eliminou HKE Gemini
+Aos 16.17 minutos, M19 Vincent eliminou HKE Gemini
+Aos 18.057 minutos, M19 Smurf eliminou HKE Gear
+Aos 18.205 minutos, M19 Vincent eliminou HKE GodKwai
+Aos 23.916 minutos, M19 Smurf eliminou HKE Nestea
+Aos 31.429 minutos, M19 Likkrit eliminou HKE GodKwai
+Aos 31.5 minutos, M19 PvPStejos eliminou HKE Gemini
+Aos 31.593 minutos, M19 Smurf eliminou HKE Gear
+Aos 31.624 minutos, M19 PvPStejos eliminou HKE MapleSnow
+Aos 31.95 minutos, M19 Kira eliminou HKE Nestea
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6923
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/50405?gameHash=b9fea0d5676a9fa5
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: HKE
+Time Vermelho: M19
+Vencedor: HKE
+Placar: HKE: 1 x 0 :M19
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.404 minutos, HKE eliminou WATER_DRAGON
+Aos 8.743 minutos, HKE eliminou WATER_DRAGON
+Aos 24.076 minutos, HKE eliminou AIR_DRAGON
+Aos 29.308 minutos, HKE eliminou BARON_NASHOR
+Aos 18.007 minutos, HKE eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.791 minutos, HKE GodKwai eliminou M19 PvPStejos
+Aos 5.636 minutos, HKE Gear eliminou M19 Smurf
+Aos 5.666 minutos, HKE Gear eliminou M19 PvPStejos
+Aos 12.155 minutos, HKE Gear eliminou M19 Kira
+Aos 12.622 minutos, HKE Gemini eliminou M19 PvPStejos
+Aos 14.922 minutos, HKE GodKwai eliminou M19 PvPStejos
+Aos 15.357 minutos, HKE Gear eliminou M19 Likkrit
+Aos 16.264 minutos, HKE Gemini eliminou M19 Likkrit
+Aos 16.372 minutos, HKE Gemini eliminou M19 Vincent
+Aos 17.207 minutos, HKE MapleSnow eliminou M19 Smurf
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6924
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/50372?gameHash=17201297b2906bc0
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: H2K
+Time Vermelho: ROX
+Vencedor: ROX
+Placar: H2K: 0 x 1 :ROX
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 28.644 minutos, ROX eliminou AIR_DRAGON
+Aos 10.13 minutos, ROX eliminou WATER_DRAGON
+Aos 20.56 minutos, ROX eliminou AIR_DRAGON
+Aos 29.938 minutos, ROX eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 6.032 minutos, H2K Febiven eliminou ROX Mickey
+Aos 8.487 minutos, H2K Jankos eliminou ROX Mickey
+Aos 9.669 minutos, H2K Chei eliminou ROX Mickey
+Aos 15.225 minutos, H2K Febiven eliminou ROX Lindarang
+Aos 16.918 minutos, H2K Febiven eliminou ROX SeongHwan
+Aos 19.01 minutos, H2K Febiven eliminou ROX SeongHwan
+Aos 22.013 minutos, H2K Chei eliminou ROX Sangyoon
+Aos 22.18 minutos, H2K Febiven eliminou ROX Lindarang
+Aos 22.337 minutos, H2K Febiven eliminou ROX Mickey
+Aos 22.442 minutos, H2K Odoamne eliminou ROX Key
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6925
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/50382?gameHash=90cb3f500284e0cd
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: ROX
+Time Vermelho: H2K
+Vencedor: H2K
+Placar: ROX: 0 x 1 :H2K
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.249 minutos, H2K eliminou WATER_DRAGON
+Aos 32.175 minutos, H2K eliminou WATER_DRAGON
+Aos 8.482 minutos, H2K eliminou WATER_DRAGON
+Aos 21.974 minutos, H2K eliminou EARTH_DRAGON
+Aos 31.351 minutos, H2K eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 18.669 minutos, ROX Sangyoon eliminou H2K Chei
+Aos 18.731 minutos, ROX SeongHwan eliminou H2K Febiven
+Aos 18.874 minutos, ROX Key eliminou H2K Jankos
+Aos 21.041 minutos, ROX Mickey eliminou H2K Odoamne
+Aos 23.108 minutos, ROX Key eliminou H2K Jankos
+Aos 25.162 minutos, ROX Mickey eliminou H2K Odoamne
+Aos 30.38 minutos, ROX Lindarang eliminou H2K Febiven
+Aos 30.49 minutos, ROX Lindarang eliminou H2K Odoamne
+Aos 34.343 minutos, ROX Key eliminou H2K Jankos
+Aos 3.981 minutos, H2K Jankos eliminou ROX Mickey
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6926
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/40450?gameHash=23a3119d56516636
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: H2K
+Time Vermelho: ROX
+Vencedor: ROX
+Placar: H2K: 0 x 1 :ROX
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 9.492 minutos, ROX eliminou FIRE_DRAGON
+Aos 16.869 minutos, ROX eliminou FIRE_DRAGON
+Aos 20.625 minutos, ROX eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 18.706 minutos, H2K Nuclear eliminou ROX Mickey
+Aos 18.744 minutos, H2K Febiven eliminou ROX Key
+Aos 18.836 minutos, H2K Nuclear eliminou ROX SeongHwan
+Aos 21.514 minutos, H2K Nuclear eliminou ROX Key
+Aos 23.301 minutos, H2K Febiven eliminou ROX Mickey
+Aos 9.222 minutos, ROX Key eliminou H2K Chei
+Aos 9.243 minutos, ROX Mickey eliminou H2K Jankos
+Aos 9.317 minutos, ROX Lindarang eliminou H2K Febiven
+Aos 11.605 minutos, ROX SeongHwan eliminou H2K Chei
+Aos 14.236 minutos, ROX SeongHwan eliminou H2K Nuclear
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6927
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/70178?gameHash=45e28031447f8b18
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: HKE
+Time Vermelho: H2K
+Vencedor: HKE
+Placar: HKE: 1 x 0 :H2K
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 52.679 minutos, HKE eliminou ELDER_DRAGON
+Aos 34.392 minutos, HKE eliminou WATER_DRAGON
+Aos 28.239 minutos, HKE eliminou WATER_DRAGON
+Aos 29.539 minutos, HKE eliminou BARON_NASHOR
+Aos 53.545 minutos, HKE eliminou BARON_NASHOR
+Aos 46.228 minutos, HKE eliminou BARON_NASHOR
+Aos 22.047 minutos, H2K eliminou EARTH_DRAGON
+Aos 15.753 minutos, H2K eliminou EARTH_DRAGON
+Aos 41.626 minutos, H2K eliminou ELDER_DRAGON
+Aos 38.02 minutos, H2K eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.636 minutos, HKE Gear eliminou H2K Jankos
+Aos 11.263 minutos, HKE MapleSnow eliminou H2K Jankos
+Aos 27.057 minutos, HKE Nestea eliminou H2K Chei
+Aos 29.043 minutos, HKE Gear eliminou H2K Febiven
+Aos 29.127 minutos, HKE GodKwai eliminou H2K Odoamne
+Aos 29.175 minutos, HKE Gear eliminou H2K Nuclear
+Aos 29.225 minutos, HKE Gear eliminou H2K Jankos
+Aos 38.339 minutos, HKE GodKwai eliminou H2K Odoamne
+Aos 38.512 minutos, HKE GodKwai eliminou H2K Chei
+Aos 40.476 minutos, HKE Gemini eliminou H2K Febiven
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6928
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/70188?gameHash=b1977475e2790ec0
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: H2K
+Time Vermelho: HKE
+Vencedor: H2K
+Placar: H2K: 1 x 0 :HKE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.671 minutos, H2K eliminou EARTH_DRAGON
+Aos 22.889 minutos, H2K eliminou EARTH_DRAGON
+
+=== ABATES ===
+Aos 3.833 minutos, H2K Jankos eliminou HKE MapleSnow
+Aos 7.77 minutos, H2K Odoamne eliminou HKE Gemini
+Aos 10.007 minutos, H2K Nuclear eliminou HKE Nestea
+Aos 10.156 minutos, H2K Jankos eliminou HKE GodKwai
+Aos 10.737 minutos, H2K Nuclear eliminou HKE Gemini
+Aos 10.812 minutos, H2K Odoamne eliminou HKE MapleSnow
+Aos 21.761 minutos, H2K Nuclear eliminou HKE Gear
+Aos 21.842 minutos, H2K Odoamne eliminou HKE MapleSnow
+Aos 25.423 minutos, H2K Nuclear eliminou HKE Nestea
+Aos 25.454 minutos, H2K Odoamne eliminou HKE MapleSnow
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6929
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/70191?gameHash=2c399aceb286a072
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: H2K
+Time Vermelho: HKE
+Vencedor: H2K
+Placar: H2K: 1 x 0 :HKE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.638 minutos, H2K eliminou AIR_DRAGON
+Aos 24.279 minutos, H2K eliminou FIRE_DRAGON
+Aos 10.023 minutos, H2K eliminou AIR_DRAGON
+Aos 18.007 minutos, H2K eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 2.856 minutos, H2K Jankos eliminou HKE Gear
+Aos 3.919 minutos, H2K Jankos eliminou HKE Nestea
+Aos 5.846 minutos, H2K Odoamne eliminou HKE MapleSnow
+Aos 6.224 minutos, H2K Odoamne eliminou HKE Gear
+Aos 8.306 minutos, H2K Jankos eliminou HKE Gear
+Aos 20.846 minutos, H2K Chei eliminou HKE Nestea
+Aos 21.419 minutos, H2K Febiven eliminou HKE Gear
+Aos 21.489 minutos, H2K Odoamne eliminou HKE Gemini
+Aos 23.472 minutos, H2K Nuclear eliminou HKE GodKwai
+Aos 25.575 minutos, H2K Odoamne eliminou HKE Gemini
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6930
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/40405?gameHash=e2e161719e34802e
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: UOL
+Time Vermelho: KDM
+Vencedor: UOL
+Placar: UOL: 1 x 0 :KDM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 51.578 minutos, UOL eliminou ELDER_DRAGON
+Aos 41.374 minutos, UOL eliminou ELDER_DRAGON
+Aos 50.583 minutos, UOL eliminou BARON_NASHOR
+Aos 35.23 minutos, UOL eliminou BARON_NASHOR
+Aos 34.886 minutos, KDM eliminou EARTH_DRAGON
+Aos 21.589 minutos, KDM eliminou EARTH_DRAGON
+Aos 27.783 minutos, KDM eliminou WATER_DRAGON
+Aos 43.24 minutos, KDM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 8.079 minutos, UOL Samux eliminou KDM Guger
+Aos 8.146 minutos, UOL Xerxe eliminou KDM Ssol
+Aos 12.33 minutos, UOL Exileh eliminou KDM Edge
+Aos 30.115 minutos, UOL Vizicsacsi eliminou KDM Guger
+Aos 41.674 minutos, UOL Exileh eliminou KDM Roach
+Aos 43.251 minutos, UOL Samux eliminou KDM Punch
+Aos 43.379 minutos, UOL Vizicsacsi eliminou KDM Edge
+Aos 43.409 minutos, UOL Exileh eliminou KDM Guger
+Aos 55.809 minutos, UOL Samux eliminou KDM Edge
+Aos 8.89 minutos, KDM Edge eliminou UOL Hylissang
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6931
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/40431?gameHash=201a203ee26165f1
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: FW
+Vencedor: FW
+Placar: G2: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.665 minutos, FW eliminou WATER_DRAGON
+Aos 9.771 minutos, FW eliminou WATER_DRAGON
+Aos 23.182 minutos, FW eliminou EARTH_DRAGON
+Aos 36.566 minutos, FW eliminou ELDER_DRAGON
+Aos 29.399 minutos, FW eliminou WATER_DRAGON
+Aos 33.968 minutos, FW eliminou BARON_NASHOR
+Aos 25.771 minutos, FW eliminou BARON_NASHOR
+Aos 19.842 minutos, FW eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 13.528 minutos, G2 Perkz eliminou FW Karsa
+Aos 26.299 minutos, G2 Perkz eliminou FW MMD
+Aos 34.969 minutos, G2 Expect eliminou FW Karsa
+Aos 7.661 minutos, FW SwordArt eliminou G2 Zven
+Aos 8.354 minutos, FW MMD eliminou G2 Expect
+Aos 11.088 minutos, FW Betty eliminou G2 Trick
+Aos 11.314 minutos, FW Maple eliminou G2 mithy
+Aos 11.351 minutos, FW Maple eliminou G2 Zven
+Aos 15.05 minutos, FW Betty eliminou G2 Trick
+Aos 25.092 minutos, FW Karsa eliminou G2 mithy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6932
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/50406?gameHash=7ff8974f7c7dffc5
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: KDM
+Vencedor: G2
+Placar: G2: 1 x 0 :KDM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.121 minutos, G2 eliminou EARTH_DRAGON
+Aos 20.332 minutos, G2 eliminou EARTH_DRAGON
+Aos 8.277 minutos, KDM eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 15.034 minutos, G2 Perkz eliminou KDM Edge
+Aos 15.11 minutos, G2 Perkz eliminou KDM Punch
+Aos 15.711 minutos, G2 Perkz eliminou KDM Roach
+Aos 21.073 minutos, G2 Trick eliminou KDM Guger
+Aos 21.133 minutos, G2 Trick eliminou KDM Edge
+Aos 21.509 minutos, G2 Perkz eliminou KDM Roach
+Aos 25.06 minutos, G2 Zven eliminou KDM Edge
+Aos 27.436 minutos, G2 Perkz eliminou KDM Edge
+Aos 28.252 minutos, G2 Trick eliminou KDM Punch
+Aos 28.301 minutos, G2 Perkz eliminou KDM Roach
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6933
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/50410?gameHash=e8d3fc85f5db5219
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: KDM
+Time Vermelho: G2
+Vencedor: KDM
+Placar: KDM: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.687 minutos, KDM eliminou EARTH_DRAGON
+Aos 25.962 minutos, KDM eliminou EARTH_DRAGON
+Aos 13.22 minutos, KDM eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 4.626 minutos, KDM Edge eliminou G2 Perkz
+Aos 14.459 minutos, KDM Punch eliminou G2 Trick
+Aos 14.961 minutos, KDM Roach eliminou G2 Perkz
+Aos 15.374 minutos, KDM Edge eliminou G2 Trick
+Aos 23.177 minutos, KDM Edge eliminou G2 Zven
+Aos 26.451 minutos, KDM Edge eliminou G2 Expect
+Aos 26.568 minutos, KDM Edge eliminou G2 Perkz
+Aos 26.683 minutos, KDM Edge eliminou G2 Zven
+Aos 27.286 minutos, KDM Edge eliminou G2 Trick
+Aos 4.646 minutos, G2 Trick eliminou KDM Roach
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6934
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/50412?gameHash=eabd7deb757d77b2
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: KDM
+Time Vermelho: G2
+Vencedor: G2
+Placar: KDM: 0 x 1 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.434 minutos, G2 eliminou AIR_DRAGON
+Aos 22.3 minutos, G2 eliminou EARTH_DRAGON
+Aos 26.775 minutos, G2 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.966 minutos, KDM Punch eliminou G2 Expect
+Aos 13.803 minutos, KDM Ssol eliminou G2 mithy
+Aos 17.419 minutos, KDM Punch eliminou G2 Perkz
+Aos 17.459 minutos, KDM Edge eliminou G2 mithy
+Aos 24.027 minutos, KDM Edge eliminou G2 Trick
+Aos 2.864 minutos, G2 Zven eliminou KDM Guger
+Aos 8.652 minutos, G2 Trick eliminou KDM Ssol
+Aos 12.043 minutos, G2 Trick eliminou KDM Punch
+Aos 20.037 minutos, G2 Expect eliminou KDM Guger
+Aos 21.51 minutos, G2 Perkz eliminou KDM Ssol
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6935
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/50389?gameHash=c8a2f7a2a09638a8
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: UOL
+Time Vermelho: FW
+Vencedor: FW
+Placar: UOL: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.806 minutos, UOL eliminou FIRE_DRAGON
+Aos 36.498 minutos, FW eliminou AIR_DRAGON
+Aos 10.862 minutos, FW eliminou EARTH_DRAGON
+Aos 43.054 minutos, FW eliminou ELDER_DRAGON
+Aos 17.328 minutos, FW eliminou AIR_DRAGON
+Aos 37.322 minutos, FW eliminou BARON_NASHOR
+Aos 44.443 minutos, FW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 23.059 minutos, UOL Exileh eliminou FW Karsa
+Aos 26.618 minutos, UOL Exileh eliminou FW SwordArt
+Aos 26.694 minutos, UOL Samux eliminou FW MMD
+Aos 26.756 minutos, UOL Exileh eliminou FW Karsa
+Aos 26.786 minutos, UOL Samux eliminou FW Betty
+Aos 26.872 minutos, UOL Samux eliminou FW Maple
+Aos 32.779 minutos, UOL Samux eliminou FW Betty
+Aos 32.788 minutos, UOL Vizicsacsi eliminou FW Maple
+Aos 32.905 minutos, UOL Samux eliminou FW Karsa
+Aos 37.48 minutos, UOL Exileh eliminou FW Betty
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6936
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT02/50392?gameHash=478d56829ffa1e41
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: UOL
+Vencedor: FW
+Placar: FW: 1 x 0 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.029 minutos, FW eliminou AIR_DRAGON
+Aos 33.249 minutos, FW eliminou AIR_DRAGON
+Aos 35.798 minutos, FW eliminou BARON_NASHOR
+Aos 28.373 minutos, FW eliminou BARON_NASHOR
+Aos 25.888 minutos, UOL eliminou EARTH_DRAGON
+
+=== ABATES ===
+Aos 6.111 minutos, FW Karsa eliminou UOL Vizicsacsi
+Aos 9.381 minutos, FW Karsa eliminou UOL Exileh
+Aos 14.339 minutos, FW MMD eliminou UOL Vizicsacsi
+Aos 16.412 minutos, FW Karsa eliminou UOL Vizicsacsi
+Aos 19.452 minutos, FW Maple eliminou UOL Exileh
+Aos 20.33 minutos, FW Karsa eliminou UOL Hylissang
+Aos 24.357 minutos, FW MMD eliminou UOL Exileh
+Aos 24.453 minutos, FW Karsa eliminou UOL Vizicsacsi
+Aos 28.467 minutos, FW Betty eliminou UOL Exileh
+Aos 28.505 minutos, FW Karsa eliminou UOL Hylissang
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6937
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/70192?gameHash=1e869b73b07abd77
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: UOL
+Vencedor: G2
+Placar: G2: 1 x 0 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.944 minutos, G2 eliminou WATER_DRAGON
+Aos 20.264 minutos, UOL eliminou FIRE_DRAGON
+Aos 28.142 minutos, UOL eliminou FIRE_DRAGON
+Aos 27.111 minutos, UOL eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 1.001 minutos, G2 Expect eliminou UOL Vizicsacsi
+Aos 7.575 minutos, G2 mithy eliminou UOL Xerxe
+Aos 10.782 minutos, G2 Perkz eliminou UOL Exileh
+Aos 20.37 minutos, G2 Zven eliminou UOL Hylissang
+Aos 20.41 minutos, G2 Zven eliminou UOL Exileh
+Aos 20.449 minutos, G2 Expect eliminou UOL Xerxe
+Aos 20.836 minutos, G2 Perkz eliminou UOL Vizicsacsi
+Aos 23.894 minutos, G2 Perkz eliminou UOL Vizicsacsi
+Aos 29.894 minutos, G2 Zven eliminou UOL Samux
+Aos 30.0 minutos, G2 Perkz eliminou UOL Exileh
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6938
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/70213?gameHash=a5d4840b4c013fff
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: UOL
+Time Vermelho: G2
+Vencedor: G2
+Placar: UOL: 0 x 1 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 34.548 minutos, UOL eliminou AIR_DRAGON
+Aos 26.428 minutos, G2 eliminou WATER_DRAGON
+Aos 19.726 minutos, G2 eliminou AIR_DRAGON
+Aos 13.186 minutos, G2 eliminou WATER_DRAGON
+Aos 21.929 minutos, G2 eliminou BARON_NASHOR
+Aos 33.126 minutos, G2 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 13.659 minutos, UOL Vizicsacsi eliminou G2 mithy
+Aos 15.761 minutos, UOL Xerxe eliminou G2 mithy
+Aos 16.942 minutos, UOL Samux eliminou G2 Zven
+Aos 17.288 minutos, UOL Vizicsacsi eliminou G2 Trick
+Aos 18.841 minutos, UOL Samux eliminou G2 Zven
+Aos 19.076 minutos, UOL Vizicsacsi eliminou G2 mithy
+Aos 19.129 minutos, UOL Xerxe eliminou G2 Perkz
+Aos 21.713 minutos, UOL Vizicsacsi eliminou G2 mithy
+Aos 22.059 minutos, UOL Exileh eliminou G2 Trick
+Aos 25.225 minutos, UOL Xerxe eliminou G2 Zven
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6939
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/70248?gameHash=129b2c50042bb5ff
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: ROX
+Vencedor: ROX
+Placar: G2: 0 x 1 :ROX
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.138 minutos, G2 eliminou BARON_NASHOR
+Aos 22.728 minutos, ROX eliminou AIR_DRAGON
+Aos 38.602 minutos, ROX eliminou ELDER_DRAGON
+Aos 7.95 minutos, ROX eliminou EARTH_DRAGON
+Aos 15.377 minutos, ROX eliminou EARTH_DRAGON
+Aos 31.038 minutos, ROX eliminou EARTH_DRAGON
+Aos 44.992 minutos, ROX eliminou BARON_NASHOR
+Aos 37.525 minutos, ROX eliminou BARON_NASHOR
+Aos 18.347 minutos, ROX eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 16.117 minutos, G2 Perkz eliminou ROX Mickey
+Aos 18.81 minutos, G2 Perkz eliminou ROX Mickey
+Aos 20.741 minutos, G2 Perkz eliminou ROX SeongHwan
+Aos 20.792 minutos, G2 Perkz eliminou ROX Mickey
+Aos 24.073 minutos, G2 Zven eliminou ROX Mickey
+Aos 26.025 minutos, G2 Zven eliminou ROX Sangyoon
+Aos 26.071 minutos, G2 Zven eliminou ROX Key
+Aos 26.296 minutos, G2 Expect eliminou ROX SeongHwan
+Aos 28.795 minutos, G2 Perkz eliminou ROX Mickey
+Aos 28.923 minutos, G2 Perkz eliminou ROX SeongHwan
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6940
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/60162?gameHash=285f4aabae9bfd3a
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: ROX
+Time Vermelho: G2
+Vencedor: G2
+Placar: ROX: 0 x 1 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.901 minutos, G2 eliminou EARTH_DRAGON
+Aos 10.115 minutos, G2 eliminou AIR_DRAGON
+Aos 26.825 minutos, G2 eliminou EARTH_DRAGON
+Aos 32.306 minutos, G2 eliminou BARON_NASHOR
+Aos 24.925 minutos, G2 eliminou BARON_NASHOR
+Aos 17.739 minutos, G2 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.376 minutos, ROX Lindarang eliminou G2 Trick
+Aos 16.741 minutos, ROX Lindarang eliminou G2 Zven
+Aos 18.429 minutos, ROX SeongHwan eliminou G2 Zven
+Aos 18.515 minutos, ROX Mickey eliminou G2 mithy
+Aos 20.444 minutos, ROX SeongHwan eliminou G2 mithy
+Aos 24.92 minutos, ROX Lindarang eliminou G2 mithy
+Aos 25.09 minutos, ROX Key eliminou G2 Expect
+Aos 30.712 minutos, ROX Sangyoon eliminou G2 Perkz
+Aos 30.93 minutos, ROX Sangyoon eliminou G2 mithy
+Aos 30.961 minutos, ROX SeongHwan eliminou G2 Expect
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6941
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/60163?gameHash=427d733b2f749654
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: ROX
+Time Vermelho: G2
+Vencedor: G2
+Placar: ROX: 0 x 1 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.828 minutos, ROX eliminou EARTH_DRAGON
+Aos 32.821 minutos, ROX eliminou FIRE_DRAGON
+Aos 26.567 minutos, ROX eliminou FIRE_DRAGON
+Aos 25.781 minutos, ROX eliminou BARON_NASHOR
+Aos 39.787 minutos, G2 eliminou ELDER_DRAGON
+Aos 40.84 minutos, G2 eliminou BARON_NASHOR
+Aos 32.973 minutos, G2 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.377 minutos, ROX Key eliminou G2 Zven
+Aos 8.964 minutos, ROX SeongHwan eliminou G2 mithy
+Aos 9.174 minutos, ROX Mickey eliminou G2 Trick
+Aos 15.712 minutos, ROX Lindarang eliminou G2 Perkz
+Aos 16.978 minutos, ROX Mickey eliminou G2 Perkz
+Aos 17.032 minutos, ROX Mickey eliminou G2 Trick
+Aos 17.542 minutos, ROX Mickey eliminou G2 mithy
+Aos 22.471 minutos, ROX SeongHwan eliminou G2 Trick
+Aos 28.017 minutos, ROX Mickey eliminou G2 Perkz
+Aos 28.474 minutos, ROX Mickey eliminou G2 Expect
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6942
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/60166?gameHash=283f5a2bb510b6c1
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: H2K
+Time Vermelho: FW
+Vencedor: H2K
+Placar: H2K: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 34.158 minutos, H2K eliminou WATER_DRAGON
+Aos 40.661 minutos, H2K eliminou ELDER_DRAGON
+Aos 20.6 minutos, H2K eliminou FIRE_DRAGON
+Aos 14.362 minutos, H2K eliminou FIRE_DRAGON
+Aos 51.136 minutos, H2K eliminou ELDER_DRAGON
+Aos 61.352 minutos, H2K eliminou ELDER_DRAGON
+Aos 38.45 minutos, H2K eliminou BARON_NASHOR
+Aos 45.754 minutos, H2K eliminou BARON_NASHOR
+Aos 27.043 minutos, FW eliminou WATER_DRAGON
+Aos 54.932 minutos, FW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 45.148 minutos, H2K Febiven eliminou FW SwordArt
+Aos 45.42 minutos, H2K Chei eliminou FW MMD
+Aos 46.856 minutos, H2K Nuclear eliminou FW MMD
+Aos 48.451 minutos, H2K Nuclear eliminou FW SwordArt
+Aos 62.783 minutos, H2K Febiven eliminou FW Karsa
+Aos 62.81 minutos, H2K Nuclear eliminou FW Maple
+Aos 63.67 minutos, H2K Nuclear eliminou FW Betty
+Aos 3.237 minutos, FW Karsa eliminou H2K Chei
+Aos 20.065 minutos, FW MMD eliminou H2K Chei
+Aos 36.535 minutos, FW Betty eliminou H2K Febiven
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6943
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/70280?gameHash=98ac22c5d177fa99
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: H2K
+Vencedor: FW
+Placar: FW: 1 x 0 :H2K
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.149 minutos, FW eliminou EARTH_DRAGON
+Aos 23.881 minutos, FW eliminou EARTH_DRAGON
+Aos 38.064 minutos, FW eliminou ELDER_DRAGON
+Aos 41.698 minutos, FW eliminou BARON_NASHOR
+Aos 17.625 minutos, H2K eliminou EARTH_DRAGON
+Aos 34.424 minutos, H2K eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.986 minutos, FW Karsa eliminou H2K Odoamne
+Aos 11.613 minutos, FW SwordArt eliminou H2K Chei
+Aos 19.985 minutos, FW Karsa eliminou H2K Febiven
+Aos 22.933 minutos, FW Betty eliminou H2K Nuclear
+Aos 31.946 minutos, FW Karsa eliminou H2K Febiven
+Aos 32.166 minutos, FW Maple eliminou H2K Nuclear
+Aos 32.198 minutos, FW Betty eliminou H2K Odoamne
+Aos 33.07 minutos, FW Maple eliminou H2K Jankos
+Aos 37.023 minutos, FW Maple eliminou H2K Jankos
+Aos 11.787 minutos, H2K Febiven eliminou FW Betty
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6944
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/70292?gameHash=31efe57b569148e4
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: FW
+Time Vermelho: G2
+Vencedor: FW
+Placar: FW: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.277 minutos, FW eliminou AIR_DRAGON
+Aos 12.527 minutos, FW eliminou EARTH_DRAGON
+Aos 21.27 minutos, FW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 20.495 minutos, FW Maple eliminou G2 Perkz
+Aos 20.663 minutos, FW Karsa eliminou G2 Trick
+Aos 20.676 minutos, FW MMD eliminou G2 Expect
+Aos 20.725 minutos, FW Betty eliminou G2 Zven
+Aos 22.732 minutos, FW Maple eliminou G2 Perkz
+Aos 22.797 minutos, FW Maple eliminou G2 mithy
+Aos 23.83 minutos, FW SwordArt eliminou G2 Trick
+Aos 23.926 minutos, FW Karsa eliminou G2 Perkz
+Aos 24.07 minutos, FW Betty eliminou G2 Zven
+Aos 25.123 minutos, FW Karsa eliminou G2 Zven
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6945
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT05/70282?gameHash=6bd45ef686642af7
+Campeonato: IEM
+Ano: 2017
+Fase: International
+Temporada: Spring
+Time Azul: G2
+Time Vermelho: FW
+Vencedor: FW
+Placar: G2: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 31.003 minutos, G2 eliminou AIR_DRAGON
+Aos 16.747 minutos, G2 eliminou RIFT_HERALD
+Aos 9.528 minutos, FW eliminou WATER_DRAGON
+Aos 23.768 minutos, FW eliminou EARTH_DRAGON
+Aos 16.357 minutos, FW eliminou AIR_DRAGON
+Aos 27.79 minutos, FW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 6.955 minutos, G2 Trick eliminou FW MMD
+Aos 10.095 minutos, G2 Expect eliminou FW MMD
+Aos 13.893 minutos, FW MMD eliminou G2 Trick
+Aos 15.808 minutos, FW Karsa eliminou G2 Zven
+Aos 18.351 minutos, FW Betty eliminou G2 Perkz
+Aos 20.626 minutos, FW Maple eliminou G2 mithy
+Aos 26.982 minutos, FW Karsa eliminou G2 Expect
+Aos 27.114 minutos, FW Maple eliminou G2 mithy
+Aos 27.183 minutos, FW Betty eliminou G2 Perkz
+Aos 27.82 minutos, FW SwordArt eliminou G2 Trick
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7057
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRNA1/1001280591?gameHash=e785687525203d11
+Campeonato: IEM
+Ano: 2016
+Fase: International
+Temporada: Summer
+Time Azul: FW
+Time Vermelho: UOL
+Vencedor: FW
+Placar: FW: 1 x 0 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.264 minutos, FW eliminou FIRE_DRAGON
+Aos 21.219 minutos, FW eliminou BARON_NASHOR
+Aos 9.814 minutos, UOL eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 1.073 minutos, FW Maple eliminou UOL Exileh
+Aos 7.887 minutos, FW Maple eliminou UOL Exileh
+Aos 9.086 minutos, FW Karsa eliminou UOL Vizicsacsi
+Aos 9.889 minutos, FW MMD eliminou UOL Vizicsacsi
+Aos 13.383 minutos, FW Maple eliminou UOL Exileh
+Aos 13.677 minutos, FW Karsa eliminou UOL Hylissang
+Aos 14.482 minutos, FW DoubleRed eliminou UOL Veritas
+Aos 15.861 minutos, FW Karsa eliminou UOL Veritas
+Aos 16.418 minutos, FW MMD eliminou UOL Vizicsacsi
+Aos 16.734 minutos, FW Karsa eliminou UOL Veritas
+
+==================================================
+

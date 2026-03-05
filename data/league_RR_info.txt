@@ -1,0 +1,3658 @@
+=== PARTIDA ===
+MatchID: 6946
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180113?gameHash=1b6a0bbefdc8a0a4
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: JT
+Time Vermelho: SSG
+Vencedor: SSG
+Placar: JT: 0 x 1 :SSG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.911 minutos, JT eliminou EARTH_DRAGON
+Aos 22.557 minutos, JT eliminou AIR_DRAGON
+Aos 25.71 minutos, JT eliminou BARON_NASHOR
+Aos 34.182 minutos, JT eliminou BARON_NASHOR
+Aos 17.582 minutos, JT eliminou RIFT_HERALD
+Aos 46.46 minutos, SSG eliminou ELDER_DRAGON
+Aos 38.818 minutos, SSG eliminou WATER_DRAGON
+Aos 28.849 minutos, SSG eliminou AIR_DRAGON
+Aos 44.005 minutos, SSG eliminou BARON_NASHOR
+Aos 51.179 minutos, SSG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.024 minutos, JT Alex eliminou SSG Cuvee
+Aos 13.457 minutos, JT Morning eliminou SSG Cuvee
+Aos 14.275 minutos, JT FoFo eliminou SSG Crown
+Aos 16.847 minutos, JT FoFo eliminou SSG Cuvee
+Aos 33.348 minutos, JT FoFo eliminou SSG Ambition
+Aos 33.692 minutos, JT Alex eliminou SSG Ruler
+Aos 52.059 minutos, JT FoFo eliminou SSG Ambition
+Aos 13.563 minutos, SSG Ambition eliminou JT Alex
+Aos 15.909 minutos, SSG CoreJJ eliminou JT Morning
+Aos 24.457 minutos, SSG Cuvee eliminou JT Bebe
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6947
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180121?gameHash=eb07499187e4eeb8
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: OMG
+Time Vermelho: MVP
+Vencedor: OMG
+Placar: OMG: 1 x 0 :MVP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 38.749 minutos, OMG eliminou ELDER_DRAGON
+Aos 25.673 minutos, OMG eliminou EARTH_DRAGON
+Aos 11.156 minutos, OMG eliminou EARTH_DRAGON
+Aos 19.414 minutos, OMG eliminou EARTH_DRAGON
+Aos 38.009 minutos, OMG eliminou BARON_NASHOR
+Aos 22.955 minutos, OMG eliminou BARON_NASHOR
+Aos 32.099 minutos, MVP eliminou WATER_DRAGON
+Aos 30.219 minutos, MVP eliminou BARON_NASHOR
+Aos 14.521 minutos, MVP eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.848 minutos, OMG Jiekou eliminou MVP Maha
+Aos 6.897 minutos, OMG Icon eliminou MVP Max
+Aos 17.806 minutos, OMG Xiyang eliminou MVP Ian
+Aos 17.879 minutos, OMG Icon eliminou MVP Beyond
+Aos 17.962 minutos, OMG Icon eliminou MVP ADD
+Aos 17.964 minutos, OMG Smlz eliminou MVP Max
+Aos 30.313 minutos, OMG Xiyang eliminou MVP Ian
+Aos 30.431 minutos, OMG Jiekou eliminou MVP ADD
+Aos 30.442 minutos, OMG Xiyang eliminou MVP Maha
+Aos 40.652 minutos, OMG Xiyang eliminou MVP Maha
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6948
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180136?gameHash=2e73f6dd31555907
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: SSG
+Time Vermelho: EDG
+Vencedor: SSG
+Placar: SSG: 1 x 0 :EDG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.456 minutos, SSG eliminou WATER_DRAGON
+Aos 17.199 minutos, SSG eliminou WATER_DRAGON
+Aos 28.603 minutos, SSG eliminou BARON_NASHOR
+Aos 25.733 minutos, EDG eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 5.754 minutos, SSG Crown eliminou EDG Clearlove7
+Aos 11.216 minutos, SSG Ambition eliminou EDG Meiko
+Aos 11.32 minutos, SSG Crown eliminou EDG Zet
+Aos 11.432 minutos, SSG Ruler eliminou EDG Mouse
+Aos 17.39 minutos, SSG Crown eliminou EDG Mouse
+Aos 17.444 minutos, SSG Cuvee eliminou EDG Scout
+Aos 17.497 minutos, SSG Ambition eliminou EDG Clearlove7
+Aos 20.999 minutos, SSG Ambition eliminou EDG Mouse
+Aos 24.455 minutos, SSG Cuvee eliminou EDG Mouse
+Aos 28.275 minutos, SSG CoreJJ eliminou EDG Scout
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6949
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180146?gameHash=68631735916bb770
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: OMG
+Time Vermelho: M17
+Vencedor: M17
+Placar: OMG: 0 x 1 :M17
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 14.275 minutos, OMG eliminou AIR_DRAGON
+Aos 29.823 minutos, OMG eliminou AIR_DRAGON
+Aos 20.53 minutos, OMG eliminou BARON_NASHOR
+Aos 37.077 minutos, OMG eliminou BARON_NASHOR
+Aos 12.804 minutos, OMG eliminou RIFT_HERALD
+Aos 36.119 minutos, M17 eliminou ELDER_DRAGON
+Aos 21.008 minutos, M17 eliminou AIR_DRAGON
+Aos 29.134 minutos, M17 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.461 minutos, OMG Xiyang eliminou M17 3z
+Aos 10.232 minutos, OMG Icon eliminou M17 3z
+Aos 10.733 minutos, OMG Smlz eliminou M17 Dee
+Aos 10.792 minutos, OMG Jiekou eliminou M17 Dreamer
+Aos 15.739 minutos, OMG Smlz eliminou M17 Taizan
+Aos 23.71 minutos, OMG Xiyang eliminou M17 Taizan
+Aos 27.986 minutos, OMG Jiekou eliminou M17 Dreamer
+Aos 32.015 minutos, OMG Jiekou eliminou M17 Apex
+Aos 36.863 minutos, OMG Icon eliminou M17 Dee
+Aos 36.914 minutos, OMG Xiyang eliminou M17 Apex
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6950
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180149?gameHash=7180fa77b4d7ff0c
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RNG
+Time Vermelho: ahq
+Vencedor: RNG
+Placar: RNG: 1 x 0 :ahq
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.038 minutos, RNG eliminou EARTH_DRAGON
+Aos 33.434 minutos, RNG eliminou WATER_DRAGON
+Aos 32.281 minutos, RNG eliminou BARON_NASHOR
+Aos 11.421 minutos, ahq eliminou WATER_DRAGON
+Aos 20.75 minutos, ahq eliminou WATER_DRAGON
+Aos 18.249 minutos, ahq eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 14.111 minutos, RNG Xiaohu eliminou ahq Mountain
+Aos 17.336 minutos, RNG Xiaohu eliminou ahq Chawy
+Aos 17.916 minutos, RNG Xiaohu eliminou ahq AN
+Aos 18.07 minutos, RNG Xiaohu eliminou ahq Albis
+Aos 18.147 minutos, RNG Xiaohu eliminou ahq Ziv
+Aos 20.442 minutos, RNG Mlxg eliminou ahq Ziv
+Aos 26.581 minutos, RNG Xiaohu eliminou ahq Ziv
+Aos 34.179 minutos, RNG Xiaohu eliminou ahq Chawy
+Aos 34.264 minutos, RNG Ming eliminou ahq Albis
+Aos 34.344 minutos, RNG Xiaohu eliminou ahq Mountain
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6951
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/190168?gameHash=6727190d784b4cfb
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: SKT
+Time Vermelho: FW
+Vencedor: SKT
+Placar: SKT: 1 x 0 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.199 minutos, SKT eliminou FIRE_DRAGON
+Aos 19.534 minutos, SKT eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 8.684 minutos, SKT Huni eliminou FW MMD
+Aos 11.097 minutos, SKT Peanut eliminou FW MMD
+Aos 11.41 minutos, SKT Peanut eliminou FW Maple
+Aos 11.812 minutos, SKT Huni eliminou FW MMD
+Aos 16.926 minutos, SKT Faker eliminou FW Maple
+Aos 17.619 minutos, SKT Bang eliminou FW Betty
+Aos 18.864 minutos, SKT Peanut eliminou FW MMD
+Aos 18.949 minutos, SKT Huni eliminou FW Karsa
+Aos 19.847 minutos, SKT Bang eliminou FW MMD
+Aos 21.985 minutos, SKT Huni eliminou FW SwordArt
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6952
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180172?gameHash=662c5870222ac6bb
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: M17
+Time Vermelho: MVP
+Vencedor: MVP
+Placar: M17: 0 x 1 :MVP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 31.888 minutos, MVP eliminou AIR_DRAGON
+Aos 18.656 minutos, MVP eliminou AIR_DRAGON
+Aos 24.91 minutos, MVP eliminou AIR_DRAGON
+Aos 12.206 minutos, MVP eliminou FIRE_DRAGON
+Aos 29.836 minutos, MVP eliminou BARON_NASHOR
+Aos 16.78 minutos, MVP eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 1.829 minutos, M17 Apex eliminou MVP Beyond
+Aos 1.914 minutos, M17 Apex eliminou MVP Maha
+Aos 8.904 minutos, M17 Dreamer eliminou MVP ADD
+Aos 24.95 minutos, M17 3z eliminou MVP ADD
+Aos 31.22 minutos, M17 Apex eliminou MVP ADD
+Aos 5.477 minutos, MVP Beyond eliminou M17 Apex
+Aos 7.586 minutos, MVP Ian eliminou M17 Apex
+Aos 10.796 minutos, MVP Max eliminou M17 Dee
+Aos 10.996 minutos, MVP Ian eliminou M17 Dreamer
+Aos 29.076 minutos, MVP Maha eliminou M17 Dee
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6953
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180183?gameHash=5afe18bfc2f19313
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RNG
+Time Vermelho: kt
+Vencedor: kt
+Placar: RNG: 0 x 1 :kt
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 28.021 minutos, RNG eliminou FIRE_DRAGON
+Aos 21.476 minutos, kt eliminou EARTH_DRAGON
+Aos 13.574 minutos, kt eliminou EARTH_DRAGON
+Aos 37.825 minutos, kt eliminou WATER_DRAGON
+Aos 33.583 minutos, kt eliminou BARON_NASHOR
+Aos 17.845 minutos, kt eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 2.791 minutos, RNG Mlxg eliminou kt Deft
+Aos 7.609 minutos, RNG Letme eliminou kt Smeb
+Aos 9.008 minutos, RNG Mlxg eliminou kt Smeb
+Aos 12.933 minutos, RNG Xiaohu eliminou kt Pawn
+Aos 14.528 minutos, RNG Letme eliminou kt Pawn
+Aos 15.734 minutos, RNG Mlxg eliminou kt Score
+Aos 16.166 minutos, RNG Xiaohu eliminou kt Smeb
+Aos 30.923 minutos, RNG y4 eliminou kt Mata
+Aos 31.162 minutos, RNG Xiaohu eliminou kt Score
+Aos 31.209 minutos, RNG y4 eliminou kt Smeb
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6954
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180185?gameHash=3ea060a304f6abf6
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: JT
+Time Vermelho: EDG
+Vencedor: JT
+Placar: JT: 1 x 0 :EDG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.565 minutos, JT eliminou WATER_DRAGON
+Aos 9.17 minutos, JT eliminou WATER_DRAGON
+Aos 23.228 minutos, JT eliminou BARON_NASHOR
+Aos 10.397 minutos, JT eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.817 minutos, JT Alex eliminou EDG Audi
+Aos 9.827 minutos, JT Morning eliminou EDG Scout
+Aos 9.95 minutos, JT Morning eliminou EDG Audi
+Aos 15.857 minutos, JT FoFo eliminou EDG Scout
+Aos 16.485 minutos, JT Jay eliminou EDG Zet
+Aos 21.108 minutos, JT Morning eliminou EDG Audi
+Aos 24.926 minutos, JT Alex eliminou EDG Audi
+Aos 29.41 minutos, JT Bebe eliminou EDG Clearlove7
+Aos 29.98 minutos, JT FoFo eliminou EDG Zet
+Aos 30.065 minutos, JT Morning eliminou EDG Audi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6955
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180194?gameHash=4ed99b72cd610163
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FW
+Time Vermelho: WE
+Vencedor: FW
+Placar: FW: 1 x 0 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.849 minutos, FW eliminou AIR_DRAGON
+Aos 38.986 minutos, FW eliminou BARON_NASHOR
+Aos 31.693 minutos, FW eliminou BARON_NASHOR
+Aos 12.426 minutos, WE eliminou FIRE_DRAGON
+Aos 34.562 minutos, WE eliminou WATER_DRAGON
+Aos 19.63 minutos, WE eliminou WATER_DRAGON
+Aos 16.814 minutos, WE eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 5.557 minutos, FW SwordArt eliminou WE Mystic
+Aos 9.605 minutos, FW Betty eliminou WE Mystic
+Aos 12.635 minutos, FW Maple eliminou WE 957
+Aos 16.827 minutos, FW Betty eliminou WE xiye
+Aos 17.056 minutos, FW Betty eliminou WE Condi
+Aos 17.453 minutos, FW Karsa eliminou WE Mystic
+Aos 21.464 minutos, FW Karsa eliminou WE Zero
+Aos 35.788 minutos, FW MMD eliminou WE Mystic
+Aos 36.027 minutos, FW Betty eliminou WE Zero
+Aos 36.081 minutos, FW Betty eliminou WE xiye
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6956
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180203?gameHash=a6be16a941e95d8d
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: kt
+Time Vermelho: AHQ
+Vencedor: AHQ
+Placar: kt: 0 x 1 :AHQ
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.112 minutos, kt eliminou FIRE_DRAGON
+Aos 32.357 minutos, AHQ eliminou WATER_DRAGON
+Aos 12.875 minutos, AHQ eliminou FIRE_DRAGON
+Aos 25.215 minutos, AHQ eliminou FIRE_DRAGON
+Aos 37.127 minutos, AHQ eliminou BARON_NASHOR
+Aos 20.271 minutos, AHQ eliminou BARON_NASHOR
+Aos 28.268 minutos, AHQ eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.215 minutos, kt Score eliminou AHQ Mountain
+Aos 6.875 minutos, kt Score eliminou AHQ Mountain
+Aos 10.025 minutos, kt Score eliminou AHQ Albis
+Aos 12.572 minutos, kt Smeb eliminou AHQ Ziv
+Aos 16.976 minutos, kt Score eliminou AHQ Ziv
+Aos 21.307 minutos, kt Smeb eliminou AHQ AN
+Aos 27.426 minutos, kt Pawn eliminou ahq Westdoor
+Aos 9.95 minutos, ahq Westdoor eliminou kt Deft
+Aos 10.026 minutos, ahq Westdoor eliminou kt Score
+Aos 13.034 minutos, AHQ AN eliminou kt Smeb
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6957
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180217?gameHash=7d5d974d4d00da78
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: WE
+Time Vermelho: SKT
+Vencedor: SKT
+Placar: WE: 0 x 1 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.03 minutos, SKT eliminou FIRE_DRAGON
+Aos 12.788 minutos, SKT eliminou EARTH_DRAGON
+Aos 21.951 minutos, SKT eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 10.877 minutos, WE 957 eliminou SKT Huni
+Aos 16.76 minutos, WE Mystic eliminou SKT Wolf
+Aos 5.304 minutos, SKT Faker eliminou WE xiye
+Aos 11.154 minutos, SKT Faker eliminou WE xiye
+Aos 12.198 minutos, SKT Bang eliminou WE Zero
+Aos 14.329 minutos, SKT Blank eliminou WE Condi
+Aos 15.21 minutos, SKT Faker eliminou WE Mystic
+Aos 15.264 minutos, SKT Bang eliminou WE xiye
+Aos 19.47 minutos, SKT Huni eliminou WE Condi
+Aos 19.657 minutos, SKT Huni eliminou WE Zero
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6958
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/190242?gameHash=83d7996c6ba74873
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: JT
+Time Vermelho: WE
+Vencedor: WE
+Placar: JT: 0 x 1 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.302 minutos, JT eliminou FIRE_DRAGON
+Aos 18.045 minutos, WE eliminou EARTH_DRAGON
+Aos 39.68 minutos, WE eliminou ELDER_DRAGON
+Aos 33.312 minutos, WE eliminou EARTH_DRAGON
+Aos 40.148 minutos, WE eliminou BARON_NASHOR
+Aos 32.426 minutos, WE eliminou BARON_NASHOR
+Aos 16.737 minutos, WE eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 11.197 minutos, JT FoFo eliminou WE 957
+Aos 11.257 minutos, JT FoFo eliminou WE Condi
+Aos 13.128 minutos, JT FoFo eliminou WE 957
+Aos 19.783 minutos, JT Alex eliminou WE Condi
+Aos 19.788 minutos, JT FoFo eliminou WE Mystic
+Aos 20.147 minutos, JT FoFo eliminou WE xiye
+Aos 22.207 minutos, JT Bebe eliminou WE Condi
+Aos 35.129 minutos, JT Morning eliminou WE Mystic
+Aos 35.477 minutos, JT Bebe eliminou WE xiye
+Aos 11.11 minutos, WE 957 eliminou JT Alex
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6959
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/190253?gameHash=419870bdd5150a66
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: OMG
+Time Vermelho: FW
+Vencedor: FW
+Placar: OMG: 0 x 1 :FW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.788 minutos, OMG eliminou AIR_DRAGON
+Aos 14.141 minutos, OMG eliminou RIFT_HERALD
+Aos 13.386 minutos, FW eliminou FIRE_DRAGON
+Aos 26.975 minutos, FW eliminou AIR_DRAGON
+Aos 30.663 minutos, FW eliminou BARON_NASHOR
+Aos 22.699 minutos, FW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.363 minutos, OMG Five eliminou FW Karsa
+Aos 8.472 minutos, OMG Five eliminou FW SwordArt
+Aos 24.262 minutos, OMG Smlz eliminou FW Betty
+Aos 32.37 minutos, OMG Smlz eliminou FW MMD
+Aos 4.695 minutos, FW Karsa eliminou OMG Five
+Aos 5.333 minutos, FW Karsa eliminou OMG Jiekou
+Aos 6.789 minutos, FW Betty eliminou OMG Smlz
+Aos 13.627 minutos, FW Maple eliminou OMG Smlz
+Aos 14.482 minutos, FW Karsa eliminou OMG Five
+Aos 21.906 minutos, FW Betty eliminou OMG Smlz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6960
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180239?gameHash=49236f9e7c031f71
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: AHQ
+Time Vermelho: EDG
+Vencedor: AHQ
+Placar: AHQ: 1 x 0 :EDG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.145 minutos, AHQ eliminou EARTH_DRAGON
+Aos 33.814 minutos, AHQ eliminou AIR_DRAGON
+Aos 46.781 minutos, AHQ eliminou BARON_NASHOR
+Aos 54.432 minutos, AHQ eliminou BARON_NASHOR
+Aos 13.45 minutos, AHQ eliminou RIFT_HERALD
+Aos 27.524 minutos, EDG eliminou EARTH_DRAGON
+Aos 50.731 minutos, EDG eliminou ELDER_DRAGON
+Aos 14.012 minutos, EDG eliminou EARTH_DRAGON
+Aos 39.922 minutos, EDG eliminou ELDER_DRAGON
+Aos 31.31 minutos, EDG eliminou BARON_NASHOR
+Aos 39.387 minutos, EDG eliminou BARON_NASHOR
+Aos 21.992 minutos, EDG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.706 minutos, AHQ Mountain eliminou EDG Audi
+Aos 10.327 minutos, AHQ Westdoor eliminou EDG Audi
+Aos 22.053 minutos, AHQ Ziv eliminou EDG Meiko
+Aos 25.847 minutos, AHQ Ziv eliminou EDG Clearlove7
+Aos 25.927 minutos, AHQ Mountain eliminou EDG Scout
+Aos 26.051 minutos, AHQ Ziv eliminou EDG Meiko
+Aos 26.057 minutos, AHQ AN eliminou EDG Zet
+Aos 30.31 minutos, AHQ AN eliminou EDG Clearlove7
+Aos 30.373 minutos, AHQ AN eliminou EDG Meiko
+Aos 30.632 minutos, AHQ AN eliminou EDG Audi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6961
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180246?gameHash=3b8fad6bb12fb4d6
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RNG
+Time Vermelho: M17
+Vencedor: RNG
+Placar: RNG: 1 x 0 :M17
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.117 minutos, RNG eliminou FIRE_DRAGON
+Aos 23.155 minutos, RNG eliminou WATER_DRAGON
+Aos 16.976 minutos, RNG eliminou FIRE_DRAGON
+Aos 24.91 minutos, RNG eliminou BARON_NASHOR
+Aos 11.424 minutos, M17 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.145 minutos, RNG y4 eliminou M17 Dee
+Aos 3.209 minutos, RNG Mlxg eliminou M17 Taizan
+Aos 13.441 minutos, RNG Ming eliminou M17 Apex
+Aos 13.876 minutos, RNG Mlxg eliminou M17 3z
+Aos 15.517 minutos, RNG Xiaohu eliminou M17 Dreamer
+Aos 15.658 minutos, RNG Letme eliminou M17 Dee
+Aos 19.113 minutos, RNG Mlxg eliminou M17 Taizan
+Aos 19.263 minutos, RNG Ming eliminou M17 3z
+Aos 21.931 minutos, RNG Mlxg eliminou M17 Dreamer
+Aos 24.064 minutos, RNG Xiaohu eliminou M17 Dee
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6962
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180254?gameHash=7e3894c875c70c2d
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FW
+Time Vermelho: WE
+Vencedor: WE
+Placar: FW: 0 x 1 :WE
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.597 minutos, FW eliminou EARTH_DRAGON
+Aos 16.983 minutos, WE eliminou WATER_DRAGON
+Aos 23.352 minutos, WE eliminou EARTH_DRAGON
+Aos 35.316 minutos, WE eliminou BARON_NASHOR
+Aos 24.496 minutos, WE eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.335 minutos, FW Betty eliminou WE Mystic
+Aos 12.16 minutos, FW Maple eliminou WE Condi
+Aos 12.443 minutos, FW Maple eliminou WE xiye
+Aos 13.985 minutos, FW Betty eliminou WE Mystic
+Aos 16.287 minutos, FW Karsa eliminou WE Mystic
+Aos 24.547 minutos, FW Maple eliminou WE Zero
+Aos 26.457 minutos, FW Betty eliminou WE Condi
+Aos 29.438 minutos, FW MMD eliminou WE Zero
+Aos 29.442 minutos, FW Maple eliminou WE Mystic
+Aos 29.57 minutos, FW MMD eliminou WE Condi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6963
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/190293?gameHash=f39f3d0b647d9c6c
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: SSG
+Time Vermelho: EDG
+Vencedor: EDG
+Placar: SSG: 0 x 1 :EDG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.351 minutos, SSG eliminou FIRE_DRAGON
+Aos 15.639 minutos, EDG eliminou EARTH_DRAGON
+Aos 28.743 minutos, EDG eliminou EARTH_DRAGON
+Aos 37.365 minutos, EDG eliminou EARTH_DRAGON
+Aos 44.463 minutos, EDG eliminou ELDER_DRAGON
+Aos 36.299 minutos, EDG eliminou BARON_NASHOR
+Aos 12.26 minutos, EDG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 30.626 minutos, SSG Cuvee eliminou EDG Mouse
+Aos 34.551 minutos, SSG Cuvee eliminou EDG Mouse
+Aos 43.013 minutos, SSG Ruler eliminou EDG Mouse
+Aos 43.179 minutos, SSG Ruler eliminou EDG Meiko
+Aos 43.279 minutos, SSG Cuvee eliminou EDG Clearlove7
+Aos 43.3 minutos, SSG CoreJJ eliminou EDG Zet
+Aos 45.188 minutos, SSG Ruler eliminou EDG Meiko
+Aos 3.273 minutos, EDG Scout eliminou SSG Ambition
+Aos 9.878 minutos, EDG Clearlove7 eliminou SSG Cuvee
+Aos 14.551 minutos, EDG Clearlove7 eliminou SSG CoreJJ
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6964
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180272?gameHash=404d51c4986e747e
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: WE
+Time Vermelho: SKT
+Vencedor: WE
+Placar: WE: 1 x 0 :SKT
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.478 minutos, WE eliminou EARTH_DRAGON
+Aos 15.269 minutos, WE eliminou FIRE_DRAGON
+Aos 25.557 minutos, WE eliminou BARON_NASHOR
+Aos 16.696 minutos, WE eliminou RIFT_HERALD
+Aos 21.799 minutos, SKT eliminou FIRE_DRAGON
+Aos 8.78 minutos, SKT eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 1.925 minutos, WE Mystic eliminou SKT Faker
+Aos 7.376 minutos, WE Condi eliminou SKT Faker
+Aos 11.492 minutos, WE Mystic eliminou SKT Bang
+Aos 11.602 minutos, WE xiye eliminou SKT Huni
+Aos 12.724 minutos, WE Zero eliminou SKT Huni
+Aos 14.572 minutos, WE 957 eliminou SKT Huni
+Aos 19.028 minutos, WE Mystic eliminou SKT Wolf
+Aos 19.074 minutos, WE Condi eliminou SKT Peanut
+Aos 19.27 minutos, WE Condi eliminou SKT Faker
+Aos 19.305 minutos, WE Condi eliminou SKT Huni
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6965
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180280?gameHash=3482ec5b31e4ba8c
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: KT
+Time Vermelho: OMG
+Vencedor: KT
+Placar: KT: 1 x 0 :OMG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.671 minutos, KT eliminou WATER_DRAGON
+Aos 30.538 minutos, KT eliminou EARTH_DRAGON
+Aos 24.161 minutos, KT eliminou EARTH_DRAGON
+Aos 29.239 minutos, KT eliminou BARON_NASHOR
+Aos 8.644 minutos, OMG eliminou WATER_DRAGON
+Aos 13.064 minutos, OMG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 16.126 minutos, KT Mata eliminou OMG Smlz
+Aos 16.178 minutos, KT Pawn eliminou OMG Jiekou
+Aos 16.27 minutos, KT Deft eliminou OMG Xiyang
+Aos 17.88 minutos, KT Pawn eliminou OMG Icon
+Aos 17.911 minutos, KT Deft eliminou OMG Xiyang
+Aos 18.866 minutos, KT Pawn eliminou OMG Five
+Aos 20.579 minutos, KT Mata eliminou OMG Smlz
+Aos 22.089 minutos, KT Score eliminou OMG Xiyang
+Aos 27.105 minutos, KT Smeb eliminou OMG Jiekou
+Aos 28.705 minutos, KT Smeb eliminou OMG Five
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6966
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT3/180290?gameHash=f60ab8a10674ec81
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RNG
+Time Vermelho: MVP
+Vencedor: RNG
+Placar: RNG: 1 x 0 :MVP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.021 minutos, RNG eliminou FIRE_DRAGON
+Aos 50.547 minutos, RNG eliminou ELDER_DRAGON
+Aos 39.892 minutos, RNG eliminou ELDER_DRAGON
+Aos 47.154 minutos, RNG eliminou BARON_NASHOR
+Aos 54.886 minutos, RNG eliminou BARON_NASHOR
+Aos 17.746 minutos, MVP eliminou EARTH_DRAGON
+Aos 10.417 minutos, MVP eliminou WATER_DRAGON
+Aos 30.788 minutos, MVP eliminou FIRE_DRAGON
+Aos 37.618 minutos, MVP eliminou BARON_NASHOR
+Aos 20.952 minutos, MVP eliminou BARON_NASHOR
+Aos 18.621 minutos, MVP eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 7.315 minutos, RNG Xiaohu eliminou MVP ADD
+Aos 11.643 minutos, RNG Xiaohu eliminou MVP Ian
+Aos 16.932 minutos, RNG Letme eliminou MVP ADD
+Aos 19.688 minutos, RNG y4 eliminou MVP ADD
+Aos 21.105 minutos, RNG Xiaohu eliminou MVP Maha
+Aos 21.132 minutos, RNG y4 eliminou MVP ADD
+Aos 29.676 minutos, RNG y4 eliminou MVP Max
+Aos 33.447 minutos, RNG Xiaohu eliminou MVP Ian
+Aos 33.6 minutos, RNG Letme eliminou MVP Beyond
+Aos 37.782 minutos, RNG Letme eliminou MVP Beyond
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6967
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220256?gameHash=b4cf029613060bd7
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: SUP
+Time Vermelho: VP
+Vencedor: SUP
+Placar: SUP: 1 x 0 :VP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 50.943 minutos, SUP eliminou ELDER_DRAGON
+Aos 33.165 minutos, SUP eliminou AIR_DRAGON
+Aos 25.795 minutos, SUP eliminou FIRE_DRAGON
+Aos 45.624 minutos, SUP eliminou BARON_NASHOR
+Aos 18.543 minutos, VP eliminou EARTH_DRAGON
+Aos 40.533 minutos, VP eliminou ELDER_DRAGON
+Aos 11.504 minutos, VP eliminou EARTH_DRAGON
+Aos 30.546 minutos, VP eliminou BARON_NASHOR
+Aos 38.194 minutos, VP eliminou BARON_NASHOR
+Aos 53.271 minutos, VP eliminou BARON_NASHOR
+Aos 22.565 minutos, VP eliminou BARON_NASHOR
+Aos 15.065 minutos, VP eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 17.661 minutos, SUP Stomaged eliminou VP SaNTas
+Aos 24.28 minutos, SUP Tolerant eliminou VP Kreox
+Aos 24.299 minutos, SUP Zeitnot eliminou VP Paranoia
+Aos 25.192 minutos, SUP Zeitnot eliminou VP P1noy
+Aos 25.467 minutos, SUP Naru eliminou VP Doxy
+Aos 25.504 minutos, SUP Naru eliminou VP SaNTas
+Aos 28.169 minutos, SUP Naru eliminou VP Kreox
+Aos 31.919 minutos, SUP Stomaged eliminou VP P1noy
+Aos 32.016 minutos, SUP Naru eliminou VP Doxy
+Aos 32.15 minutos, SUP Zeitnot eliminou VP Paranoia
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6968
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220265?gameHash=faa394a58e7bb353
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: VS
+Time Vermelho: CRW
+Vencedor: CRW
+Placar: VS: 0 x 1 :CRW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.829 minutos, VS eliminou EARTH_DRAGON
+Aos 23.062 minutos, VS eliminou WATER_DRAGON
+Aos 29.439 minutos, CRW eliminou WATER_DRAGON
+Aos 26.001 minutos, CRW eliminou BARON_NASHOR
+Aos 33.29 minutos, CRW eliminou BARON_NASHOR
+Aos 11.003 minutos, CRW eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.456 minutos, VS Ekka eliminou CRW Naehyun
+Aos 8.354 minutos, VS Ekka eliminou CRW Elwind
+Aos 13.857 minutos, VS Dark Solece eliminou CRW Elwind
+Aos 15.296 minutos, VS Cboi eliminou CRW Naehyun
+Aos 16.635 minutos, VS Ekka eliminou CRW Mocha
+Aos 22.1 minutos, VS Grisen eliminou CRW Madness
+Aos 23.784 minutos, VS Cboi eliminou CRW Elwind
+Aos 29.104 minutos, VS Ekka eliminou CRW Elwind
+Aos 35.251 minutos, VS Grisen eliminou CRW Naehyun
+Aos 2.888 minutos, CRW Mojito eliminou VS Cboi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6969
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220272?gameHash=fbaa39889bd7fcdf
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: M19
+Time Vermelho: FB
+Vencedor: FB
+Placar: M19: 0 x 1 :FB
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.672 minutos, FB eliminou AIR_DRAGON
+Aos 25.182 minutos, FB eliminou AIR_DRAGON
+Aos 18.549 minutos, FB eliminou AIR_DRAGON
+Aos 27.375 minutos, FB eliminou BARON_NASHOR
+Aos 16.984 minutos, FB eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.974 minutos, M19 Likkrit eliminou FB padden
+Aos 12.615 minutos, M19 VincentVega eliminou FB padden
+Aos 15.166 minutos, M19 Smurf eliminou FB padden
+Aos 17.416 minutos, M19 VincentVega eliminou FB Thaldrin
+Aos 20.898 minutos, M19 TeamleSS eliminou FB Frozen
+Aos 23.232 minutos, M19 TeamleSS eliminou FB Japone
+Aos 3.378 minutos, FB Thaldrin eliminou M19 TeamleSS
+Aos 3.431 minutos, FB Move eliminou M19 Smurf
+Aos 3.776 minutos, FB padden eliminou M19 VincentVega
+Aos 4.041 minutos, FB Japone eliminou M19 Likkrit
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6970
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220281?gameHash=f544cc80643667ac
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: VEG
+Time Vermelho: AUR
+Vencedor: VEG
+Placar: VEG: 1 x 0 :AUR
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.127 minutos, VEG eliminou AIR_DRAGON
+Aos 32.083 minutos, VEG eliminou EARTH_DRAGON
+Aos 25.621 minutos, VEG eliminou AIR_DRAGON
+Aos 36.134 minutos, VEG eliminou BARON_NASHOR
+Aos 28.572 minutos, VEG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.177 minutos, VEG Optimas eliminou AUR Zergsting
+Aos 8.623 minutos, VEG Zanzarah eliminou AUR PANKY
+Aos 11.519 minutos, VEG Nomanz eliminou AUR LEYL U NEHAR
+Aos 13.932 minutos, VEG delord eliminou AUR Ruve sama
+Aos 24.576 minutos, VEG Optimas eliminou AUR Ruve sama
+Aos 36.388 minutos, VEG NoNholy eliminou AUR Zergsting
+Aos 36.447 minutos, VEG Optimas eliminou AUR PANKY
+Aos 37.013 minutos, VEG Nomanz eliminou AUR Ruve sama
+Aos 37.702 minutos, VEG Optimas eliminou AUR LEYL U NEHAR
+Aos 37.798 minutos, VEG Optimas eliminou AUR PANKY
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6971
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220292?gameHash=d77c82a28d59d4e8
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FB
+Time Vermelho: VS
+Vencedor: FB
+Placar: FB: 1 x 0 :VS
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.468 minutos, FB eliminou EARTH_DRAGON
+Aos 28.557 minutos, FB eliminou BARON_NASHOR
+Aos 16.175 minutos, VS eliminou EARTH_DRAGON
+Aos 28.937 minutos, VS eliminou FIRE_DRAGON
+Aos 9.032 minutos, VS eliminou EARTH_DRAGON
+Aos 20.242 minutos, VS eliminou BARON_NASHOR
+Aos 11.188 minutos, VS eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 9.131 minutos, FB Move eliminou VS Dark Solece
+Aos 11.607 minutos, FB padden eliminou VS Cboi
+Aos 20.334 minutos, FB Frozen eliminou VS Cboi
+Aos 20.334 minutos, FB Frozen eliminou VS Grisen
+Aos 20.338 minutos, FB Thaldrin eliminou VS unho1y
+Aos 20.411 minutos, FB Frozen eliminou VS Dark Solece
+Aos 22.811 minutos, FB Frozen eliminou VS Cboi
+Aos 23.536 minutos, FB Thaldrin eliminou VS Dark Solece
+Aos 26.234 minutos, FB Frozen eliminou VS unho1y
+Aos 26.245 minutos, FB Frozen eliminou VS Grisen
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6972
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220318?gameHash=cf99565413ed121b
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: M19
+Time Vermelho: CRW
+Vencedor: CRW
+Placar: M19: 0 x 1 :CRW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.41 minutos, M19 eliminou FIRE_DRAGON
+Aos 9.117 minutos, M19 eliminou WATER_DRAGON
+Aos 20.721 minutos, M19 eliminou BARON_NASHOR
+Aos 18.962 minutos, M19 eliminou RIFT_HERALD
+Aos 16.121 minutos, CRW eliminou EARTH_DRAGON
+Aos 35.86 minutos, CRW eliminou ELDER_DRAGON
+Aos 22.758 minutos, CRW eliminou WATER_DRAGON
+Aos 36.569 minutos, CRW eliminou BARON_NASHOR
+Aos 28.832 minutos, CRW eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.907 minutos, M19 TeamleSS eliminou CRW Mojito
+Aos 10.602 minutos, M19 Likkrit eliminou CRW Mocha
+Aos 10.711 minutos, M19 VincentVega eliminou CRW Mojito
+Aos 10.85 minutos, M19 Lukezy eliminou CRW Madness
+Aos 11.54 minutos, M19 Lukezy eliminou CRW Naehyun
+Aos 14.747 minutos, M19 VincentVega eliminou CRW Mocha
+Aos 14.845 minutos, M19 Likkrit eliminou CRW Madness
+Aos 14.959 minutos, M19 Lukezy eliminou CRW Mojito
+Aos 17.028 minutos, M19 Smurf eliminou CRW Mocha
+Aos 17.044 minutos, M19 VincentVega eliminou CRW Mojito
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6973
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220320?gameHash=3bc8d5206933af2f
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: VEG
+Time Vermelho: SUP
+Vencedor: VEG
+Placar: VEG: 1 x 0 :SUP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 50.605 minutos, VEG eliminou ELDER_DRAGON
+Aos 39.453 minutos, VEG eliminou ELDER_DRAGON
+Aos 42.816 minutos, VEG eliminou BARON_NASHOR
+Aos 13.55 minutos, VEG eliminou RIFT_HERALD
+Aos 13.416 minutos, SUP eliminou EARTH_DRAGON
+Aos 19.896 minutos, SUP eliminou FIRE_DRAGON
+Aos 26.417 minutos, SUP eliminou FIRE_DRAGON
+Aos 32.72 minutos, SUP eliminou FIRE_DRAGON
+Aos 34.879 minutos, SUP eliminou BARON_NASHOR
+Aos 27.577 minutos, SUP eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.94 minutos, VEG NoNholy eliminou SUP Stomaged
+Aos 7.647 minutos, VEG NoNholy eliminou SUP fabFabulous
+Aos 28.659 minutos, VEG Nomanz eliminou SUP Zeitnot
+Aos 39.8 minutos, VEG Nomanz eliminou SUP Stomaged
+Aos 39.863 minutos, VEG NoNholy eliminou SUP Zeitnot
+Aos 40.064 minutos, VEG Nomanz eliminou SUP Tolerant
+Aos 40.308 minutos, VEG NoNholy eliminou SUP Naru
+Aos 42.281 minutos, VEG Nomanz eliminou SUP fabFabulous
+Aos 42.32 minutos, VEG NoNholy eliminou SUP Naru
+Aos 42.397 minutos, VEG NoNholy eliminou SUP Stomaged
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6974
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220325?gameHash=9e1479ce9c63cd26
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: VP
+Time Vermelho: AUR
+Vencedor: AUR
+Placar: VP: 0 x 1 :AUR
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.863 minutos, VP eliminou FIRE_DRAGON
+Aos 13.934 minutos, VP eliminou RIFT_HERALD
+Aos 24.159 minutos, AUR eliminou EARTH_DRAGON
+Aos 7.794 minutos, AUR eliminou FIRE_DRAGON
+Aos 17.692 minutos, AUR eliminou EARTH_DRAGON
+Aos 30.548 minutos, AUR eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.04 minutos, VP Doxy eliminou AUR PANKY
+Aos 4.995 minutos, VP Kreox eliminou AUR PANKY
+Aos 7.703 minutos, VP Doxy eliminou AUR PANKY
+Aos 8.864 minutos, VP Paranoia eliminou AUR Godbro Sama
+Aos 27.194 minutos, VP P1noy eliminou AUR PANKY
+Aos 27.247 minutos, VP P1noy eliminou AUR Wisdom
+Aos 27.259 minutos, VP P1noy eliminou AUR Zergsting
+Aos 33.87 minutos, VP P1noy eliminou AUR Godbro Sama
+Aos 7.01 minutos, AUR Godbro Sama eliminou VP Paranoia
+Aos 9.112 minutos, AUR Wisdom eliminou VP Kreox
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6975
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220332?gameHash=865881d4aa187dee
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FB
+Time Vermelho: VEG
+Vencedor: FB
+Placar: FB: 1 x 0 :VEG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 18.733 minutos, FB eliminou WATER_DRAGON
+Aos 27.379 minutos, FB eliminou WATER_DRAGON
+Aos 20.407 minutos, FB eliminou BARON_NASHOR
+Aos 8.087 minutos, VEG eliminou FIRE_DRAGON
+Aos 29.864 minutos, VEG eliminou BARON_NASHOR
+Aos 12.171 minutos, VEG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 10.685 minutos, FB Frozen eliminou VEG Zanzarah
+Aos 10.787 minutos, FB Japone eliminou VEG NoNholy
+Aos 10.941 minutos, FB Frozen eliminou VEG Optimas
+Aos 13.016 minutos, FB Frozen eliminou VEG Nomanz
+Aos 14.087 minutos, FB Frozen eliminou VEG Nomanz
+Aos 14.215 minutos, FB Thaldrin eliminou VEG NoNholy
+Aos 17.107 minutos, FB Japone eliminou VEG delord
+Aos 17.533 minutos, FB Thaldrin eliminou VEG NoNholy
+Aos 19.708 minutos, FB Thaldrin eliminou VEG Optimas
+Aos 19.839 minutos, FB Move eliminou VEG delord
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6976
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220337?gameHash=5b77a852ff4a9f24
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: VS
+Time Vermelho: SUP
+Vencedor: SUP
+Placar: VS: 0 x 1 :SUP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 14.597 minutos, VS eliminou RIFT_HERALD
+Aos 24.647 minutos, SUP eliminou EARTH_DRAGON
+Aos 17.429 minutos, SUP eliminou EARTH_DRAGON
+Aos 10.995 minutos, SUP eliminou WATER_DRAGON
+Aos 24.252 minutos, SUP eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.038 minutos, VS unho1y eliminou SUP Tolerant
+Aos 3.917 minutos, VS Ekka eliminou SUP Naru
+Aos 6.324 minutos, VS unho1y eliminou SUP Tolerant
+Aos 13.618 minutos, VS unho1y eliminou SUP fabFabulous
+Aos 16.302 minutos, VS Cboi eliminou SUP fabFabulous
+Aos 27.999 minutos, VS Cboi eliminou SUP fabFabulous
+Aos 6.581 minutos, SUP Stomaged eliminou VS Ekka
+Aos 7.682 minutos, SUP Zeitnot eliminou VS Grisen
+Aos 9.992 minutos, SUP Naru eliminou VS Cboi
+Aos 11.095 minutos, SUP Zeitnot eliminou VS Cboi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6977
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220360?gameHash=f2d72e758e55f934
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: AUR
+Time Vermelho: M19
+Vencedor: AUR
+Placar: AUR: 1 x 0 :M19
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.978 minutos, AUR eliminou AIR_DRAGON
+Aos 8.914 minutos, AUR eliminou WATER_DRAGON
+Aos 22.542 minutos, AUR eliminou BARON_NASHOR
+Aos 11.495 minutos, AUR eliminou RIFT_HERALD
+Aos 17.312 minutos, M19 eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 2.271 minutos, AUR Zergsting eliminou M19 VincentVega
+Aos 2.844 minutos, AUR Wisdom eliminou M19 TeamleSS
+Aos 3.985 minutos, AUR Ruve sama eliminou M19 Likkrit
+Aos 4.36 minutos, AUR Ruve sama eliminou M19 VincentVega
+Aos 4.942 minutos, AUR Godbro Sama eliminou M19 Lukezy
+Aos 5.636 minutos, AUR Zergsting eliminou M19 VincentVega
+Aos 5.827 minutos, AUR Wisdom eliminou M19 Likkrit
+Aos 9.7 minutos, AUR Ruve sama eliminou M19 Likkrit
+Aos 10.008 minutos, AUR Ruve sama eliminou M19 Smurf
+Aos 12.121 minutos, AUR Wisdom eliminou M19 TeamleSS
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6978
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220376?gameHash=255ffe0b13cc4336
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: CRW
+Time Vermelho: VEG
+Vencedor: CRW
+Placar: CRW: 1 x 0 :VEG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 10.268 minutos, CRW eliminou EARTH_DRAGON
+Aos 23.472 minutos, CRW eliminou EARTH_DRAGON
+Aos 36.011 minutos, CRW eliminou ELDER_DRAGON
+Aos 35.409 minutos, CRW eliminou BARON_NASHOR
+Aos 24.751 minutos, CRW eliminou BARON_NASHOR
+Aos 17.218 minutos, VEG eliminou FIRE_DRAGON
+Aos 29.619 minutos, VEG eliminou FIRE_DRAGON
+Aos 12.935 minutos, VEG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.977 minutos, CRW Elwind eliminou VEG NoNholy
+Aos 7.079 minutos, CRW Mojito eliminou VEG NoNholy
+Aos 14.759 minutos, CRW Naehyun eliminou VEG Nomanz
+Aos 16.688 minutos, CRW Naehyun eliminou VEG delord
+Aos 16.74 minutos, CRW Naehyun eliminou VEG Optimas
+Aos 24.312 minutos, CRW Mojito eliminou VEG Zanzarah
+Aos 24.313 minutos, CRW Naehyun eliminou VEG NoNholy
+Aos 24.333 minutos, CRW Madness eliminou VEG delord
+Aos 24.444 minutos, CRW Madness eliminou VEG Optimas
+Aos 34.554 minutos, CRW Naehyun eliminou VEG Nomanz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6979
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220384?gameHash=7f1a22bb19cce4d3
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: AUR
+Time Vermelho: VS
+Vencedor: AUR
+Placar: AUR: 1 x 0 :VS
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 8.295 minutos, AUR eliminou FIRE_DRAGON
+Aos 10.974 minutos, AUR eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.086 minutos, AUR Wisdom eliminou VS Dark Solece
+Aos 7.64 minutos, AUR Godbro Sama eliminou VS Ekka
+Aos 7.681 minutos, AUR PANKY eliminou VS Dark Solece
+Aos 13.399 minutos, AUR Ruve sama eliminou VS unho1y
+Aos 13.404 minutos, AUR Godbro Sama eliminou VS Grisen
+Aos 18.166 minutos, AUR Godbro Sama eliminou VS Grisen
+Aos 18.206 minutos, AUR Ruve sama eliminou VS Cboi
+Aos 18.275 minutos, AUR Ruve sama eliminou VS Dark Solece
+Aos 10.009 minutos, VS Cboi eliminou AUR PANKY
+Aos 10.076 minutos, VS Grisen eliminou AUR Wisdom
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6980
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220389?gameHash=277c61a149efd9fd
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: VP
+Time Vermelho: FB
+Vencedor: FB
+Placar: VP: 0 x 1 :FB
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 7.977 minutos, VP eliminou FIRE_DRAGON
+Aos 11.127 minutos, VP eliminou RIFT_HERALD
+Aos 14.193 minutos, FB eliminou AIR_DRAGON
+Aos 20.367 minutos, FB eliminou AIR_DRAGON
+Aos 26.523 minutos, FB eliminou WATER_DRAGON
+Aos 32.645 minutos, FB eliminou BARON_NASHOR
+Aos 21.902 minutos, FB eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 9.714 minutos, VP Doxy eliminou FB Move
+Aos 9.825 minutos, VP Paranoia eliminou FB Thaldrin
+Aos 12.528 minutos, VP Kreox eliminou FB Move
+Aos 12.791 minutos, VP Kreox eliminou FB Japone
+Aos 15.17 minutos, VP Doxy eliminou FB Thaldrin
+Aos 21.118 minutos, VP Doxy eliminou FB Move
+Aos 27.883 minutos, VP Doxy eliminou FB Move
+Aos 28.541 minutos, VP SaNTas eliminou FB Thaldrin
+Aos 29.383 minutos, VP Kreox eliminou FB Frozen
+Aos 7.296 minutos, FB Move eliminou VP Doxy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6981
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220397?gameHash=0ea2f382b1ec5363
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: SUP
+Time Vermelho: M19
+Vencedor: SUP
+Placar: SUP: 1 x 0 :M19
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.901 minutos, SUP eliminou EARTH_DRAGON
+Aos 16.801 minutos, SUP eliminou EARTH_DRAGON
+Aos 19.872 minutos, SUP eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.528 minutos, SUP Stomaged eliminou M19 Smurf
+Aos 5.087 minutos, SUP Naru eliminou M19 Lukezy
+Aos 10.531 minutos, SUP fabFabulous eliminou M19 TeamleSS
+Aos 11.758 minutos, SUP Zeitnot eliminou M19 VincentVega
+Aos 11.879 minutos, SUP Stomaged eliminou M19 TeamleSS
+Aos 14.105 minutos, SUP Naru eliminou M19 Likkrit
+Aos 14.115 minutos, SUP Stomaged eliminou M19 Smurf
+Aos 14.159 minutos, SUP Naru eliminou M19 TeamleSS
+Aos 14.26 minutos, SUP Zeitnot eliminou M19 VincentVega
+Aos 17.548 minutos, SUP fabFabulous eliminou M19 TeamleSS
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6982
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/220404?gameHash=eec1653ac219e492
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: CRW
+Time Vermelho: VP
+Vencedor: VP
+Placar: CRW: 0 x 1 :VP
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 14.6 minutos, VP eliminou WATER_DRAGON
+Aos 31.861 minutos, VP eliminou AIR_DRAGON
+Aos 21.735 minutos, VP eliminou WATER_DRAGON
+Aos 33.565 minutos, VP eliminou BARON_NASHOR
+Aos 26.155 minutos, VP eliminou BARON_NASHOR
+Aos 16.267 minutos, VP eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 13.169 minutos, CRW Naehyun eliminou VP P1noy
+Aos 13.183 minutos, CRW Mojito eliminou VP Kreox
+Aos 18.175 minutos, CRW Naehyun eliminou VP Doxy
+Aos 19.979 minutos, CRW Naehyun eliminou VP SaNTas
+Aos 26.703 minutos, CRW Naehyun eliminou VP Paranoia
+Aos 34.671 minutos, CRW Madness eliminou VP SaNTas
+Aos 2.735 minutos, VP Kreox eliminou CRW Elwind
+Aos 3.181 minutos, VP Kreox eliminou CRW Mojito
+Aos 6.023 minutos, VP SaNTas eliminou CRW Mocha
+Aos 7.959 minutos, VP Kreox eliminou CRW Madness
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6983
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/230383?gameHash=52bc0d6014b8cfe4
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FB
+Time Vermelho: VEG
+Vencedor: FB
+Placar: FB: 1 x 0 :VEG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.682 minutos, FB eliminou AIR_DRAGON
+Aos 25.882 minutos, FB eliminou EARTH_DRAGON
+Aos 19.271 minutos, FB eliminou EARTH_DRAGON
+Aos 27.386 minutos, FB eliminou BARON_NASHOR
+Aos 11.462 minutos, VEG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 13.205 minutos, FB Japone eliminou VEG Optimas
+Aos 17.783 minutos, FB Move eliminou VEG Optimas
+Aos 17.802 minutos, FB Frozen eliminou VEG Zanzarah
+Aos 19.091 minutos, FB Frozen eliminou VEG Nomanz
+Aos 20.989 minutos, FB Frozen eliminou VEG Zanzarah
+Aos 22.798 minutos, FB Move eliminou VEG NoNholy
+Aos 24.571 minutos, FB Frozen eliminou VEG delord
+Aos 24.613 minutos, FB Frozen eliminou VEG Zanzarah
+Aos 24.704 minutos, FB padden eliminou VEG Optimas
+Aos 24.737 minutos, FB padden eliminou VEG NoNholy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6984
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/230388?gameHash=5560a2f1dedcb2b6
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: VEG
+Time Vermelho: FB
+Vencedor: FB
+Placar: VEG: 0 x 1 :FB
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.618 minutos, VEG eliminou RIFT_HERALD
+Aos 20.45 minutos, FB eliminou WATER_DRAGON
+Aos 13.125 minutos, FB eliminou AIR_DRAGON
+Aos 24.501 minutos, FB eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.137 minutos, VEG NoNholy eliminou FB Move
+Aos 3.258 minutos, VEG delord eliminou FB padden
+Aos 8.982 minutos, VEG Zanzarah eliminou FB Frozen
+Aos 10.358 minutos, VEG delord eliminou FB Japone
+Aos 14.048 minutos, VEG delord eliminou FB Move
+Aos 19.493 minutos, VEG delord eliminou FB Move
+Aos 24.374 minutos, VEG delord eliminou FB Japone
+Aos 24.523 minutos, VEG Optimas eliminou FB Move
+Aos 27.397 minutos, VEG delord eliminou FB Japone
+Aos 3.242 minutos, FB Japone eliminou VEG Optimas
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6985
+SourceAddress: http://matchhistory.euw.leagueoflegends.com/en/#match-details/ESPORTSTMNT04/230390?gameHash=17da0bc2bde6d69f
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FB
+Time Vermelho: VEG
+Vencedor: FB
+Placar: FB: 1 x 0 :VEG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.204 minutos, FB eliminou EARTH_DRAGON
+Aos 14.959 minutos, FB eliminou FIRE_DRAGON
+Aos 24.026 minutos, FB eliminou BARON_NASHOR
+Aos 13.785 minutos, FB eliminou RIFT_HERALD
+Aos 8.523 minutos, VEG eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 5.942 minutos, FB Thaldrin eliminou VEG NoNholy
+Aos 8.583 minutos, FB Frozen eliminou VEG delord
+Aos 8.673 minutos, FB padden eliminou VEG Zanzarah
+Aos 10.563 minutos, FB Move eliminou VEG Nomanz
+Aos 10.928 minutos, FB Thaldrin eliminou VEG Zanzarah
+Aos 12.085 minutos, FB Frozen eliminou VEG delord
+Aos 16.605 minutos, FB Thaldrin eliminou VEG NoNholy
+Aos 16.614 minutos, FB Japone eliminou VEG Zanzarah
+Aos 16.66 minutos, FB padden eliminou VEG Optimas
+Aos 16.727 minutos, FB Frozen eliminou VEG delord
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6986
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150053?gameHash=71aa21bb3b9cb813
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: G2
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: G2: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.977 minutos, G2 eliminou AIR_DRAGON
+Aos 11.711 minutos, G2 eliminou AIR_DRAGON
+Aos 38.075 minutos, TSM eliminou ELDER_DRAGON
+Aos 18.11 minutos, TSM eliminou WATER_DRAGON
+Aos 31.415 minutos, TSM eliminou FIRE_DRAGON
+Aos 38.431 minutos, TSM eliminou BARON_NASHOR
+Aos 31.035 minutos, TSM eliminou BARON_NASHOR
+Aos 17.159 minutos, TSM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.189 minutos, G2 Expect eliminou TSM Svenskeren
+Aos 9.012 minutos, G2 Trick eliminou TSM Hauntzer
+Aos 13.313 minutos, G2 Zven eliminou TSM Svenskeren
+Aos 23.157 minutos, G2 Zven eliminou TSM Hauntzer
+Aos 25.879 minutos, G2 Perkz eliminou TSM Svenskeren
+Aos 26.052 minutos, G2 Perkz eliminou TSM Bjergsen
+Aos 35.926 minutos, G2 Perkz eliminou TSM Biofrost
+Aos 36.114 minutos, G2 Zven eliminou TSM Bjergsen
+Aos 36.475 minutos, G2 Perkz eliminou TSM Hauntzer
+Aos 40.568 minutos, G2 Perkz eliminou TSM Svenskeren
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6987
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150063?gameHash=cc875be6212381fe
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FNC
+Time Vermelho: P1
+Vencedor: FNC
+Placar: FNC: 1 x 0 :P1
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 37.273 minutos, FNC eliminou BARON_NASHOR
+Aos 29.118 minutos, FNC eliminou BARON_NASHOR
+Aos 32.312 minutos, P1 eliminou FIRE_DRAGON
+Aos 25.201 minutos, P1 eliminou EARTH_DRAGON
+Aos 18.487 minutos, P1 eliminou AIR_DRAGON
+Aos 15.903 minutos, P1 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 19.11 minutos, FNC sOAZ eliminou P1 Arrow
+Aos 20.716 minutos, FNC Rekkles eliminou P1 MikeYeung
+Aos 25.447 minutos, FNC Rekkles eliminou P1 Ryu
+Aos 28.513 minutos, FNC Caps eliminou P1 MikeYeung
+Aos 28.623 minutos, FNC Rekkles eliminou P1 Ryu
+Aos 36.865 minutos, FNC Caps eliminou P1 MikeYeung
+Aos 37.42 minutos, FNC Caps eliminou P1 Xpecial
+Aos 37.491 minutos, FNC Caps eliminou P1 Arrow
+Aos 37.505 minutos, FNC Rekkles eliminou P1 Ryu
+Aos 37.53 minutos, FNC Caps eliminou P1 zig
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6988
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150070?gameHash=4cf65896328b9617
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: G2
+Time Vermelho: C9
+Vencedor: G2
+Placar: G2: 1 x 0 :C9
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.168 minutos, G2 eliminou EARTH_DRAGON
+Aos 39.071 minutos, G2 eliminou ELDER_DRAGON
+Aos 32.63 minutos, G2 eliminou FIRE_DRAGON
+Aos 19.792 minutos, G2 eliminou WATER_DRAGON
+Aos 6.987 minutos, G2 eliminou WATER_DRAGON
+Aos 13.573 minutos, G2 eliminou WATER_DRAGON
+Aos 39.529 minutos, G2 eliminou BARON_NASHOR
+Aos 46.945 minutos, G2 eliminou BARON_NASHOR
+Aos 15.599 minutos, G2 eliminou RIFT_HERALD
+Aos 32.115 minutos, C9 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.353 minutos, G2 Zven eliminou C9 Smoothie
+Aos 10.522 minutos, G2 mithy eliminou C9 Smoothie
+Aos 10.594 minutos, G2 mithy eliminou C9 Contractz
+Aos 14.673 minutos, G2 Trick eliminou C9 Contractz
+Aos 17.404 minutos, G2 Trick eliminou C9 Contractz
+Aos 19.909 minutos, G2 Perkz eliminou C9 Sneaky
+Aos 23.15 minutos, G2 Zven eliminou C9 Smoothie
+Aos 33.568 minutos, G2 Trick eliminou C9 Contractz
+Aos 38.196 minutos, G2 Zven eliminou C9 Sneaky
+Aos 42.895 minutos, G2 Zven eliminou C9 Sneaky
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6989
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150077?gameHash=72a0ea59adffa77e
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: P1
+Time Vermelho: UOL
+Vencedor: P1
+Placar: P1: 1 x 0 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 9.916 minutos, P1 eliminou WATER_DRAGON
+Aos 29.608 minutos, P1 eliminou WATER_DRAGON
+Aos 16.391 minutos, P1 eliminou AIR_DRAGON
+Aos 22.886 minutos, P1 eliminou AIR_DRAGON
+Aos 24.182 minutos, P1 eliminou BARON_NASHOR
+Aos 31.359 minutos, P1 eliminou BARON_NASHOR
+Aos 10.731 minutos, UOL eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.545 minutos, P1 Ryu eliminou UOL Exileh
+Aos 4.975 minutos, P1 Ryu eliminou UOL Exileh
+Aos 7.413 minutos, P1 MikeYeung eliminou UOL Exileh
+Aos 11.382 minutos, P1 Xpecial eliminou UOL Hylissang
+Aos 12.984 minutos, P1 Ryu eliminou UOL Exileh
+Aos 13.264 minutos, P1 Ryu eliminou UOL Vizicsacsi
+Aos 13.334 minutos, P1 Xpecial eliminou UOL Hylissang
+Aos 14.949 minutos, P1 Xpecial eliminou UOL Vizicsacsi
+Aos 15.15 minutos, P1 Ryu eliminou UOL Xerxe
+Aos 20.95 minutos, P1 Ryu eliminou UOL Exileh
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6990
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150081?gameHash=b19c1a94531aa138
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FNC
+Time Vermelho: C9
+Vencedor: C9
+Placar: FNC: 0 x 1 :C9
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.163 minutos, C9 eliminou WATER_DRAGON
+Aos 28.072 minutos, C9 eliminou EARTH_DRAGON
+Aos 13.903 minutos, C9 eliminou FIRE_DRAGON
+Aos 29.157 minutos, C9 eliminou BARON_NASHOR
+Aos 21.957 minutos, C9 eliminou BARON_NASHOR
+Aos 19.129 minutos, C9 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 5.061 minutos, FNC Rekkles eliminou C9 Smoothie
+Aos 8.493 minutos, FNC Rekkles eliminou C9 Smoothie
+Aos 15.782 minutos, FNC Rekkles eliminou C9 Contractz
+Aos 16.605 minutos, FNC Rekkles eliminou C9 Ray
+Aos 18.497 minutos, FNC sOAZ eliminou C9 Contractz
+Aos 20.83 minutos, FNC Rekkles eliminou C9 Ray
+Aos 23.111 minutos, FNC sOAZ eliminou C9 Ray
+Aos 26.377 minutos, FNC Broxah eliminou C9 Jensen
+Aos 26.545 minutos, FNC Broxah eliminou C9 Ray
+Aos 27.042 minutos, FNC Broxah eliminou C9 Smoothie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6991
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150086?gameHash=5d5676a5b56fd788
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: TSM
+Time Vermelho: UOL
+Vencedor: TSM
+Placar: TSM: 1 x 0 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.613 minutos, TSM eliminou WATER_DRAGON
+Aos 13.952 minutos, TSM eliminou EARTH_DRAGON
+Aos 25.154 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 10.823 minutos, TSM Doublelift eliminou UOL Hylissang
+Aos 14.012 minutos, TSM Bjergsen eliminou UOL Exileh
+Aos 15.662 minutos, TSM Hauntzer eliminou UOL Exileh
+Aos 15.678 minutos, TSM Biofrost eliminou UOL Vizicsacsi
+Aos 17.957 minutos, TSM Svenskeren eliminou UOL Xerxe
+Aos 18.013 minutos, TSM Doublelift eliminou UOL Exileh
+Aos 22.319 minutos, TSM Svenskeren eliminou UOL Hylissang
+Aos 24.239 minutos, TSM Doublelift eliminou UOL Hylissang
+Aos 24.529 minutos, TSM Doublelift eliminou UOL Samux
+Aos 24.534 minutos, TSM Doublelift eliminou UOL Exileh
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6992
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150090?gameHash=fa9d25bbc4ab5a6e
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: C9
+Vencedor: UOL
+Placar: UOL: 1 x 0 :C9
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.092 minutos, UOL eliminou EARTH_DRAGON
+Aos 20.568 minutos, UOL eliminou BARON_NASHOR
+Aos 15.153 minutos, UOL eliminou RIFT_HERALD
+Aos 11.796 minutos, C9 eliminou AIR_DRAGON
+Aos 18.433 minutos, C9 eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 1.838 minutos, UOL Samux eliminou C9 Smoothie
+Aos 9.39 minutos, UOL Samux eliminou C9 Ray
+Aos 9.446 minutos, UOL Xerxe eliminou C9 Contractz
+Aos 19.528 minutos, UOL Exileh eliminou C9 Smoothie
+Aos 19.665 minutos, UOL Hylissang eliminou C9 Sneaky
+Aos 20.337 minutos, UOL Hylissang eliminou C9 Contractz
+Aos 20.599 minutos, UOL Exileh eliminou C9 Ray
+Aos 22.515 minutos, UOL Exileh eliminou C9 Sneaky
+Aos 22.742 minutos, UOL Vizicsacsi eliminou C9 Smoothie
+Aos 22.77 minutos, UOL Vizicsacsi eliminou C9 Contractz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6993
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150105?gameHash=570dc4f5260b67e6
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: G2
+Time Vermelho: P1
+Vencedor: P1
+Placar: G2: 0 x 1 :P1
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 7.027 minutos, G2 eliminou WATER_DRAGON
+Aos 13.028 minutos, G2 eliminou RIFT_HERALD
+Aos 21.034 minutos, P1 eliminou EARTH_DRAGON
+Aos 27.245 minutos, P1 eliminou FIRE_DRAGON
+Aos 14.818 minutos, P1 eliminou EARTH_DRAGON
+Aos 21.929 minutos, P1 eliminou BARON_NASHOR
+Aos 29.064 minutos, P1 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.578 minutos, G2 Trick eliminou P1 MikeYeung
+Aos 13.252 minutos, G2 Trick eliminou P1 MikeYeung
+Aos 24.278 minutos, G2 Perkz eliminou P1 zig
+Aos 30.548 minutos, G2 Expect eliminou P1 zig
+Aos 31.731 minutos, G2 Expect eliminou P1 Ryu
+Aos 5.833 minutos, P1 Arrow eliminou G2 mithy
+Aos 8.661 minutos, P1 Ryu eliminou G2 Trick
+Aos 8.722 minutos, P1 MikeYeung eliminou G2 Perkz
+Aos 9.844 minutos, P1 MikeYeung eliminou G2 mithy
+Aos 11.247 minutos, P1 Arrow eliminou G2 Perkz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6994
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150113?gameHash=9d65cd91014f0a28
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: TSM
+Time Vermelho: FNC
+Vencedor: TSM
+Placar: TSM: 1 x 0 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 7.858 minutos, TSM eliminou WATER_DRAGON
+Aos 14.289 minutos, TSM eliminou WATER_DRAGON
+Aos 20.424 minutos, TSM eliminou FIRE_DRAGON
+Aos 26.538 minutos, TSM eliminou FIRE_DRAGON
+Aos 29.076 minutos, TSM eliminou BARON_NASHOR
+Aos 16.439 minutos, FNC eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 9.976 minutos, TSM Bjergsen eliminou FNC Caps
+Aos 12.424 minutos, TSM Bjergsen eliminou FNC Caps
+Aos 12.553 minutos, TSM Doublelift eliminou FNC Broxah
+Aos 16.483 minutos, TSM Bjergsen eliminou FNC sOAZ
+Aos 17.774 minutos, TSM Doublelift eliminou FNC sOAZ
+Aos 24.365 minutos, TSM Hauntzer eliminou FNC Jesiz
+Aos 25.93 minutos, TSM Bjergsen eliminou FNC sOAZ
+Aos 25.998 minutos, TSM Doublelift eliminou FNC Jesiz
+Aos 28.161 minutos, TSM Hauntzer eliminou FNC Jesiz
+Aos 28.302 minutos, TSM Svenskeren eliminou FNC sOAZ
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6995
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150123?gameHash=18e5960bb0c3b4cd
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: G2
+Time Vermelho: C9
+Vencedor: C9
+Placar: G2: 0 x 1 :C9
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.571 minutos, C9 eliminou AIR_DRAGON
+Aos 16.167 minutos, C9 eliminou AIR_DRAGON
+Aos 31.778 minutos, C9 eliminou EARTH_DRAGON
+Aos 27.693 minutos, C9 eliminou BARON_NASHOR
+Aos 35.461 minutos, C9 eliminou BARON_NASHOR
+Aos 18.854 minutos, C9 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.463 minutos, G2 Expect eliminou C9 Ray
+Aos 6.541 minutos, G2 Expect eliminou C9 Ray
+Aos 19.924 minutos, G2 Expect eliminou C9 Sneaky
+Aos 22.332 minutos, G2 Perkz eliminou C9 Sneaky
+Aos 24.129 minutos, G2 Zven eliminou C9 Sneaky
+Aos 24.132 minutos, G2 Perkz eliminou C9 Jensen
+Aos 24.718 minutos, G2 Perkz eliminou C9 Contractz
+Aos 24.864 minutos, G2 Expect eliminou C9 Ray
+Aos 34.714 minutos, G2 Expect eliminou C9 Smoothie
+Aos 6.565 minutos, C9 Ray eliminou G2 Expect
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6996
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150130?gameHash=a2dc8db3eb62b1e3
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: P1
+Time Vermelho: FNC
+Vencedor: FNC
+Placar: P1: 0 x 1 :FNC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.84 minutos, P1 eliminou EARTH_DRAGON
+Aos 11.34 minutos, P1 eliminou FIRE_DRAGON
+Aos 17.64 minutos, P1 eliminou EARTH_DRAGON
+Aos 30.016 minutos, P1 eliminou EARTH_DRAGON
+Aos 34.213 minutos, P1 eliminou BARON_NASHOR
+Aos 14.395 minutos, P1 eliminou RIFT_HERALD
+Aos 25.895 minutos, FNC eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 7.58 minutos, P1 Arrow eliminou FNC Jesiz
+Aos 13.142 minutos, P1 zig eliminou FNC sOAZ
+Aos 18.07 minutos, P1 Ryu eliminou FNC Caps
+Aos 18.092 minutos, P1 Xpecial eliminou FNC Broxah
+Aos 18.403 minutos, P1 Ryu eliminou FNC Rekkles
+Aos 19.885 minutos, P1 Arrow eliminou FNC Rekkles
+Aos 21.663 minutos, P1 Arrow eliminou FNC Caps
+Aos 21.838 minutos, P1 MikeYeung eliminou FNC Jesiz
+Aos 25.956 minutos, P1 zig eliminou FNC Caps
+Aos 26.027 minutos, P1 Ryu eliminou FNC Jesiz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6997
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002150141?gameHash=82c0281461010217
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: TSM
+Time Vermelho: UOL
+Vencedor: UOL
+Placar: TSM: 0 x 1 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 18.543 minutos, TSM eliminou EARTH_DRAGON
+Aos 12.184 minutos, TSM eliminou EARTH_DRAGON
+Aos 24.884 minutos, TSM eliminou AIR_DRAGON
+Aos 18.687 minutos, TSM eliminou RIFT_HERALD
+Aos 26.573 minutos, UOL eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.909 minutos, TSM Doublelift eliminou UOL Samux
+Aos 5.132 minutos, TSM Hauntzer eliminou UOL Vizicsacsi
+Aos 9.196 minutos, TSM Hauntzer eliminou UOL Vizicsacsi
+Aos 10.854 minutos, TSM Bjergsen eliminou UOL Exileh
+Aos 11.898 minutos, TSM Hauntzer eliminou UOL Vizicsacsi
+Aos 13.387 minutos, TSM Bjergsen eliminou UOL Exileh
+Aos 16.198 minutos, TSM Bjergsen eliminou UOL Hylissang
+Aos 16.408 minutos, TSM Hauntzer eliminou UOL Samux
+Aos 17.446 minutos, TSM Bjergsen eliminou UOL Exileh
+Aos 17.827 minutos, TSM Bjergsen eliminou UOL Hylissang
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6998
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002160128?gameHash=e8d8afd7900f27e3
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: G2
+Time Vermelho: P1
+Vencedor: P1
+Placar: G2: 0 x 1 :P1
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.333 minutos, G2 eliminou AIR_DRAGON
+Aos 16.533 minutos, G2 eliminou WATER_DRAGON
+Aos 31.307 minutos, G2 eliminou BARON_NASHOR
+Aos 10.59 minutos, G2 eliminou RIFT_HERALD
+Aos 31.907 minutos, P1 eliminou WATER_DRAGON
+Aos 10.001 minutos, P1 eliminou FIRE_DRAGON
+Aos 23.002 minutos, P1 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.138 minutos, G2 Trick eliminou P1 zig
+Aos 4.151 minutos, G2 Expect eliminou P1 zig
+Aos 12.347 minutos, G2 Expect eliminou P1 zig
+Aos 16.941 minutos, G2 Zven eliminou P1 Ryu
+Aos 24.703 minutos, G2 Expect eliminou P1 Ryu
+Aos 30.099 minutos, G2 Trick eliminou P1 Ryu
+Aos 30.93 minutos, G2 Trick eliminou P1 Arrow
+Aos 31.354 minutos, G2 Zven eliminou P1 MikeYeung
+Aos 32.956 minutos, G2 Zven eliminou P1 MikeYeung
+Aos 33.096 minutos, G2 Zven eliminou P1 zig
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 6999
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002160139?gameHash=7be255d9e193b62b
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: C9
+Vencedor: UOL
+Placar: UOL: 1 x 0 :C9
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 36.068 minutos, UOL eliminou AIR_DRAGON
+Aos 29.375 minutos, UOL eliminou BARON_NASHOR
+Aos 14.717 minutos, UOL eliminou RIFT_HERALD
+Aos 26.112 minutos, C9 eliminou EARTH_DRAGON
+Aos 13.391 minutos, C9 eliminou EARTH_DRAGON
+Aos 19.49 minutos, C9 eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 3.918 minutos, UOL Xerxe eliminou C9 Ray
+Aos 28.547 minutos, UOL Samux eliminou C9 Contractz
+Aos 28.578 minutos, UOL Xerxe eliminou C9 Ray
+Aos 28.668 minutos, UOL Exileh eliminou C9 Smoothie
+Aos 28.747 minutos, UOL Samux eliminou C9 Sneaky
+Aos 34.476 minutos, UOL Xerxe eliminou C9 Jensen
+Aos 34.57 minutos, UOL Samux eliminou C9 Smoothie
+Aos 34.596 minutos, UOL Samux eliminou C9 Sneaky
+Aos 36.386 minutos, UOL Hylissang eliminou C9 Contractz
+Aos 36.39 minutos, UOL Samux eliminou C9 Smoothie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7000
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002160146?gameHash=caf6374731e82426
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FNC
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: FNC: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.891 minutos, TSM eliminou WATER_DRAGON
+Aos 11.28 minutos, TSM eliminou AIR_DRAGON
+Aos 17.98 minutos, TSM eliminou EARTH_DRAGON
+Aos 28.202 minutos, TSM eliminou BARON_NASHOR
+Aos 21.022 minutos, TSM eliminou BARON_NASHOR
+Aos 16.322 minutos, TSM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 21.224 minutos, FNC Rekkles eliminou TSM Hauntzer
+Aos 25.129 minutos, FNC Caps eliminou TSM Biofrost
+Aos 25.61 minutos, FNC Broxah eliminou TSM Doublelift
+Aos 30.352 minutos, FNC Caps eliminou TSM Doublelift
+Aos 0.85 minutos, TooEarly eliminou TooEarly
+Aos 2.676 minutos, TSM Svenskeren eliminou FNC Broxah
+Aos 10.444 minutos, TSM Svenskeren eliminou FNC Broxah
+Aos 10.678 minutos, TSM Svenskeren eliminou FNC sOAZ
+Aos 10.748 minutos, TSM Hauntzer eliminou FNC Caps
+Aos 10.825 minutos, TSM Doublelift eliminou FNC Jesiz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7001
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002160161?gameHash=90dd32598d2246d1
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: P1
+Time Vermelho: UOL
+Vencedor: P1
+Placar: P1: 1 x 0 :UOL
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.111 minutos, P1 eliminou WATER_DRAGON
+Aos 20.994 minutos, P1 eliminou AIR_DRAGON
+Aos 35.721 minutos, P1 eliminou BARON_NASHOR
+Aos 28.274 minutos, P1 eliminou BARON_NASHOR
+Aos 19.61 minutos, P1 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.807 minutos, P1 MikeYeung eliminou UOL Vizicsacsi
+Aos 13.914 minutos, P1 Ryu eliminou UOL Exileh
+Aos 14.194 minutos, P1 Ryu eliminou UOL Hylissang
+Aos 16.636 minutos, P1 MikeYeung eliminou UOL Exileh
+Aos 17.148 minutos, P1 zig eliminou UOL Vizicsacsi
+Aos 19.067 minutos, P1 Arrow eliminou UOL Vizicsacsi
+Aos 27.346 minutos, P1 MikeYeung eliminou UOL Exileh
+Aos 27.445 minutos, P1 MikeYeung eliminou UOL Vizicsacsi
+Aos 28.207 minutos, P1 MikeYeung eliminou UOL Xerxe
+Aos 30.56 minutos, P1 MikeYeung eliminou UOL Xerxe
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7002
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002160165?gameHash=6bc48a127354bcea
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FNC
+Time Vermelho: C9
+Vencedor: C9
+Placar: FNC: 0 x 1 :C9
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.964 minutos, FNC eliminou AIR_DRAGON
+Aos 16.232 minutos, FNC eliminou AIR_DRAGON
+Aos 9.884 minutos, C9 eliminou WATER_DRAGON
+Aos 25.926 minutos, C9 eliminou BARON_NASHOR
+Aos 12.062 minutos, C9 eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 15.355 minutos, FNC Rekkles eliminou C9 Smoothie
+Aos 18.692 minutos, FNC Broxah eliminou C9 Impact
+Aos 19.493 minutos, FNC sOAZ eliminou C9 Sneaky
+Aos 19.966 minutos, FNC Caps eliminou C9 Impact
+Aos 22.137 minutos, FNC Rekkles eliminou C9 Impact
+Aos 29.42 minutos, FNC Rekkles eliminou C9 Impact
+Aos 29.694 minutos, FNC Caps eliminou C9 Contractz
+Aos 9.971 minutos, C9 Sneaky eliminou FNC Jesiz
+Aos 11.299 minutos, C9 Sneaky eliminou FNC sOAZ
+Aos 13.36 minutos, C9 Sneaky eliminou FNC Jesiz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7003
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002160173?gameHash=650ec39f717bc9f8
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: TSM
+Time Vermelho: G2
+Vencedor: TSM
+Placar: TSM: 1 x 0 :G2
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 22.378 minutos, TSM eliminou AIR_DRAGON
+Aos 46.044 minutos, TSM eliminou BARON_NASHOR
+Aos 35.568 minutos, TSM eliminou BARON_NASHOR
+Aos 16.144 minutos, TSM eliminou RIFT_HERALD
+Aos 29.005 minutos, G2 eliminou AIR_DRAGON
+Aos 35.668 minutos, G2 eliminou ELDER_DRAGON
+Aos 9.981 minutos, G2 eliminou AIR_DRAGON
+Aos 16.212 minutos, G2 eliminou FIRE_DRAGON
+Aos 46.199 minutos, G2 eliminou ELDER_DRAGON
+Aos 25.59 minutos, G2 eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.382 minutos, TSM Bjergsen eliminou G2 Perkz
+Aos 7.286 minutos, TSM Hauntzer eliminou G2 Expect
+Aos 7.802 minutos, TSM Bjergsen eliminou G2 Perkz
+Aos 10.215 minutos, TSM Hauntzer eliminou G2 Expect
+Aos 10.532 minutos, TSM Bjergsen eliminou G2 Trick
+Aos 18.902 minutos, TSM Bjergsen eliminou G2 Trick
+Aos 22.76 minutos, TSM Hauntzer eliminou G2 Perkz
+Aos 23.765 minutos, TSM Doublelift eliminou G2 Perkz
+Aos 25.639 minutos, TSM Svenskeren eliminou G2 Trick
+Aos 26.015 minutos, TSM Hauntzer eliminou G2 Expect
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7004
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002160182?gameHash=c65e3bcc63177b10
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: UOL: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.1 minutos, TSM eliminou WATER_DRAGON
+Aos 9.54 minutos, TSM eliminou EARTH_DRAGON
+Aos 29.294 minutos, TSM eliminou WATER_DRAGON
+Aos 22.375 minutos, TSM eliminou EARTH_DRAGON
+Aos 23.447 minutos, TSM eliminou BARON_NASHOR
+Aos 12.508 minutos, TSM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.499 minutos, UOL Exileh eliminou TSM Bjergsen
+Aos 14.214 minutos, UOL Vizicsacsi eliminou TSM Hauntzer
+Aos 27.898 minutos, UOL Samux eliminou TSM Doublelift
+Aos 30.063 minutos, UOL Samux eliminou TSM Hauntzer
+Aos 8.199 minutos, TSM Svenskeren eliminou UOL Samux
+Aos 8.908 minutos, TSM Bjergsen eliminou UOL Exileh
+Aos 11.647 minutos, TSM Svenskeren eliminou UOL Hylissang
+Aos 11.695 minutos, TSM Svenskeren eliminou UOL Xerxe
+Aos 11.819 minutos, TSM Svenskeren eliminou UOL Exileh
+Aos 11.822 minutos, TSM Bjergsen eliminou UOL Samux
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7005
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002160193?gameHash=78034a2002656e88
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: UOL: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.264 minutos, UOL eliminou AIR_DRAGON
+Aos 10.443 minutos, TSM eliminou AIR_DRAGON
+Aos 23.768 minutos, TSM eliminou FIRE_DRAGON
+Aos 22.24 minutos, TSM eliminou BARON_NASHOR
+Aos 15.299 minutos, TSM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 13.538 minutos, UOL Exileh eliminou TSM Bjergsen
+Aos 15.568 minutos, UOL Exileh eliminou TSM Hauntzer
+Aos 21.169 minutos, UOL Exileh eliminou TSM Svenskeren
+Aos 21.401 minutos, UOL Xerxe eliminou TSM Doublelift
+Aos 21.794 minutos, UOL Exileh eliminou TSM Bjergsen
+Aos 21.896 minutos, UOL Exileh eliminou TSM Biofrost
+Aos 3.778 minutos, TSM Hauntzer eliminou UOL Samux
+Aos 3.809 minutos, TSM Hauntzer eliminou UOL Hylissang
+Aos 8.602 minutos, TSM Bjergsen eliminou UOL Vizicsacsi
+Aos 11.344 minutos, TSM Hauntzer eliminou UOL Hylissang
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7006
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH3/1002160194?gameHash=a9532b99648e1615
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: UOL
+Time Vermelho: TSM
+Vencedor: TSM
+Placar: UOL: 0 x 1 :TSM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.632 minutos, UOL eliminou WATER_DRAGON
+Aos 17.751 minutos, UOL eliminou RIFT_HERALD
+Aos 30.16 minutos, TSM eliminou WATER_DRAGON
+Aos 13.758 minutos, TSM eliminou AIR_DRAGON
+Aos 33.772 minutos, TSM eliminou BARON_NASHOR
+Aos 25.895 minutos, TSM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 2.232 minutos, UOL Hylissang eliminou TSM Biofrost
+Aos 5.723 minutos, UOL Samux eliminou TSM Biofrost
+Aos 9.934 minutos, UOL Xerxe eliminou TSM Bjergsen
+Aos 16.17 minutos, UOL Vizicsacsi eliminou TSM Doublelift
+Aos 17.364 minutos, UOL Samux eliminou TSM Doublelift
+Aos 18.574 minutos, UOL Samux eliminou TSM Bjergsen
+Aos 19.114 minutos, UOL Exileh eliminou TSM Hauntzer
+Aos 19.14 minutos, UOL Samux eliminou TSM Biofrost
+Aos 21.379 minutos, UOL Exileh eliminou TSM Doublelift
+Aos 28.559 minutos, UOL Samux eliminou TSM Hauntzer
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7007
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290544?gameHash=774394ef5fb62b60
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: LYN
+Time Vermelho: ISG
+Vencedor: LYN
+Placar: LYN: 1 x 0 :ISG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 7.472 minutos, LYN eliminou FIRE_DRAGON
+Aos 19.997 minutos, LYN eliminou WATER_DRAGON
+Aos 26.208 minutos, LYN eliminou EARTH_DRAGON
+Aos 13.74 minutos, LYN eliminou FIRE_DRAGON
+Aos 28.001 minutos, LYN eliminou BARON_NASHOR
+Aos 12.544 minutos, ISG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.109 minutos, LYN Oddie eliminou ISG QQmore
+Aos 3.84 minutos, LYN MarioMe eliminou ISG Kindless
+Aos 4.138 minutos, LYN MarioMe eliminou ISG Newbie
+Aos 8.32 minutos, LYN Oddie eliminou ISG Pride
+Aos 10.556 minutos, LYN Genthix eliminou ISG emp
+Aos 12.206 minutos, LYN Oddie eliminou ISG Pride
+Aos 14.46 minutos, LYN Oddie eliminou ISG emp
+Aos 14.699 minutos, LYN Seiya eliminou ISG Pride
+Aos 17.571 minutos, LYN MarioMe eliminou ISG QQmore
+Aos 17.645 minutos, LYN Oddie eliminou ISG Newbie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7008
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290555?gameHash=5ace28c66e6123db
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: JTH
+Time Vermelho: RED
+Vencedor: RED
+Placar: JTH: 0 x 1 :RED
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 13.116 minutos, RED eliminou EARTH_DRAGON
+Aos 22.388 minutos, RED eliminou AIR_DRAGON
+Aos 24.753 minutos, RED eliminou BARON_NASHOR
+Aos 15.061 minutos, RED eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.962 minutos, JTH t4nky eliminou RED tockers
+Aos 5.574 minutos, JTH Porky eliminou RED Robo
+Aos 11.671 minutos, JTH Hobbler eliminou RED Nappon
+Aos 19.548 minutos, JTH t4nky eliminou RED Nappon
+Aos 20.431 minutos, JTH Hobbler eliminou RED brTT
+Aos 20.727 minutos, JTH EvanRL eliminou RED Robo
+Aos 2.783 minutos, RED Nappon eliminou JTH Hobbler
+Aos 3.235 minutos, RED Nappon eliminou JTH DCStar
+Aos 3.239 minutos, RED brTT eliminou JTH EvanRL
+Aos 4.924 minutos, RED Nappon eliminou JTH Hobbler
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7009
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290561?gameHash=83428dc4044c687c
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: KST
+Time Vermelho: FG
+Vencedor: FG
+Placar: KST: 0 x 1 :FG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.474 minutos, KST eliminou EARTH_DRAGON
+Aos 23.956 minutos, KST eliminou WATER_DRAGON
+Aos 30.224 minutos, KST eliminou BARON_NASHOR
+Aos 6.786 minutos, FG eliminou WATER_DRAGON
+Aos 30.547 minutos, FG eliminou AIR_DRAGON
+Aos 37.376 minutos, FG eliminou ELDER_DRAGON
+Aos 38.066 minutos, FG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 11.919 minutos, KST Yang eliminou FG uri
+Aos 20.893 minutos, KST Revolta eliminou FG prodi
+Aos 23.033 minutos, KST Yang eliminou FG Acce
+Aos 35.189 minutos, KST takeshi eliminou FG Acce
+Aos 35.663 minutos, KST takeshi eliminou FG Khynm
+Aos 41.755 minutos, KST takeshi eliminou FG Khynm
+Aos 41.869 minutos, KST Yang eliminou FG prodi
+Aos 11.904 minutos, FG uri eliminou KST Revolta
+Aos 12.01 minutos, FG prodi eliminou KST Yang
+Aos 18.019 minutos, FG uri eliminou KST Yang
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7010
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/ESPORTSTMNT06/290565?gameHash=b4281672dd7eabf3
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: ISG
+Time Vermelho: JTH
+Vencedor: ISG
+Placar: ISG: 1 x 0 :JTH
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 38.898 minutos, ISG eliminou ELDER_DRAGON
+Aos 17.811 minutos, ISG eliminou WATER_DRAGON
+Aos 35.911 minutos, ISG eliminou BARON_NASHOR
+Aos 28.61 minutos, ISG eliminou BARON_NASHOR
+Aos 31.813 minutos, JTH eliminou FIRE_DRAGON
+Aos 25.728 minutos, JTH eliminou WATER_DRAGON
+Aos 43.543 minutos, JTH eliminou BARON_NASHOR
+Aos 16.196 minutos, JTH eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.294 minutos, ISG Pride eliminou JTH Porky
+Aos 11.558 minutos, ISG Kindless eliminou JTH DCStar
+Aos 12.221 minutos, ISG Kindless eliminou JTH t4nky
+Aos 13.332 minutos, ISG emp eliminou JTH t4nky
+Aos 13.418 minutos, ISG Newbie eliminou JTH EvanRL
+Aos 13.473 minutos, ISG Kindless eliminou JTH DCStar
+Aos 16.943 minutos, ISG QQmore eliminou JTH Porky
+Aos 24.911 minutos, ISG Newbie eliminou JTH t4nky
+Aos 27.866 minutos, ISG Pride eliminou JTH Porky
+Aos 28.601 minutos, ISG emp eliminou JTH t4nky
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7011
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290574?gameHash=c4df9dba35815e4d
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: LYN
+Time Vermelho: KST
+Vencedor: KST
+Placar: LYN: 0 x 1 :KST
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 14.748 minutos, KST eliminou AIR_DRAGON
+Aos 27.568 minutos, KST eliminou AIR_DRAGON
+Aos 21.019 minutos, KST eliminou FIRE_DRAGON
+Aos 30.721 minutos, KST eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 15.845 minutos, LYN Genthix eliminou KST esA
+Aos 24.555 minutos, LYN MarioMe eliminou KST Juzinho
+Aos 3.273 minutos, KST Revolta eliminou LYN Genthix
+Aos 4.679 minutos, KST Yang eliminou LYN Oddie
+Aos 18.446 minutos, KST Revolta eliminou LYN Oddie
+Aos 21.084 minutos, KST takeshi eliminou LYN Oddie
+Aos 24.551 minutos, KST Juzinho eliminou LYN MarioMe
+Aos 25.399 minutos, KST Yang eliminou LYN Seiya
+Aos 30.068 minutos, KST takeshi eliminou LYN Seiya
+Aos 30.212 minutos, KST Juzinho eliminou LYN Genthix
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7012
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290578?gameHash=681f4e2790498c35
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FG
+Time Vermelho: RED
+Vencedor: FG
+Placar: FG: 1 x 0 :RED
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 9.709 minutos, FG eliminou FIRE_DRAGON
+Aos 35.957 minutos, FG eliminou ELDER_DRAGON
+Aos 29.74 minutos, FG eliminou EARTH_DRAGON
+Aos 22.66 minutos, FG eliminou EARTH_DRAGON
+Aos 16.173 minutos, FG eliminou WATER_DRAGON
+Aos 47.495 minutos, FG eliminou ELDER_DRAGON
+Aos 45.882 minutos, FG eliminou BARON_NASHOR
+Aos 31.155 minutos, FG eliminou BARON_NASHOR
+Aos 38.33 minutos, FG eliminou BARON_NASHOR
+Aos 21.028 minutos, FG eliminou BARON_NASHOR
+Aos 11.804 minutos, RED eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 7.282 minutos, FG uri eliminou RED Robo
+Aos 13.819 minutos, FG prodi eliminou RED Nappon
+Aos 15.422 minutos, FG Tulz eliminou RED Robo
+Aos 15.5 minutos, FG prodi eliminou RED tockers
+Aos 15.639 minutos, FG uri eliminou RED Nappon
+Aos 18.818 minutos, FG uri eliminou RED tockers
+Aos 20.434 minutos, FG Acce eliminou RED Nappon
+Aos 20.439 minutos, FG prodi eliminou RED Rhuckz
+Aos 21.16 minutos, FG prodi eliminou RED tockers
+Aos 21.222 minutos, FG prodi eliminou RED Sacy
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7013
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290606?gameHash=9f8172291d5a3d95
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RED
+Time Vermelho: ISG
+Vencedor: ISG
+Placar: RED: 0 x 1 :ISG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.278 minutos, RED eliminou EARTH_DRAGON
+Aos 22.509 minutos, RED eliminou EARTH_DRAGON
+Aos 32.261 minutos, RED eliminou BARON_NASHOR
+Aos 28.796 minutos, ISG eliminou FIRE_DRAGON
+Aos 37.038 minutos, ISG eliminou FIRE_DRAGON
+Aos 24.85 minutos, ISG eliminou BARON_NASHOR
+Aos 40.3 minutos, ISG eliminou BARON_NASHOR
+Aos 15.842 minutos, ISG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 1.248 minutos, RED brTT eliminou ISG Newbie
+Aos 2.307 minutos, RED Nappon eliminou ISG Pride
+Aos 4.99 minutos, RED brTT eliminou ISG Newbie
+Aos 13.006 minutos, RED tockers eliminou ISG QQmore
+Aos 21.792 minutos, RED tockers eliminou ISG Kindless
+Aos 21.985 minutos, RED tockers eliminou ISG Newbie
+Aos 24.782 minutos, RED tockers eliminou ISG Pride
+Aos 26.91 minutos, RED brTT eliminou ISG Kindless
+Aos 28.6 minutos, RED Robo eliminou ISG Pride
+Aos 36.212 minutos, RED Nappon eliminou ISG Pride
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7014
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290612?gameHash=47073bad96876fb6
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: KST
+Time Vermelho: JTH
+Vencedor: KST
+Placar: KST: 1 x 0 :JTH
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.947 minutos, KST eliminou FIRE_DRAGON
+Aos 23.475 minutos, KST eliminou FIRE_DRAGON
+Aos 36.933 minutos, KST eliminou ELDER_DRAGON
+Aos 33.034 minutos, KST eliminou BARON_NASHOR
+Aos 17.285 minutos, JTH eliminou AIR_DRAGON
+Aos 23.589 minutos, JTH eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 16.107 minutos, KST Yang eliminou JTH Porky
+Aos 23.612 minutos, KST Yang eliminou JTH Hobbler
+Aos 23.661 minutos, KST Yang eliminou JTH DCStar
+Aos 23.84 minutos, KST Juzinho eliminou JTH EvanRL
+Aos 29.847 minutos, KST Revolta eliminou JTH t4nky
+Aos 32.295 minutos, KST Revolta eliminou JTH DCStar
+Aos 32.357 minutos, KST Yang eliminou JTH Hobbler
+Aos 32.952 minutos, KST takeshi eliminou JTH Porky
+Aos 32.988 minutos, KST Juzinho eliminou JTH t4nky
+Aos 35.012 minutos, KST Yang eliminou JTH Porky
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7015
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290618?gameHash=337fb24fd5485760
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: FG
+Time Vermelho: LYN
+Vencedor: LYN
+Placar: FG: 0 x 1 :LYN
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.699 minutos, FG eliminou WATER_DRAGON
+Aos 32.514 minutos, FG eliminou FIRE_DRAGON
+Aos 40.38 minutos, LYN eliminou ELDER_DRAGON
+Aos 18.958 minutos, LYN eliminou WATER_DRAGON
+Aos 25.217 minutos, LYN eliminou WATER_DRAGON
+
+=== ABATES ===
+Aos 10.96 minutos, FG Acce eliminou LYN Oddie
+Aos 20.394 minutos, FG uri eliminou LYN Genthix
+Aos 29.159 minutos, FG Acce eliminou LYN Jirall
+Aos 33.151 minutos, FG Khynm eliminou LYN MarioMe
+Aos 36.643 minutos, FG Acce eliminou LYN Seiya
+Aos 37.736 minutos, FG uri eliminou LYN Genthix
+Aos 37.819 minutos, FG prodi eliminou LYN MarioMe
+Aos 37.934 minutos, FG Tulz eliminou LYN Oddie
+Aos 39.717 minutos, FG Acce eliminou LYN Genthix
+Aos 40.445 minutos, FG uri eliminou LYN MarioMe
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7016
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290626?gameHash=82e8e85a35c7c3e1
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: ISG
+Time Vermelho: KST
+Vencedor: KST
+Placar: ISG: 0 x 1 :KST
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 14.619 minutos, ISG eliminou WATER_DRAGON
+Aos 8.319 minutos, ISG eliminou EARTH_DRAGON
+Aos 10.743 minutos, ISG eliminou RIFT_HERALD
+Aos 21.815 minutos, KST eliminou EARTH_DRAGON
+Aos 28.485 minutos, KST eliminou EARTH_DRAGON
+Aos 24.509 minutos, KST eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 20.467 minutos, ISG Kindless eliminou KST Revolta
+Aos 9.712 minutos, KST Juzinho eliminou ISG Pride
+Aos 23.348 minutos, KST takeshi eliminou ISG Pride
+Aos 26.488 minutos, KST Revolta eliminou ISG Pride
+Aos 26.523 minutos, KST takeshi eliminou ISG emp
+Aos 28.212 minutos, KST Revolta eliminou ISG Pride
+Aos 28.394 minutos, KST Juzinho eliminou ISG QQmore
+Aos 32.009 minutos, KST Juzinho eliminou ISG QQmore
+Aos 32.416 minutos, KST Revolta eliminou ISG Kindless
+Aos 32.555 minutos, KST Revolta eliminou ISG emp
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7017
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290631?gameHash=f3c6222e75bce2bd
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RED
+Time Vermelho: LYN
+Vencedor: RED
+Placar: RED: 1 x 0 :LYN
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 33.493 minutos, RED eliminou AIR_DRAGON
+Aos 25.195 minutos, RED eliminou AIR_DRAGON
+Aos 41.164 minutos, RED eliminou ELDER_DRAGON
+Aos 12.696 minutos, RED eliminou AIR_DRAGON
+Aos 39.304 minutos, RED eliminou BARON_NASHOR
+Aos 30.927 minutos, RED eliminou BARON_NASHOR
+Aos 19.798 minutos, RED eliminou RIFT_HERALD
+Aos 18.948 minutos, LYN eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 7.128 minutos, RED tockers eliminou LYN Oddie
+Aos 9.528 minutos, RED Rhuckz eliminou LYN Genthix
+Aos 13.342 minutos, RED brTT eliminou LYN MarioMe
+Aos 20.892 minutos, RED tockers eliminou LYN Seiya
+Aos 23.557 minutos, RED tockers eliminou LYN Jirall
+Aos 23.888 minutos, RED Robo eliminou LYN Seiya
+Aos 31.401 minutos, RED Robo eliminou LYN Jirall
+Aos 35.7 minutos, RED tockers eliminou LYN Jirall
+Aos 36.959 minutos, RED tockers eliminou LYN Oddie
+Aos 37.17 minutos, RED Nappon eliminou LYN MarioMe
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7018
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/290639?gameHash=12be90092ef2d016
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: JTH
+Time Vermelho: FG
+Vencedor: FG
+Placar: JTH: 0 x 1 :FG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.469 minutos, FG eliminou EARTH_DRAGON
+Aos 10.587 minutos, FG eliminou AIR_DRAGON
+Aos 17.241 minutos, FG eliminou FIRE_DRAGON
+Aos 14.763 minutos, FG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 13.977 minutos, JTH EvanRL eliminou FG uri
+Aos 18.543 minutos, JTH Porky eliminou FG Khynm
+Aos 20.797 minutos, JTH Hobbler eliminou FG prodi
+Aos 13.35 minutos, FG Acce eliminou JTH Porky
+Aos 18.445 minutos, FG Tulz eliminou JTH Hobbler
+Aos 27.949 minutos, FG Acce eliminou JTH Porky
+Aos 0.7333333333333333 minutos, TooEarly eliminou TooEarly
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7019
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/280694?gameHash=5599420c041036cd
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: KST
+Time Vermelho: LYN
+Vencedor: LYN
+Placar: KST: 0 x 1 :LYN
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.721 minutos, KST eliminou RIFT_HERALD
+Aos 28.042 minutos, LYN eliminou FIRE_DRAGON
+Aos 21.272 minutos, LYN eliminou FIRE_DRAGON
+Aos 15.033 minutos, LYN eliminou WATER_DRAGON
+Aos 28.634 minutos, LYN eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.381 minutos, KST Revolta eliminou LYN Oddie
+Aos 14.671 minutos, KST Yang eliminou LYN Jirall
+Aos 24.458 minutos, KST Yang eliminou LYN Jirall
+Aos 27.188 minutos, KST takeshi eliminou LYN Genthix
+Aos 30.002 minutos, KST takeshi eliminou LYN MarioMe
+Aos 32.65 minutos, KST Yang eliminou LYN Seiya
+Aos 5.377 minutos, LYN Oddie eliminou KST takeshi
+Aos 7.794 minutos, LYN MarioMe eliminou KST Revolta
+Aos 18.31 minutos, LYN MarioMe eliminou KST Juzinho
+Aos 18.684 minutos, LYN Oddie eliminou KST Yang
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7020
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/280697?gameHash=10b5b32d8187bc23
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: JTH
+Time Vermelho: RED
+Vencedor: RED
+Placar: JTH: 0 x 1 :RED
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.283 minutos, RED eliminou EARTH_DRAGON
+Aos 16.256 minutos, RED eliminou WATER_DRAGON
+Aos 23.428 minutos, RED eliminou BARON_NASHOR
+Aos 14.352 minutos, RED eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 9.568 minutos, JTH DCStar eliminou RED brTT
+Aos 9.651 minutos, JTH EvanRL eliminou RED Rhuckz
+Aos 16.433 minutos, JTH EvanRL eliminou RED tockers
+Aos 16.54 minutos, JTH EvanRL eliminou RED Rhuckz
+Aos 22.672 minutos, JTH Porky eliminou RED Rhuckz
+Aos 6.536 minutos, RED brTT eliminou JTH EvanRL
+Aos 6.594 minutos, RED Robo eliminou JTH DCStar
+Aos 9.774 minutos, RED tockers eliminou JTH Hobbler
+Aos 13.673 minutos, RED tockers eliminou JTH DCStar
+Aos 20.4 minutos, RED brTT eliminou JTH Hobbler
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7021
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/280706?gameHash=1f7f6cf7ce71651a
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: KST
+Time Vermelho: JTH
+Vencedor: KST
+Placar: KST: 1 x 0 :JTH
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.984 minutos, KST eliminou WATER_DRAGON
+Aos 17.346 minutos, KST eliminou FIRE_DRAGON
+Aos 33.519 minutos, KST eliminou WATER_DRAGON
+Aos 29.813 minutos, KST eliminou BARON_NASHOR
+Aos 12.784 minutos, KST eliminou RIFT_HERALD
+Aos 10.254 minutos, JTH eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 12.154 minutos, KST Juzinho eliminou JTH t4nky
+Aos 12.29 minutos, KST Juzinho eliminou JTH EvanRL
+Aos 12.299 minutos, KST Yang eliminou JTH Hobbler
+Aos 14.083 minutos, KST takeshi eliminou JTH t4nky
+Aos 14.276 minutos, KST takeshi eliminou JTH EvanRL
+Aos 16.644 minutos, KST takeshi eliminou JTH DCStar
+Aos 16.739 minutos, KST Yang eliminou JTH EvanRL
+Aos 16.771 minutos, KST Yang eliminou JTH t4nky
+Aos 16.822 minutos, KST Yang eliminou JTH Hobbler
+Aos 20.729 minutos, KST esA eliminou JTH DCStar
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7022
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/280708?gameHash=05a97c3360d04cfe
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: LYN
+Time Vermelho: RED
+Vencedor: LYN
+Placar: LYN: 1 x 0 :RED
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 27.35 minutos, LYN eliminou BARON_NASHOR
+Aos 12.534 minutos, LYN eliminou RIFT_HERALD
+Aos 20.417 minutos, RED eliminou AIR_DRAGON
+Aos 26.78 minutos, RED eliminou EARTH_DRAGON
+Aos 13.257 minutos, RED eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 3.384 minutos, LYN Oddie eliminou RED tockers
+Aos 7.702 minutos, LYN Oddie eliminou RED Nappon
+Aos 9.681 minutos, LYN Oddie eliminou RED Robo
+Aos 9.804 minutos, LYN Oddie eliminou RED tockers
+Aos 13.334 minutos, LYN Oddie eliminou RED Robo
+Aos 24.928 minutos, LYN Seiya eliminou RED Rhuckz
+Aos 26.786 minutos, LYN Seiya eliminou RED Robo
+Aos 26.841 minutos, LYN Jirall eliminou RED Rhuckz
+Aos 27.905 minutos, LYN Seiya eliminou RED tockers
+Aos 27.906 minutos, LYN MarioMe eliminou RED Nappon
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7023
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/280712?gameHash=a42119c25296cdb2
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: KST
+Time Vermelho: LYN
+Vencedor: KST
+Placar: KST: 1 x 0 :LYN
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 21.273 minutos, KST eliminou EARTH_DRAGON
+Aos 7.921 minutos, KST eliminou FIRE_DRAGON
+Aos 34.656 minutos, KST eliminou FIRE_DRAGON
+Aos 27.573 minutos, KST eliminou FIRE_DRAGON
+Aos 14.296 minutos, KST eliminou AIR_DRAGON
+Aos 32.123 minutos, KST eliminou BARON_NASHOR
+Aos 21.72 minutos, KST eliminou BARON_NASHOR
+Aos 39.315 minutos, KST eliminou BARON_NASHOR
+Aos 14.543 minutos, LYN eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 7.879 minutos, KST Yang eliminou LYN Jirall
+Aos 8.199 minutos, KST Juzinho eliminou LYN MarioMe
+Aos 10.382 minutos, KST Yang eliminou LYN Oddie
+Aos 10.475 minutos, KST takeshi eliminou LYN Seiya
+Aos 18.954 minutos, KST takeshi eliminou LYN Seiya
+Aos 19.052 minutos, KST takeshi eliminou LYN Oddie
+Aos 20.891 minutos, KST takeshi eliminou LYN Jirall
+Aos 20.979 minutos, KST Yang eliminou LYN Seiya
+Aos 21.008 minutos, KST takeshi eliminou LYN Genthix
+Aos 21.016 minutos, KST Revolta eliminou LYN Oddie
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7024
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/280730?gameHash=b3d430eb149bb459
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: KST
+Time Vermelho: FG
+Vencedor: KST
+Placar: KST: 1 x 0 :FG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 11.392 minutos, KST eliminou EARTH_DRAGON
+Aos 25.248 minutos, KST eliminou EARTH_DRAGON
+Aos 32.513 minutos, KST eliminou FIRE_DRAGON
+Aos 18.623 minutos, FG eliminou EARTH_DRAGON
+Aos 26.091 minutos, FG eliminou BARON_NASHOR
+Aos 13.485 minutos, FG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.016 minutos, KST Yang eliminou FG prodi
+Aos 23.809 minutos, KST Juzinho eliminou FG Khynm
+Aos 23.964 minutos, KST Yang eliminou FG uri
+Aos 24.321 minutos, KST takeshi eliminou FG Acce
+Aos 29.859 minutos, KST takeshi eliminou FG Tulz
+Aos 30.062 minutos, KST Revolta eliminou FG uri
+Aos 31.866 minutos, KST Yang eliminou FG Khynm
+Aos 32.023 minutos, KST Yang eliminou FG prodi
+Aos 32.041 minutos, KST takeshi eliminou FG Acce
+Aos 32.118 minutos, KST Revolta eliminou FG uri
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7025
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/280731?gameHash=2681caf4f49642a1
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RED
+Time Vermelho: ISG
+Vencedor: ISG
+Placar: RED: 0 x 1 :ISG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.05 minutos, RED eliminou WATER_DRAGON
+Aos 11.885 minutos, RED eliminou FIRE_DRAGON
+Aos 18.479 minutos, ISG eliminou WATER_DRAGON
+Aos 31.309 minutos, ISG eliminou EARTH_DRAGON
+Aos 32.405 minutos, ISG eliminou BARON_NASHOR
+Aos 23.585 minutos, ISG eliminou BARON_NASHOR
+Aos 10.407 minutos, ISG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.749 minutos, RED Nappon eliminou ISG QQmore
+Aos 10.43 minutos, RED Robo eliminou ISG Kindless
+Aos 10.521 minutos, RED Sacy eliminou ISG Pride
+Aos 12.733 minutos, RED Sacy eliminou ISG Kindless
+Aos 12.801 minutos, RED tockers eliminou ISG Newbie
+Aos 15.135 minutos, RED Sacy eliminou ISG QQmore
+Aos 20.635 minutos, RED Robo eliminou ISG Pride
+Aos 23.76 minutos, RED Robo eliminou ISG Kindless
+Aos 33.594 minutos, RED Sacy eliminou ISG Pride
+Aos 5.684 minutos, ISG Pride eliminou RED Robo
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7026
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/280740?gameHash=356bdc6b3e60300e
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RED
+Time Vermelho: FG
+Vencedor: RED
+Placar: RED: 1 x 0 :FG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 30.559 minutos, RED eliminou WATER_DRAGON
+Aos 38.806 minutos, RED eliminou ELDER_DRAGON
+Aos 34.326 minutos, RED eliminou BARON_NASHOR
+Aos 13.316 minutos, RED eliminou RIFT_HERALD
+Aos 11.295 minutos, FG eliminou WATER_DRAGON
+Aos 24.283 minutos, FG eliminou EARTH_DRAGON
+Aos 17.783 minutos, FG eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 16.003 minutos, RED Nappon eliminou FG Khynm
+Aos 16.09 minutos, RED tockers eliminou FG Tulz
+Aos 18.31 minutos, RED Nappon eliminou FG Acce
+Aos 18.592 minutos, RED Nappon eliminou FG Khynm
+Aos 31.983 minutos, RED tockers eliminou FG Khynm
+Aos 33.934 minutos, RED brTT eliminou FG Khynm
+Aos 34.03 minutos, RED brTT eliminou FG Tulz
+Aos 40.915 minutos, RED brTT eliminou FG Khynm
+Aos 41.101 minutos, RED Robo eliminou FG uri
+Aos 41.167 minutos, RED Robo eliminou FG prodi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7027
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/280745?gameHash=190015ed122c9efe
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: KST
+Time Vermelho: ISG
+Vencedor: ISG
+Placar: KST: 0 x 1 :ISG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 15.265 minutos, KST eliminou RIFT_HERALD
+Aos 16.447 minutos, ISG eliminou FIRE_DRAGON
+Aos 30.651 minutos, ISG eliminou WATER_DRAGON
+Aos 10.31 minutos, ISG eliminou FIRE_DRAGON
+Aos 23.873 minutos, ISG eliminou WATER_DRAGON
+Aos 31.89 minutos, ISG eliminou BARON_NASHOR
+Aos 24.557 minutos, ISG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 4.617 minutos, KST takeshi eliminou ISG QQmore
+Aos 7.768 minutos, KST Revolta eliminou ISG Pride
+Aos 9.812 minutos, KST takeshi eliminou ISG Pride
+Aos 11.993 minutos, KST Yang eliminou ISG QQmore
+Aos 14.798 minutos, KST takeshi eliminou ISG Kindless
+Aos 19.348 minutos, KST Revolta eliminou ISG Pride
+Aos 27.284 minutos, KST Revolta eliminou ISG Pride
+Aos 7.036 minutos, ISG Kindless eliminou KST esA
+Aos 9.351 minutos, ISG QQmore eliminou KST Revolta
+Aos 9.445 minutos, ISG Kindless eliminou KST esA
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7028
+SourceAddress: http://matchhistory.las.leagueoflegends.com/es/#match-details/ESPORTSTMNT06/280754?gameHash=0889461d74cb2351
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RED
+Time Vermelho: ISG
+Vencedor: RED
+Placar: RED: 1 x 0 :ISG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.875 minutos, RED eliminou WATER_DRAGON
+Aos 39.59 minutos, RED eliminou ELDER_DRAGON
+Aos 22.606 minutos, RED eliminou BARON_NASHOR
+Aos 38.735 minutos, RED eliminou BARON_NASHOR
+Aos 10.554 minutos, ISG eliminou WATER_DRAGON
+Aos 31.768 minutos, ISG eliminou WATER_DRAGON
+Aos 23.91 minutos, ISG eliminou EARTH_DRAGON
+Aos 12.375 minutos, ISG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 6.058 minutos, RED tockers eliminou ISG emp
+Aos 6.792 minutos, RED Nappon eliminou ISG Pride
+Aos 9.24 minutos, RED Robo eliminou ISG Pride
+Aos 16.851 minutos, RED Rhuckz eliminou ISG Newbie
+Aos 17.139 minutos, RED Nappon eliminou ISG emp
+Aos 17.15 minutos, RED Robo eliminou ISG QQmore
+Aos 21.854 minutos, RED Nappon eliminou ISG QQmore
+Aos 26.897 minutos, RED Rhuckz eliminou ISG QQmore
+Aos 28.8 minutos, RED Nappon eliminou ISG Newbie
+Aos 30.743 minutos, RED tockers eliminou ISG QQmore
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7029
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180083?gameHash=cb05de44e0e6858a
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: GAM
+Time Vermelho: DW
+Vencedor: GAM
+Placar: GAM: 1 x 0 :DW
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 28.146 minutos, GAM eliminou WATER_DRAGON
+Aos 18.65 minutos, GAM eliminou WATER_DRAGON
+Aos 27.196 minutos, GAM eliminou BARON_NASHOR
+Aos 9.725 minutos, DW eliminou AIR_DRAGON
+Aos 18.661 minutos, DW eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 12.404 minutos, GAM Levi eliminou DW Destiny
+Aos 13.879 minutos, GAM Levi eliminou DW k1ng
+Aos 13.957 minutos, GAM Noway eliminou DW Destiny
+Aos 16.242 minutos, GAM Sya eliminou DW Destiny
+Aos 16.256 minutos, GAM Noway eliminou DW shernfire
+Aos 18.3 minutos, GAM Levi eliminou DW Chippys
+Aos 21.021 minutos, GAM Levi eliminou DW Chippys
+Aos 25.48 minutos, GAM Optimus eliminou DW Destiny
+Aos 25.647 minutos, GAM Noway eliminou DW k1ng
+Aos 25.676 minutos, GAM Sya eliminou DW Phantiks
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7030
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180101?gameHash=261eea9f2f3f9722
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: LGC
+Time Vermelho: DFM
+Vencedor: DFM
+Placar: LGC: 0 x 1 :DFM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.238 minutos, LGC eliminou RIFT_HERALD
+Aos 32.841 minutos, DFM eliminou WATER_DRAGON
+Aos 18.425 minutos, DFM eliminou WATER_DRAGON
+Aos 24.941 minutos, DFM eliminou WATER_DRAGON
+Aos 32.038 minutos, DFM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 6.686 minutos, LGC Tally eliminou DFM viviD
+Aos 6.785 minutos, LGC Carbon eliminou DFM Yutapon
+Aos 11.67 minutos, LGC Tally eliminou DFM viviD
+Aos 15.862 minutos, LGC Claire eliminou DFM Steal
+Aos 25.327 minutos, LGC Claire eliminou DFM viviD
+Aos 25.652 minutos, LGC Claire eliminou DFM Ceros
+Aos 29.288 minutos, LGC Claire eliminou DFM Ceros
+Aos 35.457 minutos, LGC Tally eliminou DFM Steal
+Aos 4.197 minutos, DFM Steal eliminou LGC Claire
+Aos 6.634 minutos, DFM viviD eliminou LGC Lost
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7031
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180110?gameHash=e010e89546510428
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: USG
+Time Vermelho: MSK
+Vencedor: USG
+Placar: USG: 1 x 0 :MSK
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 25.56 minutos, USG eliminou WATER_DRAGON
+Aos 10.938 minutos, USG eliminou FIRE_DRAGON
+Aos 18.309 minutos, USG eliminou FIRE_DRAGON
+Aos 27.119 minutos, USG eliminou BARON_NASHOR
+Aos 19.662 minutos, USG eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.417 minutos, USG REMIND eliminou MSK Exosen
+Aos 10.523 minutos, USG Enty eliminou MSK Tgee
+Aos 13.077 minutos, USG apaMEN eliminou MSK Hamezz
+Aos 13.148 minutos, USG Haretti eliminou MSK Tgee
+Aos 13.177 minutos, USG Neo eliminou MSK Znsho
+Aos 15.848 minutos, USG REMIND eliminou MSK Exosen
+Aos 18.046 minutos, USG Neo eliminou MSK Hamezz
+Aos 19.111 minutos, USG REMIND eliminou MSK Hamezz
+Aos 20.237 minutos, USG apaMEN eliminou MSK Exosen
+Aos 24.093 minutos, USG REMIND eliminou MSK Hamezz
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7032
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180117?gameHash=94f86281fdd16ed6
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: DW
+Time Vermelho: RPG
+Vencedor: DW
+Placar: DW: 1 x 0 :RPG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 31.669 minutos, DW eliminou FIRE_DRAGON
+Aos 25.133 minutos, DW eliminou FIRE_DRAGON
+Aos 18.916 minutos, DW eliminou AIR_DRAGON
+Aos 22.239 minutos, DW eliminou BARON_NASHOR
+Aos 31.075 minutos, DW eliminou BARON_NASHOR
+Aos 13.386 minutos, DW eliminou RIFT_HERALD
+Aos 12.7 minutos, RPG eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 11.116 minutos, DW shernfire eliminou RPG Ramune
+Aos 11.26 minutos, DW shernfire eliminou RPG Evi
+Aos 19.598 minutos, DW k1ng eliminou RPG Evi
+Aos 21.579 minutos, DW shernfire eliminou RPG Dara
+Aos 21.631 minutos, DW Phantiks eliminou RPG Tussle
+Aos 21.671 minutos, DW Chippys eliminou RPG Ramune
+Aos 25.749 minutos, DW Chippys eliminou RPG Evi
+Aos 26.692 minutos, DW Chippys eliminou RPG Evi
+Aos 28.191 minutos, DW Chippys eliminou RPG Dara
+Aos 30.657 minutos, DW Chippys eliminou RPG Evi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7033
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180124?gameHash=2eab873f25c6628a
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: DFM
+Time Vermelho: ASC
+Vencedor: DFM
+Placar: DFM: 1 x 0 :ASC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.727 minutos, DFM eliminou EARTH_DRAGON
+Aos 17.282 minutos, DFM eliminou EARTH_DRAGON
+Aos 30.327 minutos, DFM eliminou EARTH_DRAGON
+Aos 34.402 minutos, DFM eliminou BARON_NASHOR
+Aos 27.247 minutos, DFM eliminou BARON_NASHOR
+Aos 11.232 minutos, DFM eliminou RIFT_HERALD
+Aos 11.102 minutos, ASC eliminou AIR_DRAGON
+
+=== ABATES ===
+Aos 3.176 minutos, DFM Steal eliminou ASC Renrin
+Aos 3.928 minutos, DFM Steal eliminou ASC G4
+Aos 6.315 minutos, DFM Steal eliminou ASC Nuni
+Aos 13.438 minutos, DFM Ceros eliminou ASC G4
+Aos 18.831 minutos, DFM viviD eliminou ASC Nuni
+Aos 19.447 minutos, DFM Paz eliminou ASC Lloyd
+Aos 21.726 minutos, DFM viviD eliminou ASC WarL0cK
+Aos 26.684 minutos, DFM Ceros eliminou ASC Nuni
+Aos 26.689 minutos, DFM Yutapon eliminou ASC Lloyd
+Aos 26.725 minutos, DFM viviD eliminou ASC G4
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7034
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180135?gameHash=40dfcc2556607787
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: MSK
+Time Vermelho: SIN
+Vencedor: SIN
+Placar: MSK: 0 x 1 :SIN
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 31.112 minutos, MSK eliminou WATER_DRAGON
+Aos 18.588 minutos, MSK eliminou WATER_DRAGON
+Aos 25.315 minutos, MSK eliminou BARON_NASHOR
+Aos 15.3 minutos, MSK eliminou RIFT_HERALD
+Aos 25.003 minutos, SIN eliminou FIRE_DRAGON
+
+=== ABATES ===
+Aos 2.822 minutos, MSK Znsho eliminou SIN Rogue
+Aos 2.898 minutos, MSK Hamezz eliminou SIN Dhokla
+Aos 3.326 minutos, MSK Kaigu eliminou SIN Dhokla
+Aos 4.689 minutos, MSK Znsho eliminou SIN Juves
+Aos 6.015 minutos, MSK Kaigu eliminou SIN Dhokla
+Aos 7.107 minutos, MSK Znsho eliminou SIN Rogue
+Aos 7.743 minutos, MSK Hamezz eliminou SIN FBI
+Aos 9.476 minutos, MSK Kaigu eliminou SIN Dhokla
+Aos 14.564 minutos, MSK Znsho eliminou SIN Rogue
+Aos 14.806 minutos, MSK Znsho eliminou SIN Juves
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7035
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180145?gameHash=ba2e5f481f8f6772
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RPG
+Time Vermelho: GAM
+Vencedor: RPG
+Placar: RPG: 1 x 0 :GAM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 12.585 minutos, RPG eliminou WATER_DRAGON
+Aos 28.035 minutos, RPG eliminou BARON_NASHOR
+Aos 31.627 minutos, GAM eliminou FIRE_DRAGON
+Aos 25.508 minutos, GAM eliminou WATER_DRAGON
+Aos 18.78 minutos, GAM eliminou FIRE_DRAGON
+Aos 12.978 minutos, GAM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 2.629 minutos, RPG Dara eliminou GAM Sya
+Aos 2.935 minutos, RPG Tussle eliminou GAM Archie
+Aos 7.184 minutos, RPG Evi eliminou GAM Archie
+Aos 9.512 minutos, RPG Dara eliminou GAM Noway
+Aos 9.547 minutos, RPG Dara eliminou GAM Sya
+Aos 13.725 minutos, RPG Tussle eliminou GAM Archie
+Aos 16.959 minutos, RPG Dara eliminou GAM Archie
+Aos 17.262 minutos, RPG Tussle eliminou GAM Sya
+Aos 19.093 minutos, RPG Tussle eliminou GAM Archie
+Aos 21.258 minutos, RPG Tussle eliminou GAM Optimus
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7036
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180154?gameHash=0e769e1453be1901
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: ASC
+Time Vermelho: LGC
+Vencedor: LGC
+Placar: ASC: 0 x 1 :LGC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 23.6 minutos, LGC eliminou EARTH_DRAGON
+Aos 9.435 minutos, LGC eliminou EARTH_DRAGON
+Aos 16.552 minutos, LGC eliminou EARTH_DRAGON
+Aos 24.124 minutos, LGC eliminou BARON_NASHOR
+Aos 18.104 minutos, LGC eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 3.085 minutos, ASC WarL0cK eliminou LGC Carbon
+Aos 7.16 minutos, ASC Renrin eliminou LGC Tally
+Aos 11.746 minutos, ASC WarL0cK eliminou LGC Cupcake
+Aos 11.904 minutos, ASC WarL0cK eliminou LGC Carbon
+Aos 15.22 minutos, ASC Nuni eliminou LGC Cupcake
+Aos 18.578 minutos, ASC Renrin eliminou LGC Cupcake
+Aos 20.19 minutos, ASC G4 eliminou LGC Cupcake
+Aos 20.873 minutos, ASC G4 eliminou LGC Claire
+Aos 22.129 minutos, ASC WarL0cK eliminou LGC Tally
+Aos 22.137 minutos, ASC Renrin eliminou LGC Carbon
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7037
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180167?gameHash=530c080547b01220
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: SIN
+Time Vermelho: USG
+Vencedor: USG
+Placar: SIN: 0 x 1 :USG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.484 minutos, SIN eliminou BARON_NASHOR
+Aos 17.733 minutos, SIN eliminou RIFT_HERALD
+Aos 10.765 minutos, USG eliminou FIRE_DRAGON
+Aos 17.666 minutos, USG eliminou EARTH_DRAGON
+Aos 31.848 minutos, USG eliminou WATER_DRAGON
+Aos 35.469 minutos, USG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 5.897 minutos, SIN ry0ma eliminou USG REMIND
+Aos 6.41 minutos, SIN ry0ma eliminou USG Neo
+Aos 12.557 minutos, SIN FBI eliminou USG apaMEN
+Aos 15.467 minutos, SIN Dhokla eliminou USG apaMEN
+Aos 15.646 minutos, SIN FBI eliminou USG Neo
+Aos 25.589 minutos, SIN Juves eliminou USG Neo
+Aos 25.798 minutos, SIN FBI eliminou USG REMIND
+Aos 25.854 minutos, SIN FBI eliminou USG apaMEN
+Aos 30.122 minutos, SIN ry0ma eliminou USG Neo
+Aos 4.832 minutos, USG apaMEN eliminou SIN Dhokla
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7038
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180174?gameHash=434503fc36cfc04a
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: MSK
+Time Vermelho: SIN
+Vencedor: SIN
+Placar: MSK: 0 x 1 :SIN
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 16.843 minutos, SIN eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.183 minutos, MSK Hamezz eliminou SIN Dhokla
+Aos 4.41 minutos, MSK Tgee eliminou SIN Rogue
+Aos 8.918 minutos, MSK Tgee eliminou SIN Rogue
+Aos 11.02 minutos, MSK Hamezz eliminou SIN FBI
+Aos 12.915 minutos, MSK Exosen eliminou SIN Juves
+Aos 20.01 minutos, MSK Kaigu eliminou SIN Rogue
+Aos 20.299 minutos, MSK Hamezz eliminou SIN Dhokla
+Aos 20.312 minutos, MSK Hamezz eliminou SIN Juves
+Aos 3.571 minutos, SIN Juves eliminou MSK Tgee
+Aos 4.14 minutos, SIN Dhokla eliminou MSK Kaigu
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7039
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180183?gameHash=467786af5abec1e0
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: ASC
+Time Vermelho: SIN
+Vencedor: SIN
+Placar: ASC: 0 x 1 :SIN
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 46.551 minutos, ASC eliminou ELDER_DRAGON
+Aos 29.738 minutos, ASC eliminou WATER_DRAGON
+Aos 22.425 minutos, ASC eliminou FIRE_DRAGON
+Aos 9.716 minutos, ASC eliminou EARTH_DRAGON
+Aos 16.14 minutos, ASC eliminou EARTH_DRAGON
+Aos 35.983 minutos, ASC eliminou ELDER_DRAGON
+Aos 52.002 minutos, ASC eliminou BARON_NASHOR
+Aos 36.926 minutos, ASC eliminou BARON_NASHOR
+Aos 28.951 minutos, ASC eliminou BARON_NASHOR
+Aos 19.678 minutos, ASC eliminou RIFT_HERALD
+Aos 44.697 minutos, SIN eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 11.693 minutos, ASC Nuni eliminou SIN Dhokla
+Aos 14.65 minutos, ASC G4 eliminou SIN ry0ma
+Aos 14.758 minutos, ASC G4 eliminou SIN Juves
+Aos 20.255 minutos, ASC Nuni eliminou SIN Juves
+Aos 21.718 minutos, ASC Lloyd eliminou SIN Juves
+Aos 28.291 minutos, ASC G4 eliminou SIN FBI
+Aos 28.399 minutos, ASC Lloyd eliminou SIN Rogue
+Aos 28.426 minutos, ASC Lloyd eliminou SIN ry0ma
+Aos 36.026 minutos, ASC Lloyd eliminou SIN Juves
+Aos 36.17 minutos, ASC Nuni eliminou SIN ry0ma
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7040
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180188?gameHash=ff4968662c5293c7
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: SIN
+Time Vermelho: GAM
+Vencedor: GAM
+Placar: SIN: 0 x 1 :GAM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 29.081 minutos, SIN eliminou BARON_NASHOR
+Aos 22.322 minutos, GAM eliminou WATER_DRAGON
+Aos 15.945 minutos, GAM eliminou WATER_DRAGON
+Aos 30.249 minutos, GAM eliminou WATER_DRAGON
+Aos 10.721 minutos, GAM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 5.308 minutos, SIN FBI eliminou GAM Sya
+Aos 5.806 minutos, SIN ry0ma eliminou GAM Optimus
+Aos 7.463 minutos, SIN FBI eliminou GAM Sya
+Aos 10.698 minutos, SIN Rogue eliminou GAM Sya
+Aos 12.491 minutos, SIN Rogue eliminou GAM Sya
+Aos 13.022 minutos, SIN FBI eliminou GAM Archie
+Aos 13.162 minutos, SIN Rogue eliminou GAM Noway
+Aos 15.393 minutos, SIN Rogue eliminou GAM Sya
+Aos 21.772 minutos, SIN Dhokla eliminou GAM Archie
+Aos 26.053 minutos, SIN Juves eliminou GAM Levi
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7041
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180193?gameHash=b031fdc2639e8ed6
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: GAM
+Time Vermelho: LGC
+Vencedor: GAM
+Placar: GAM: 1 x 0 :LGC
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 26.802 minutos, GAM eliminou AIR_DRAGON
+Aos 22.29 minutos, GAM eliminou BARON_NASHOR
+Aos 13.816 minutos, LGC eliminou AIR_DRAGON
+Aos 20.152 minutos, LGC eliminou EARTH_DRAGON
+Aos 7.384 minutos, LGC eliminou AIR_DRAGON
+Aos 10.82 minutos, LGC eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 15.183 minutos, GAM Levi eliminou LGC Cupcake
+Aos 24.474 minutos, GAM Levi eliminou LGC Tally
+Aos 26.974 minutos, GAM Noway eliminou LGC Lost
+Aos 27.031 minutos, GAM Optimus eliminou LGC Carbon
+Aos 27.046 minutos, GAM Noway eliminou LGC Cupcake
+Aos 28.2 minutos, GAM Levi eliminou LGC Cupcake
+Aos 28.283 minutos, GAM Noway eliminou LGC Lost
+Aos 28.328 minutos, GAM Archie eliminou LGC Tally
+Aos 28.487 minutos, GAM Noway eliminou LGC Claire
+Aos 28.841 minutos, GAM Optimus eliminou LGC Carbon
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7042
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180199?gameHash=0f63656911284109
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: DW
+Time Vermelho: GAM
+Vencedor: GAM
+Placar: DW: 0 x 1 :GAM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 19.429 minutos, GAM eliminou WATER_DRAGON
+Aos 25.914 minutos, GAM eliminou AIR_DRAGON
+Aos 32.159 minutos, GAM eliminou EARTH_DRAGON
+Aos 30.364 minutos, GAM eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 3.486 minutos, DW shernfire eliminou GAM Archie
+Aos 5.454 minutos, DW Phantiks eliminou GAM Optimus
+Aos 11.851 minutos, DW Phantiks eliminou GAM Archie
+Aos 12.101 minutos, DW Chippys eliminou GAM Levi
+Aos 13.378 minutos, DW Chippys eliminou GAM Optimus
+Aos 16.473 minutos, DW shernfire eliminou GAM Optimus
+Aos 16.523 minutos, DW Phantiks eliminou GAM Levi
+Aos 28.437 minutos, DW Chippys eliminou GAM Levi
+Aos 30.204 minutos, DW Phantiks eliminou GAM Archie
+Aos 30.656 minutos, DW k1ng eliminou GAM Sya
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7043
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180208?gameHash=a18ca91cb2bf8471
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: MSK
+Time Vermelho: USG
+Vencedor: USG
+Placar: MSK: 0 x 1 :USG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 5.473 minutos, MSK eliminou FIRE_DRAGON
+Aos 12.524 minutos, MSK eliminou AIR_DRAGON
+Aos 18.866 minutos, MSK eliminou RIFT_HERALD
+Aos 31.279 minutos, USG eliminou WATER_DRAGON
+Aos 21.493 minutos, USG eliminou WATER_DRAGON
+Aos 29.954 minutos, USG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 10.645 minutos, MSK Tgee eliminou USG Haretti
+Aos 10.808 minutos, MSK Znsho eliminou USG apaMEN
+Aos 17.165 minutos, MSK Znsho eliminou USG REMIND
+Aos 22.929 minutos, MSK Kaigu eliminou USG apaMEN
+Aos 27.797 minutos, MSK Hamezz eliminou USG apaMEN
+Aos 32.475 minutos, MSK Exosen eliminou USG REMIND
+Aos 32.566 minutos, MSK Znsho eliminou USG Neo
+Aos 36.592 minutos, MSK Exosen eliminou USG Enty
+Aos 36.616 minutos, MSK Exosen eliminou USG Haretti
+Aos 36.743 minutos, MSK Kaigu eliminou USG Neo
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7044
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180214?gameHash=cae42f8cec1fb1d5
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: ASC
+Time Vermelho: DFM
+Vencedor: DFM
+Placar: ASC: 0 x 1 :DFM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 20.385 minutos, ASC eliminou BARON_NASHOR
+Aos 30.453 minutos, DFM eliminou WATER_DRAGON
+Aos 9.016 minutos, DFM eliminou AIR_DRAGON
+Aos 36.81 minutos, DFM eliminou ELDER_DRAGON
+Aos 16.444 minutos, DFM eliminou AIR_DRAGON
+Aos 22.803 minutos, DFM eliminou WATER_DRAGON
+Aos 29.709 minutos, DFM eliminou BARON_NASHOR
+Aos 37.29 minutos, DFM eliminou BARON_NASHOR
+Aos 13.663 minutos, DFM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 19.027 minutos, ASC Renrin eliminou DFM Ceros
+Aos 23.724 minutos, ASC WarL0cK eliminou DFM Steal
+Aos 26.271 minutos, ASC Lloyd eliminou DFM Steal
+Aos 26.689 minutos, ASC G4 eliminou DFM Yutapon
+Aos 26.846 minutos, ASC G4 eliminou DFM viviD
+Aos 29.152 minutos, ASC G4 eliminou DFM Ceros
+Aos 33.224 minutos, ASC Lloyd eliminou DFM Steal
+Aos 38.329 minutos, ASC Lloyd eliminou DFM Steal
+Aos 3.259 minutos, DFM Yutapon eliminou ASC Nuni
+Aos 13.853 minutos, DFM Paz eliminou ASC G4
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7045
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180221?gameHash=4bebf5a8c1b91ad7
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: RPG
+Time Vermelho: GAM
+Vencedor: GAM
+Placar: RPG: 0 x 1 :GAM
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 24.005 minutos, GAM eliminou EARTH_DRAGON
+Aos 17.626 minutos, GAM eliminou EARTH_DRAGON
+Aos 31.022 minutos, GAM eliminou WATER_DRAGON
+Aos 27.201 minutos, GAM eliminou BARON_NASHOR
+Aos 11.108 minutos, GAM eliminou RIFT_HERALD
+
+=== ABATES ===
+Aos 4.444 minutos, RPG Dara eliminou GAM Levi
+Aos 4.566 minutos, RPG Dara eliminou GAM Archie
+Aos 14.145 minutos, RPG Tussle eliminou GAM Archie
+Aos 25.849 minutos, RPG YutoriMoyasi eliminou GAM Levi
+Aos 25.927 minutos, RPG Ramune eliminou GAM Sya
+Aos 26.186 minutos, RPG YutoriMoyasi eliminou GAM Archie
+Aos 27.868 minutos, RPG Tussle eliminou GAM Optimus
+Aos 29.648 minutos, RPG YutoriMoyasi eliminou GAM Sya
+Aos 29.816 minutos, RPG Evi eliminou GAM Levi
+Aos 30.354 minutos, RPG Evi eliminou GAM Optimus
+
+==================================================
+
+=== PARTIDA ===
+MatchID: 7046
+SourceAddress: http://matchhistory.na.leagueoflegends.com/en/#match-details/TRLT4/180227?gameHash=ce3fe08ccc08c2d4
+Campeonato: RR
+Ano: 2017
+Fase: International
+Temporada: Summer
+Time Azul: GAM
+Time Vermelho: RPG
+Vencedor: RPG
+Placar: GAM: 0 x 1 :RPG
+
+=== BANS ===
+
+=== OBJETIVOS ===
+Aos 17.133 minutos, GAM eliminou RIFT_HERALD
+Aos 26.995 minutos, RPG eliminou WATER_DRAGON
+Aos 19.486 minutos, RPG eliminou AIR_DRAGON
+Aos 37.453 minutos, RPG eliminou WATER_DRAGON
+Aos 10.383 minutos, RPG eliminou AIR_DRAGON
+Aos 40.119 minutos, RPG eliminou BARON_NASHOR
+Aos 31.474 minutos, RPG eliminou BARON_NASHOR
+
+=== ABATES ===
+Aos 22.146 minutos, GAM Levi eliminou RPG Ramune
+Aos 22.673 minutos, GAM Noway eliminou RPG Tussle
+Aos 31.456 minutos, GAM Sya eliminou RPG Dara
+Aos 31.513 minutos, GAM Optimus eliminou RPG Tussle
+Aos 34.961 minutos, GAM Noway eliminou RPG Dara
+Aos 35.285 minutos, GAM Sya eliminou RPG YutoriMoyasi
+Aos 35.35 minutos, GAM Noway eliminou RPG Ramune
+Aos 4.577 minutos, RPG Tussle eliminou GAM Levi
+Aos 4.646 minutos, RPG Evi eliminou GAM Archie
+Aos 5.385 minutos, RPG Evi eliminou GAM Archie
+
+==================================================
+
