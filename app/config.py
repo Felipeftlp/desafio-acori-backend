@@ -6,9 +6,7 @@ load_dotenv()
 class Settings:
     PROJECT_NAME: str = "LoL Esports Support AI"
     VERSION: str = "1.0.0"
-    
-    GOOGLE_API_KEY: str = os.getenv("GOOGLE_API_KEY", "")
-    
+        
     MODEL_NAME: str = os.getenv("MODEL_NAME", "llama3:latest")
     TEMPERATURE: float = float(os.getenv("TEMPERATURE", 0.2))
     
