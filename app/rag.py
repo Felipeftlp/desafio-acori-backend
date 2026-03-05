@@ -1,7 +1,7 @@
 from langchain_ollama import ChatOllama, OllamaEmbeddings
 
 from langchain_chroma import Chroma
-from langchain_community.document_loaders import DirectoryLoader
+from langchain_community.document_loaders import TextLoader, DirectoryLoader
 
 from langchain_text_splitters  import RecursiveCharacterTextSplitter
 
@@ -37,8 +37,6 @@ def build_vectorstore():
         persist_directory=settings.CHROMA_PERSIST_DIR
     )
 
-    vectorstore.persist()
-
     return vectorstore
 
 def get_qa_chain():
@@ -51,21 +49,21 @@ def get_qa_chain():
 
     llm = ChatOllama(
         model= settings.MODEL_NAME,
-        base_url="http://ollama:11434",
+        base_url="http://localhost:11434",
         temperature=settings.TEMPERATURE
     )
 
     template = """
-    "Você é um analista especialista em Esports e atua como jornalista de League of Legends. "
-    "Responda às perguntas dos usuários sobre escalações, campeonatos e estatísticas usando EXCLUSIVAMENTE "
-    "os trechos de contexto fornecidos abaixo. "
-    "Se a informação não estiver no contexto, diga: 'Minha base de dados atualizada não possui essa informação no momento.' "
-    "NUNCA invente resultados de partidas ou escalações de jogadores.\n\n"
-    
-    "Contexto recuperado:\n{context}"
+        "Você é um analista especialista em Esports e atua como jornalista de League of Legends. "
+        "Responda às perguntas dos usuários sobre escalações, campeonatos e estatísticas usando EXCLUSIVAMENTE "
+        "os trechos de contexto fornecidos abaixo. "
+        "Se a informação não estiver no contexto, diga: 'Minha base de dados atualizada não possui essa informação no momento.' "
+        "NUNCA invente resultados de partidas ou escalações de jogadores.\n\n"
+        
+        "Contexto recuperado:\n{context}"
 
-    "Pergunta do usuário:\n{question}"
-    )
+        "Pergunta do usuário:\n{question}"
+        )
     """
 
     prompt = ChatPromptTemplate.from_template(template)

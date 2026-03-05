@@ -9,7 +9,7 @@ class Settings:
     
     GOOGLE_API_KEY: str = os.getenv("GOOGLE_API_KEY", "")
     
-    MODEL_NAME: str = os.getenv("MODEL_NAME", "llama3.1:8b")
+    MODEL_NAME: str = os.getenv("MODEL_NAME", "llama3:latest")
     TEMPERATURE: float = float(os.getenv("TEMPERATURE", 0.2))
     
     CHROMA_PERSIST_DIR: str = os.getenv("CHROMA_PERSIST_DIR", "./chroma_db")
